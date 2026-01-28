@@ -1,0 +1,40 @@
+# AIOS Project Configuration
+version: 2.1.0
+
+project:
+  name: signifique-imperial-system
+  type: full-stack
+  description: "AI-powered brand strategy system combining INCAS methodology with modern branding theory"
+  created: 2025-01-26
+  status: active
+
+environment:
+  bootstrapped: true
+  bootstrap_date: 2026-01-28T00:00:00Z
+  os: macOS
+  architecture: arm64
+
+workflow:
+  current: full-stack-development
+  phase: active-development
+
+settings:
+  auto_update_status: true
+  quality_gates_enabled: true
+  story_tracking: true
+
+repository:
+  url: "git@github.com:ethelsq/Signifique-Imperial.git"
+  owner: ethelsq
+  visibility: private
+
+development:
+  framework: React 19
+  build_tool: Vite 6
+  language: TypeScript
+  styling: Tailwind CSS
+  ai_provider: Google Gemini
+
+team:
+  owner: ethelsq
+  timezone: America/Sao_Paulo
