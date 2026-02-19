@@ -1,0 +1,266 @@
+squad:
+  id: market-research-elite
+  name: Market Research Elite
+  version: 1.0.0
+  created: 2026-02-19
+  status: active
+
+  description: |
+    Elite squad of market research specialists using 6 complementary frameworks:
+    Porter (structure), Christensen (demand), Zaltman (emotion), McGrath (testing),
+    Eyal (engagement), Fogg (behavior). Sequential research pipeline for deep insights.
+
+  domain: Market Research & Consumer Insights
+  keywords:
+    - market-analysis
+    - competitive-structure
+    - customer-demand
+    - hidden-motivations
+    - assumption-testing
+    - engagement-design
+    - behavior-change
+
+  purpose: |
+    Conduct comprehensive market research using 6 elite frameworks in sequence.
+    From structural analysis → demand identification → emotional discovery →
+    assumption validation → engagement design → behavior change execution.
+
+  target_users:
+    - Product managers entering new markets
+    - Startup founders evaluating market viability
+    - Marketing strategists optimizing customer adoption
+    - Product designers improving user behavior
+    - Business development teams planning market entry
+
+  ideal_use_cases:
+    - Market entry decisions (is market viable + how?)
+    - Product adoption barriers (why aren't customers using it?)
+    - Competitive positioning (how do we differentiate?)
+    - Behavior change programs (how to drive user adoption?)
+    - Customer research (what's really driving demand?)
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# AGENTS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+agents:
+  orchestrator:
+    name: market-research-chief
+    title: Market Research Chief - Orchestrator
+    tier: Orchestrator
+    role: Research coordinator and insight synthesizer
+    description: Directs research using right framework for each question
+    activation: "@market-research-elite:orchestrator"
+    special: "Routes to other agents, integrates findings across frameworks"
+
+  tier_0:
+    - name: michael-porter
+      title: Strategic Diagnostician
+      tier: 0 (Diagnosis)
+      role: Competitive structure analyzer
+      framework: Five Forces + Value Chain
+      activation: "@market-research-elite:michael-porter"
+
+    - name: clayton-christensen
+      title: Demand Analyzer
+      tier: 0 (Diagnosis)
+      role: Jobs to be Done specialist
+      framework: Jobs to be Done
+      activation: "@market-research-elite:clayton-christensen"
+
+  tier_1:
+    - name: gerald-zaltman
+      title: Research Specialist
+      tier: 1 (Master Researcher)
+      role: Deep consumer insight excavator
+      framework: ZMET + Neuromarketing
+      activation: "@market-research-elite:gerald-zaltman"
+
+    - name: rita-mcgrath
+      title: Uncertainty Navigator
+      tier: 1 (Master Researcher)
+      role: Discovery-driven planning strategist
+      framework: Discovery-Driven Planning + Assumption Testing
+      activation: "@market-research-elite:rita-mcgrath"
+
+  tier_2:
+    - name: nir-eyal
+      title: Behavior Analyst
+      tier: 2 (Systematizer)
+      role: User behavior and engagement specialist
+      framework: Hook Model + Habit Loops
+      activation: "@market-research-elite:nir-eyal"
+
+    - name: bj-fogg
+      title: Execution Systematizer
+      tier: 2 (Systematizer)
+      role: Behavior design and persuasion specialist
+      framework: Behavior Model (B=MAP) + Tiny Habits
+      activation: "@market-research-elite:bj-fogg"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# WORKFLOWS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+workflows:
+  market_entry_research:
+    name: Complete Market Entry Analysis
+    description: End-to-end market research from structure to execution
+    phases: 6
+    duration: 10 weeks
+    agents:
+      - michael-porter (week 1)
+      - clayton-christensen (week 2)
+      - gerald-zaltman (week 3)
+      - rita-mcgrath (weeks 4-8)
+      - nir-eyal (week 9)
+      - bj-fogg (week 10)
+
+  competitive_analysis:
+    name: Competitive Structure Analysis
+    description: Understand market dynamics and competitive positioning
+    phases: 2
+    duration: 2 weeks
+    agents:
+      - michael-porter
+      - clayton-christensen
+
+  customer_insight_research:
+    name: Deep Customer Insight Discovery
+    description: Uncover hidden customer motivations and emotional drivers
+    phases: 3
+    duration: 3 weeks
+    agents:
+      - clayton-christensen
+      - gerald-zaltman
+      - rita-mcgrath
+
+  adoption_strategy:
+    name: User Adoption & Behavior Design
+    description: Design for habit formation and behavior change
+    phases: 2
+    duration: 2 weeks
+    agents:
+      - nir-eyal
+      - bj-fogg
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# EXECUTION RULES
+# ═══════════════════════════════════════════════════════════════════════════════
+
+execution:
+  primary_workflow: market_entry_research
+
+  sequence: sequential
+  # Agents work in order - each informs the next
+  # Phase N insights feed into Phase N+1 questions
+
+  parallelization: "within-phase"
+  # Within McGrath's testing phase, multiple tests can run in parallel
+  # But Porter → Christensen → Zaltman must be sequential
+
+  decision_gates:
+    after_porter:
+      question: "Is this market structurally viable?"
+      pass: "Proceed to demand analysis"
+      fail: "Reconsider market choice or reframe positioning"
+
+    after_christensen:
+      question: "Do we have clear job clarity?"
+      pass: "Proceed to emotional research"
+      fail: "Return to Porter/Christensen for better clarity"
+
+    after_zaltman:
+      question: "Do emotional insights align with stated jobs?"
+      pass: "Proceed to assumption testing"
+      fail: "Reconcile contradiction before proceeding"
+
+    after_mcgrath:
+      question: "Have riskiest assumptions been tested and validated?"
+      pass: "Proceed to engagement design"
+      fail: "Iterate testing based on results"
+
+    after_eyal:
+      question: "Are habit loops designed to drive adoption?"
+      pass: "Proceed to behavior execution design"
+      fail: "Refine engagement mechanics"
+
+    after_fogg:
+      question: "Can we reduce friction to desired behavior?"
+      pass: "Ready for market launch"
+      fail: "Re-examine behavior model, simplify action"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# QUALITY STANDARDS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+quality_standards:
+  research_completeness:
+    - "All 6 frameworks applied and integrated"
+    - "No contradictions between framework outputs"
+    - "Clear routing rationale (why use this framework)"
+    - "Integration document synthesizing all findings"
+
+  insight_clarity:
+    - "Specific, actionable recommendations"
+    - "Trade-offs clearly articulated"
+    - "Risk factors identified and prioritized"
+    - "Next steps defined with owner"
+
+  validation:
+    - "Assumptions ranked and tested (McGrath)"
+    - "Findings triangulated across frameworks"
+    - "Emotional drivers confirmed via Zaltman"
+    - "Behavior change mechanics validated"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ACTIVATION
+# ═══════════════════════════════════════════════════════════════════════════════
+
+activation_command: "@market-research-elite:orchestrator"
+
+available_commands:
+  - "@market-research-elite:orchestrator -- Route research questions"
+  - "@market-research-elite:michael-porter -- Structural market analysis"
+  - "@market-research-elite:clayton-christensen -- Demand/jobs analysis"
+  - "@market-research-elite:gerald-zaltman -- Emotional motivation research"
+  - "@market-research-elite:rita-mcgrath -- Assumption testing strategy"
+  - "@market-research-elite:nir-eyal -- Engagement/habit design"
+  - "@market-research-elite:bj-fogg -- Behavior change execution"
+
+documentation:
+  - "README.md - Squad overview and getting started"
+  - "FRAMEWORKS.md - Detailed explanation of each framework"
+  - "WORKFLOWS.md - Available research workflows"
+  - "CASE-STUDIES.md - Example research projects"
+  - "agents/ - Individual agent definitions"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADATA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metadata:
+  frameworks_count: 6
+  agents_count: 7  # 6 specialists + 1 orchestrator
+  tier_distribution:
+    tier_0: 2  # Porter, Christensen
+    tier_1: 2  # Zaltman, McGrath
+    tier_2: 2  # Eyal, Fogg
+    orchestrator: 1
+
+  estimated_research_hours:
+    short_project: 20-30 hours
+    standard_project: 40-60 hours
+    comprehensive_project: 80-120 hours
+
+  complexity: high
+  learning_curve: medium (frameworks are documented and taught)
+  team_size: 7 agents
+
+  created_by: Squad Architect
+  created_date: 2026-02-19
+  version_history:
+    - version: 1.0.0
+      date: 2026-02-19
+      status: released
+      notes: "Initial squad creation with 6 elite minds + orchestrator"
