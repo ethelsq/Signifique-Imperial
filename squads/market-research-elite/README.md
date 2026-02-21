@@ -1,13 +1,15 @@
 # Market Research Elite Squad
 
-**A Symphony of 6 Frameworks for Deep Market Understanding**
+**A Symphony of 8 Frameworks: From Brand Strategy to Behavior Change**
 
 ---
 
 ## Overview
 
-The **Market Research Elite** squad combines 6 complementary frameworks from world-class researchers into a sequential research pipeline. Each framework reveals different truths about markets:
+The **Market Research Elite** squad combines 8 complementary frameworks from world-class researchers into a sequential research pipeline. Each framework reveals different truths about markets, users, and behavior:
 
+- **David Aaker** → Brand strategy & brand equity
+- **Indy Young** → User mental models & task-based research
 - **Michael Porter** → Market structure & competitive dynamics
 - **Clayton Christensen** → Customer demand & jobs to be done
 - **Gerald Zaltman** → Hidden emotions & unconscious drivers
@@ -23,30 +25,66 @@ The **Market Research Elite** squad combines 6 complementary frameworks from wor
 ```bash
 @market-research-elite:orchestrator
 
-Provide market context, and I'll run all 6 frameworks in sequence:
-Week 1: Is the market structurally viable? (Porter)
-Week 2: What jobs do customers need? (Christensen)
-Week 3: What emotions drive decisions? (Zaltman)
-Week 4-8: Which assumptions matter most? (McGrath)
-Week 9: How do we form habits? (Eyal)
-Week 10: How do we reduce friction? (Fogg)
+Provide market context, and I'll run all 8 frameworks in sequence:
+Week 0: What's our brand strategy & equity position? (Aaker)
+Week 1: What are users trying to accomplish? (Young)
+Week 2: Is the market structurally viable? (Porter)
+Week 3: What jobs do customers need? (Christensen)
+Week 4: What emotions drive decisions? (Zaltman)
+Week 5-9: Which assumptions matter most? (McGrath)
+Week 10: How do we form habits? (Eyal)
+Week 11: How do we reduce friction? (Fogg)
 ```
 
 ### For Specific Framework Usage
 ```bash
-@market-research-elite:michael-porter
-@market-research-elite:clayton-christensen
-@market-research-elite:gerald-zaltman
-@market-research-elite:rita-mcgrath
-@market-research-elite:nir-eyal
-@market-research-elite:bj-fogg
+@market-research-elite:david-aaker           # Brand strategy
+@market-research-elite:indy-young            # Mental models
+@market-research-elite:michael-porter        # Market structure
+@market-research-elite:clayton-christensen   # Customer demand
+@market-research-elite:gerald-zaltman        # Hidden motivations
+@market-research-elite:rita-mcgrath          # Assumption testing
+@market-research-elite:nir-eyal              # Engagement design
+@market-research-elite:bj-fogg               # Behavior change
 ```
 
 ---
 
-## The 6 Frameworks (Sequential Pipeline)
+## The 8 Frameworks (Sequential Pipeline)
 
-### 1. **Michael Porter: Five Forces Analysis** (Week 1)
+### 1. **David Aaker: Brand Strategy & Equity** (Week 0)
+*"What brand vision and positioning will drive strategy?"*
+
+Framework: **20 Branding Principles** (brand as asset, brand vision, brand equity)
+
+Use when:
+- Entering new market (need strategic brand clarity)
+- Defining brand positioning and differentiation
+- Building brand equity (awareness, associations, loyalty)
+- Creating brand architecture across product portfolio
+- Understanding brand's strategic role in business
+
+Output: Brand vision (core elements), brand essence, strategic imperatives, brand equity baseline
+
+---
+
+### 2. **Indy Young: Mental Models Research** (Week 1)
+*"What are users actually trying to accomplish?"*
+
+Framework: **Mental Models** (affinity diagrams of user behavior, task-based research)
+
+Use when:
+- Understanding how users think about your domain
+- Identifying user tasks vs. features
+- Creating task-based customer segments (not demographics)
+- Designing products that match mental models
+- Discovering gaps between product and user thinking
+
+Output: Mental model diagrams, user task flows, behavior patterns, segment definitions
+
+---
+
+### 3. **Michael Porter: Five Forces Analysis** (Week 2)
 *"What does market structure tell us?"*
 
 Framework: **Five Forces** (rivalry, suppliers, buyers, substitutes, entry barriers)
@@ -61,7 +99,7 @@ Output: Industry structure assessment, competitive positioning options
 
 ---
 
-### 2. **Clayton Christensen: Jobs to be Done** (Week 2)
+### 4. **Clayton Christensen: Jobs to be Done** (Week 3)
 *"What job do customers really need done?"*
 
 Framework: **Jobs to be Done** (functional + emotional + social jobs)
@@ -76,7 +114,7 @@ Output: Job statements, functional/emotional/social breakdown, competitive threa
 
 ---
 
-### 3. **Gerald Zaltman: ZMET Research** (Week 3)
+### 5. **Gerald Zaltman: ZMET Research** (Week 4)
 *"What emotions and unconscious drivers exist?"*
 
 Framework: **Metaphor Elicitation Technique** + neuromarketing insights
@@ -91,7 +129,7 @@ Output: Metaphor analysis, emotional insights, hidden motivations
 
 ---
 
-### 4. **Rita McGrath: Discovery-Driven Planning** (Weeks 4-8)
+### 6. **Rita McGrath: Discovery-Driven Planning** (Weeks 5-9)
 *"Which assumptions are riskiest and how do we test them?"*
 
 Framework: **Discovery-Driven Planning** (assumption ranking + testing)
@@ -106,7 +144,7 @@ Output: Ranked assumptions, test designs, learning triggers, pivot rules
 
 ---
 
-### 5. **Nir Eyal: Habit Loops** (Week 9)
+### 7. **Nir Eyal: Habit Loops** (Week 10)
 *"How do we get users to engage and return?"*
 
 Framework: **Hook Model** (trigger → action → reward → investment)
@@ -121,7 +159,7 @@ Output: Habit loops, engagement metrics, retention drivers
 
 ---
 
-### 6. **B.J. Fogg: Behavior Model** (Week 10)
+### 8. **B.J. Fogg: Behavior Model** (Week 11)
 *"How do we reduce friction to desired behavior?"*
 
 Framework: **B=MAP** (Behavior = Motivation × Ability × Prompt)
@@ -202,20 +240,22 @@ Output: Habit-forming product design, friction reduction, conversion optimizatio
 
 **Sequential Dependency:**
 ```
-Porter → Christensen → Zaltman → McGrath → Eyal → Fogg
+Aaker → Young → Porter → Christensen → Zaltman → McGrath → Eyal → Fogg
 Each agent's output informs the next agent's input
-No skipping steps
+No skipping steps (order matters!)
 ```
 
 **Decision Gates (Must Pass to Continue):**
-1. After Porter: "Is market structurally viable?" → YES/NO
-2. After Christensen: "Do we have clear job clarity?" → YES/NO
-3. After Zaltman: "Do emotions align with jobs?" → YES/NO
-4. After McGrath: "Have riskiest assumptions been tested?" → YES/NO
-5. After Eyal: "Are habit loops designed?" → YES/NO
-6. After Fogg: "Can we reduce friction?" → YES/NO
+1. After Aaker: "Is brand vision clear and strategically sound?" → YES/NO
+2. After Young: "Do we understand user mental models and key tasks?" → YES/NO
+3. After Porter: "Is market structurally viable?" → YES/NO
+4. After Christensen: "Do we have clear job clarity aligned with mental models?" → YES/NO
+5. After Zaltman: "Do emotions align with jobs and mental models?" → YES/NO
+6. After McGrath: "Have riskiest assumptions been tested and validated?" → YES/NO
+7. After Eyal: "Are habit loops designed to drive adoption?" → YES/NO
+8. After Fogg: "Can we reduce friction to desired behavior?" → YES/NO
 
-If any gate fails → Loop back, don't proceed forward.
+If any gate fails → Loop back, don't proceed forward. Especially important: Aaker & Young set strategic foundation that all other research is built upon.
 
 ---
 
@@ -234,9 +274,12 @@ If any gate fails → Loop back, don't proceed forward.
 
 ## Roles & Tiers
 
-**Tier 0 (Diagnosis):** Porter & Christensen
-- Understand market structure and demand fundamentals
-- Answer "SHOULD we do this?"
+**Tier 0 (Foundation & Diagnosis):** Aaker, Young, Porter & Christensen
+- Aaker: Define brand strategy & positioning
+- Young: Map user mental models & tasks
+- Porter: Understand market structure fundamentals
+- Christensen: Understand demand fundamentals
+- Answer "SHOULD we do this?" + "Are we positioned correctly?"
 
 **Tier 1 (Master Researchers):** Zaltman & McGrath
 - Uncover hidden motivations and validate assumptions

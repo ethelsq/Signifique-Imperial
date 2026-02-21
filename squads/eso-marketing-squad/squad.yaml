@@ -1,0 +1,55 @@
+name: eso-marketing-squad
+version: 1.0.0
+short-title: "Marketing Esotérico"
+description: "Squad de Marketing Digital e Design de Alta Conversão para produtos esotéricos. Estratégia de tráfego, pesquisa de mercado, branding místico e UX/UI de alta conversão."
+author: Signifique Imperial
+license: UNLICENSED
+slashPrefix: eso
+
+aios:
+  minVersion: "4.2.0"
+  type: squad
+
+tags:
+  - marketing
+  - esoterico
+  - trafego
+  - design
+  - conversao
+  - branding
+
+components:
+  tasks:
+    # MenteSaEso01
+    - pesquisa-mercado.md
+    - estrategia-trafego.md
+    - criar-lp.md
+    - analisar-campanha.md
+    - posicionar-marca.md
+    - planejar-funil.md
+    - criar-copy.md
+    - calendario-esoterico.md
+    # EsoDesigner01
+    - design-lp.md
+    - design-criativo.md
+    - audit-ux.md
+    - design-email.md
+    - paleta-esoterica.md
+  agents:
+    - mente-sa-eso01.md
+    - eso-designer01.md
+  workflows: []
+  checklists:
+    - lp-conversion-checklist.md
+    - campaign-launch-checklist.md
+  templates: []
+  tools: []
+  scripts: []
+
+config:
+  extends: extend
+
+dependencies:
+  node: []
+  python: []
+  squads: []

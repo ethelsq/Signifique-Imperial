@@ -1,0 +1,661 @@
+Arquétipos Bakka
+
+Quando falamos, desejamos ser ouvidos. Quando escrevemos, queremos que isso toque de alguma maneira quem nos está lendo e, quando nos dispomos a criar algo, estamos sempre esperando que o resultado possa mudar a vida de al- guém. Esses conceitos se somam de duas maneiras neste material: ao construirmos a B.AKKA, trouxemos uma compilação de nossos estudos, bagagens e referências, mas, mais do que explicativo, temos aqui uma aplicação que serve como norte para novos processos. Compartilhamos o que sabemos para que possamos, assim, au- xiliar na difusão de ideias e verdades individuais. A B.AKKA é um caminho, um dos tantos que podem ser seguidos, para que possamos conhecer um pouco mais de nós e do outro com quem conversamos.
+O uso de arquétipos para a construção de personalidades, posicionamen- tos, ou mesmo para o reconhecimento e aprofundamento acerca de com quem se fala possibilita embasar algo que esteja além de um olhar inicial. Quando se dialoga com um modelo fundamental de construção, é possível ativar camadas que acabam passando despercebidas em um primeiro contato.
+Através de pesquisas, discussões e apoio referencial naqueles que vieram antes de nós, estruturamos este material de maneira a ser uma biblioteca para con- sulta. Mais do que oferecer respostas prontas ou fórmulas mágicas de aplicação, aqui você irá encontrar um olhar mais detalhado sobre perfis e modelos que atual- mente nos cercam.
+Acreditamos que todo conhecimento precisa se tornar horizontal, e dedi- camos nossas habilidades a fazer com que este possa ser acessível aos que se inte- ressarem. Para que o aproveitamento de todos seja possivelmente equivalente, antes de apresentarmos o detalhamento de cada arquétipo encontrado nas cartas, temos um momento preliminar. Um suporte com informações básicas que poderão auxiliar no processo de utilização ou mesmo - e assim esperamos - criar alguma curiosidade acerca de termos que tenhamos apresentado. Um primeiro contato é, também, a oportunidade inicial de descobrimos algo que poderá ser crucial no futuro, e é este o movimento de construção conjunta que faz com que os arquétipos tenham sido usados não somente como temática para a construção do material, mas também o guia que definiu como iríamos abordar cada um deles.
+Temas fundamentais ou conceitos que nos ajudaram a criar este mate- rial foram apresentados brevemente, de maneira a criar uma bagagem inicial para o aproveitamento dos conteúdos. Estes podem bastar, mas podem, também, ser- vir como estopim. Questionar o que está estabelecido, assim como compreender o porquê das coisas acontecerem motiva os melhores questionamentos, e é este o movimento desejado. As melhores ideias são fruto de perguntas que, ao invés de simplesmente acatarem, permitem-se tentar ir mais longe, sem medo das falhas que poderão acontecer, mas sabendo que estas são marcos de grandes descobertas.
+Selecionamos alguns arquétipos para fazer parte desta edição e estes tra- zem em si características fundamentais para a compreensão do momento em que estamos. Em absoluto, não são todos os possíveis arquétipos, mas, baseados em eixos e prioridades, elegemos os representantes fundamentais para este momento introdutório. Porém, assim como as pessoas que não podem se definir por um único olhar, esses podem ser combinados e correlacionados de maneira a entendermos que uma mesma construção pode trazer em si a somatória de diferentes eixos.
+Conseguir fazer um bom uso dos arquétipos é um exercício narrativo. Somente as boas histórias são passadas adiante, e é preciso cuidado e atenção ao criar algo. Conforme é obtida uma associação do que é dito com o sentimento de pertencimento de cada um, é possível mobilizar um número maior de pessoas. Mas, ao mesmo tempo em que se busca um sentimento de representação, é fundamental destacar-se diante de tudo o que ocorre ou é criado. Equilibrar esses elementos é encontrar um caminho para compartilhar verdades.
+Ao compreender que há algo que pode ligar diferentes grupos, é possível se preparar para os seus usos e estratégias. Cada arquétipo listado está organizado com características de luz e sombra [força positiva e antagônica], o que não é neces- sariamente um julgamento do que é bom ou ruim, mas um indicativo de atenção para o fato de que, às vezes, por mais que tenhamos o desejo de construir algo fundamen- talmente bom, é possível resultar em algo diferente.
+Um olhar mais atento às nuances que compõem cada coisa é o caminho sem volta pelo qual passamos e esperamos que essa leitura, e a curiosidade que ela possa causar, gere em você o mesmo movimento de construção e questionamento conjunto. Temos aqui um caminho para se perder, para se perguntar e para, final- mente, encontrar a melhor rota para o que deseja.
+Conversar e partilhar ideias mostra coisas que, por vezes, deixamos es- quecidas, seja por não dominarmos o tema completamente, seja por sabermos que talvez aquele resultado nos deixe desconfortável. Mas desejamos que, para além do que está estabelecido, possa criar e descobrir um novo olhar.
+
+ARQUÉTIPOS
+Há um certo conforto quando vivemos o sentimento de reconhecimento, como quando nos deparamos com um rosto familiar em meio à multidão, ou na escolha de um caminho que temos a certeza de por onde devemos seguir. É como se algo pudesse nos afirmar que aquela é a decisão correta e que poderemos seguir com segurança por onde desejamos. E, para que tenhamos essa impressão, é preciso que o objeto com o qual nos deparamos não seja efetivamente novo, mas sim que tenha um se- gundo olhar, ou mesmo a somatória das referências que temos em nossas vivências que, quando unidas em uma fração de segundo, resultam em uma resposta: certeza.
+Sentimos isso em escalas diferentes, como ao reconhecer uma alternativa correta em meio às outras que parecem impossíveis de serem escolhidas, ou quando sabe- mos exatamente qual presente dar para um amigo próximo. Mas esse mesmo sen- timento nos acompanha em escalas mais sutis, e diversas vezes sequer nos damos conta que somente nos deixamos levar e seguimos nossas escolhas como se algo sempre estivesse ali.
+Imaginamos que, até agora, essa explicação se aplique diretamente à vida de cada um que está do outro lado dessas páginas, afinal, já passaram por esses e outros tantos exemplos práticos de reconhecimento, mas vamos dedicar ainda mais aten- ção e nos perguntar: se o preparo e o “re-conhecer” possibilitam essa familiaridade, como decisões iguais podem ser tomadas por pessoas com bagagens diferentes, ou sentimentos podem ser vividos de uma mesma maneira, sem que haja uma relação direta entre as pessoas?
+Um dos caminhos para explicar esse movimento é o conceito de arquétipos.
+Utilizado pela primeira vez por filósofos neoplatônicos, como Plotino, temos uma ideia primordial ao que aplicamos para os arquétipos neste material. Vemos que esse formato se baseava no conceito de que o mundo partia da divisão entre o Mundo das Ideias e o Mundo dos Sentidos, que consiste em: por detrás deste mundo material em que vivemos, existe um outro, composto por todas as ideias primordiais, perfei- tas e eternas, que nos trazem referência para o que vemos ao nosso redor.
+Vivemos no tangível Mundo dos Sentidos e podemos, então, dar materialidade para tudo o que já orbita em nosso imaginário. Para deixarmos a ideia mais visual e usar- mos o nosso estimado conceito de reconhecimento, vamos pensar em uma cadeira. Cada um que leu este pedido imaginou uma cadeira diferente, com cores, formas, quantidade de pés, presença ou não de braços e tantas outras variáveis que só dependem da bagagem de cada um para que seja desenhada, mas a essência dessa cadeira continua sendo a mesma, e, se compararmos nossas ideias, veremos que entraremos em acordo de que todas se tratam de uma simples cadeira. A forma que damos às ideias são fiéis aos conceitos mais essenciais.
+Passados alguns anos e tantos outros estudiosos que se valeram dos conceitos para embasar suas teorias, chegamos a um dos nossos grandes focos de pesquisa. O psi- canalista Carl Gustav Jung, que acreditava em arquétipos como personagens uni- versais que todos nós temos em nosso Inconsciente Coletivo, em todo o mundo. Os arquétipos nos evocam emoções, causam sensações e fazem com que tenhamos determinadas reações à medida que nos deparamos com cada um deles.
+Decorrente de seus estudos, Jung, dentre outros conceitos, separou a psique huma- na entre o Consciente, Inconsciente (como já era utilizado anteriormente) e Incons- ciente Coletivo, e este terceiro seria onde estão as imagens mais primitivas, e essas lá habitam desde os primórdios do ser humano. Desde o princípio, as pessoas repre- sentam modelos humanos fundamentais em suas criações e personagens, e, para conseguir catalogar estes princípios, Jung separou os arquétipos em tipos básicos que trazem em suas construções: características, motivações e conjuntos de valores, significados e personalidades diferentes.
+A partir do momento em que conseguimos agrupar comportamentos e personalida- des em segmentos, podemos direcionar nossa atenção para algumas características que parecem definir e se repetir em integrantes de um mesmo grupo. Nossas simi- laridades são como um fio que nos liga e faz com que consigamos reconhecer no outro algo de nosso, e, partindo desse espelhamento, acabamos por compreender quais são as maiores necessidades ou verdades impressas em cada um. Conhecer o outro é, também, parte do processo de nos vermos como realmente somos, e com- preendermos que grande parte do que acreditamos ser um conceito de definição é, na verdade, somente uma das maneiras que cada indivíduo ou situação apresenta perante nosso olhar.
+Quando aplicamos o conceito de arquétipos sobre marcas ou personalidades, é preciso ter clareza sobre um ponto: cada observador altera o objeto observado. Ou seja, nossa bagagem e conhecimentos estão diretamente ligados aos pontos que mais irão chamar a nossa atenção, e, partindo desse ponto, iremos desenhar aquilo que vemos. Para que as experiências sejam completas, nos deixamos envolver pela atmosfera que foi criada, como quando vemos o último episódio de uma série e, ao
+término, vamos voltando, pouco a pouco, para a realidade que nos rodeia, ou quando vamos a um show e a banda que ocupa o palco parece que foi criada justamente para fazer com que possamos viver aquele instante. Esse cantor, sobre o palco com suas roupas, coreografias e movimentos coordenados com a banda que o acompanha, é, naquele instante, a manifestação de um arquétipo.
+Em um instante de magia, pouco nos interessa o que está para além da cena, do pal- co ou das coisas que saem de uma cartola. O que nos interessa é estar envoltos na imagem que foi criada, para que possamos, assim, viver aquele momento de maneira plena, e, quanto melhor essa experiência, maior será nosso movimento de êxtase. Mas não podemos acreditar que, em absoluto, há somente um arquétipo que pode apresentar-se em cada um. Todos somos sujeitos plurais e, dependendo do estímulo que recebemos, desejamos nos manifestar de uma ou outra maneira.
+Marcas também se comportam assim. Por mais que se alinhem mais a um ou outro eixo, é essa fluidez em transitar que permite que se crie campanhas inovadoras ou tenhamos a sensação de “é claro que eles fizeram isso” como se este caminho fosse óbvio, mesmo tendo sido aplicado pela primeira vez nesse instante. Conseguir uti- lizar os arquétipos para diagnosticar quais comportamentos ou manifestações são mais relevantes é parte de um conhecimento que vai para além da comunicação inicial de o que está sendo oferecido.
+As narrativas que construímos acerca de celebridades, marcas, personagens ou mesmo pessoas com as quais convivemos diariamente são fruto da somatória de referências e influências que absorvemos ou reconhecemos. A amplitude do sentido é o mecanismo que alimenta o nosso interesse ou espelhamento, e somente tendo uma ideia mais ampla de como ocorre este meandro é que podemos efetivamente nos valer daquilo que compreendemos.
+Os arquétipos são modelos estruturais que estão presentes em todos os segmen- tos de nosso entendimento e, por mais que possam não ser reconhecidos em um primeiro ou rápido olhar, estes são ativados de acordo com a sua relevância. Se o entendimento de como algo funciona é o que nos distancia da magia - por exemplo, compreender como uma lâmpada se acende depois que apertamos o interruptor -, nos debruçarmos sobre os conceitos que permeiam a mente, e a metodologia possí- vel é o referencial com o qual nos apegamos ao nos sentirmos confortáveis perante determinados modelos. Nossa mente apresenta camadas que, quando somadas, re- sultam no que reconhecemos como nós em relação ao todo e também ao eu.
+Trazemos aqui uma explicação um pouco mais detalhada daquilo que está por detrás dos estudos de arquétipos. Se falamos de camadas de reconhecimento, este con- ceito está aplicado em um contexto, e o saber prévio facilita a compreensão daquilo que é apresentado.
+
+O ID, EGO E SUPEREGO
+
+A nossa personalidade é mais do que um conceito linear. Não é simples compreender o que nos motiva ou direciona para determinadas ações ou construções empáticas, pois somos a somatória de camadas mentais que trabalham simultaneamente em diferentes instâncias.
+Em um dia comum, somos bombardeados com diferentes informações, cumprimos tarefas, tomamos decisões, formulamos ideias e criamos planos para o futuro. Em maior ou menor escala, temos diariamente o contato com diversas situações e, es- tas, quando somadas, resultam no balanço que fazemos no final do dia ou da jor- nada. Quando apresentamos esses conceitos em camadas, podemos visualizar que nossa mente se ocupa de mais do que uma atividade simultaneamente. Enquanto passamos o café, podemos escolher mentalmente com que roupa iremos nos vestir, ou, quando precisamos tomar uma decisão séria, ativamos todos os prós e contras que esta poderá assumir. Mesmo que não estejamos conscientemente pensando em algo, é como se essa janela de conhecimento estivesse ativa e sendo trabalhada por parte de nossa mente.
+Um conceito que se aplica ao processo de separação da mente é a aplicação de Ego, Id e Superego construída por Freud, e cada um deles é responsável por um aspecto de nossa personalidade e se aplicam a maneiras com as quais nos relacionamos com nós mesmos e com nosso alinhamento com o outro. Em linhas gerais, podemos de- finir estes conceitos em:
+id
+O que há de mais inato em todos nós. Ligado à manifestação de nossos instintos primários, esta camada se mantém completamente inconsciente e relaciona-se com pulsões e impulsos orgânicos. Movido pelo desejo de prazer, soluciona nossas in- quietudes com um caminho linear que visa somente à resolução daquilo que nos deixa tensos, desconhecendo valores éticos, morais ou socialmente construídos. Aqui estão as respostas automáticas que nossa mente encontra para nos levar a um status de prazer.
+ego
+Nosso aspecto racional que, para além do nosso desejo, busca com parcimônia equi- librar o que queremos que seja feito com as atitudes morais que podemos tomar. Funcionando como um filtro para os nossos instintos, manifestamos a razão ou a racionalidade com a qual se deve lidar com os estímulos recebidos. Associado ao conceito de realidade, busca encontrar uma maneira de suprir as necessidades diag- nosticadas, estando sempre em acordo com o que pode ser feito naquele instante.
+superego
+Construído a partir do Ego, aqui há a relação entre aquilo que socialmente aprende- mos e o que consideramos ser a melhor resposta para determinada demanda. Este seria o conceito que nos mostra se determinada atitude ou pensamento são ética e moralmente aceitos, e este crivo é construído a partir de todos os conceitos e valo- res aos quais somos apresentados desde a primeira infância. Sempre em relação de conflito com o Id, temos aqui a manifestação da sociedade e cultura sobre o nosso próprio eu.
+Para aplicarmos a relação entre estes conceitos em uma situação corriqueira, imagi- nem que você se depara com uma atraente sobremesa em uma geladeira comparti- lhada. O doce não é seu, mas o Id, não se importando com isso te incita a comê-la, afinal, ela parece incrível; o Ego pensa em estratégias para que você possa comer, talvez um pedacinho e um bilhete avisando o ocorrido, ou perguntar para todos de quem é e se pode compartilhar; e o Superego é o sentimento que faz achar inaceitá- vel que você simplesmente cogite comer o que não é seu baseado em uma suposta impunidade. Para a psicanálise, é preciso que essas três forças trabalhem em conjun- to para que se possa alcançar o equilíbrio desejado para uma vida tranquila.
+O INCONSCIENTE
+13
+   Para além de tudo o que temos consciência de saber e aplicamos voluntariamente nas situações necessárias, quando trabalhamos o conceito de arquétipos, é preciso ter clareza acerca de um outro ponto fundamental: o conceito de Inconsciente.
+Como uma camada que abrange nossas vivências, relações entre temas, experiên- cias e memórias - reais ou afetivas - o Inconsciente funciona como um palácio mental, onde arquivamos e eventualmente consultamos os conhecimentos que adquirimos com o tempo. E, quem define quais são os conteúdos que passam do Consciente para o Inconsciente, segundo Jung, é o nosso Ego, que, como um maestro, organiza nossas ideias e consegue atribuir valores, mantendo-as onde estão ou realocando para um espaço mais profundo.
+Em uma breve análise do conceito de Inconsciente, nos deparamos com dois estudos fundamentais, sendo eles:
+freud
+Que defendia a existência de um subconsciente ou pré-consciente que se definiria como a somatória de acontecimentos mentais que estão disponíveis para se torna- rem conscientes, assim que se tornem necessários, e quem coordena esse processo é o determinismo psíquico. O inconsciente, por outro lado, seria uma camada mais profunda e com níveis às vezes inconsultáveis. Seria esse o campo do Id, enquanto Ego e Superego transitam entre os níveis do Consciente e Inconsciente.
+jung
+Separava o conceito em duas categorias, o inconsciente pessoal e o inconsciente co- letivo. No Inconsciente Pessoal, estão todas as referências que adquirimos ao longo da vida, mas no Coletivo estão forças e saberes universais que foram sendo adquiri- dos no decorrer de gerações, estando, entre estes, os arquétipos. Para Jung, o que habita este espaço não se relaciona a conhecimentos individuais e sim algo ao que podemos remeter para além do que sabemos - justificando, assim, processos de re- conhecimento ou compreensão que parecem orgânicos a nós, mesmo não podendo traçar claramente um processo de origem.
+Ao trabalharmos o uso de arquétipos, devemos debruçar uma atenção especial ao Inconsciente Coletivo, afinal, quando desejamos transmitir algo a um grupo de pessoas, é preciso saber quais são os gatilhos ativados e onde tais referências se manifestam.
+Em termos gerais, podemos afirmar que o conceito de Inconsciente Coletivo se or- ganiza como uma herança. Um saber ancestral que se manifesta sempre que precisa- mos, e está tão ligado e enraizado ao nosso conceito de Eu, que passa despercebido e o tomamos como uma parte constituinte e indissociável do que acreditamos ser nós mesmos. Algumas imagens habitam esse espaço, esses são os arquétipos que se mantêm ali, latentes e prontos a serem utilizados em um momento de necessidade de reconhecimento. Não nos lembramos efetivamente dessas memórias, mas temos algo como uma predisposição hereditária que nos direciona a reagir de determinada maneira quando nos deparamos com elas.
+Os arquétipos se apresentam, então, como modelos universais e idênticos a todos os indivíduos, e estes são ativados à medida em que se tornam necessários. Jung levanta alguns arquétipos primordiais que se manifestam por meio da cultura, reli- giosidade, sociedade e outros elementos que compõem construções coletivas. Estão entre eles: o nascimento, a morte, o fogo, o Sol, a Lua e a mãe. A relação com esses elementos nos traz um sentimento de pertencimento e reconhecimento logo em um primeiro contato, e a esta relação podemos associar o processo de ativação de ar- quétipos. Além disso, somente através do equilíbrio entre os conceitos de conscien- te e subconsciente que se pode ter uma vida plena.
+Mas para que possamos partilhar esse momento de reconhecimento é preciso que tenhamos alguma ligação com as imagens e referências com as quais nos depara- mos. Essas imagens e referências são lidas como símbolos.
+SÍMBOLOS
+Quando desejamos transmitir algo por meio de imagens, temos a grande preocupa- ção de como isso poderá ser visto, qual a melhor maneira para que seja construído, se devemos usar cantos retos ou arredondados, ou mesmo quais cores devem ser aplicadas para que tenhamos a atenção desejada. Neste momento, por mais que utilizemos o termo símbolo para nos referirmos a essa representação, muitas vezes o que resulta deste processo é um simples sinal. Pode parecer desnecessária a diferen- ciação entre estes dois termos, mas para que seja possível, não somente empregar de maneira correta, mas saber em que momento devemos nos valer de cada um, é preciso conseguir diferenciar, logo em um primeiro momento, o que há de consti- tuinte em cada um dos termos.
+O trânsito se coordena por seguir regras claras. Somente é possível que todos os carros sigam as direções que desejam, pois cada motorista, dentro de seu aspecto particular, repete as regras e condutas estabelecidas para o conjunto. Como ferra- menta indicativa, temos as placas que nos dizem de maneira imperativa o que deve- mos fazer naquele instante. Pare, siga, mantenha essa ou aquela velocidade, cuidado com a travessia de animais ou saia na próxima à direita para pegar a rodovia desejada são construções que trazem em si um sentido único e de fácil absorção. As placas em uma estrada são os sinais que permitem que as engrenagens do trânsito sigam funcionando. Os Sinais representam conceitos sensíveis, ou seja, que estão em alguma instância passíveis de serem sentidos. É como se tivéssemos uma explicação linear para o que significam e estes se associam a uma mensagem direta.
+Para os Símbolos temos uma construção composta por camadas. Conseguimos as- similar o significado que ela passa de maneira, às vezes, tão rápida quanto os sinais, mas estes são fruto de uma somatória de saberes e conhecimentos assimilados de maneira múltipla durante toda a nossa jornada construtiva. Para além do significado que atribuímos instantaneamente, há toda uma carga de definições que acompa- nham sua construção.
+Em O homem e seus símbolos - Concepção e organização de Carl G. Jung - temos o exemplo do caso de um indiano que, após uma visita à Inglaterra, voltou e contou aos seus conhecidos que os ingleses cultuavam diversos animais, pois, ao visitar igrejas, percebeu a frequente presença de leões, águias e bois. Esta interpretação contem- pla somente um primeiro olhar sobre o que está representado. As imagens eram, sim, de animais, mas o que não era do conhecimento do observador indiano era o conceito que havia por detrás desses elementos. Para os cristãos - por mais que esse significado hoje escape a uma parcela destes - os animais representados são símbo- los dos evangelistas. Símbolos como esses pressupõem um conhecimento pontual, mas nem sempre isso é necessário: temos símbolos como a roda, por exemplo, que carregam por si um conhecimento universal.
+Quando nos permitimos utilizar símbolos para comunicar uma ideia, devemos ter em mente que o entendimento vai além da representação que se manifesta ime- diatamente. Ligamos neste momento o ato de observar com o entendimento que abrange, de maneira mais ampla, conceitos inconscientes. Saber trabalhar com o que remete unido ao que mostra é o que nos permite o sentimento de contempla- mento e pertencimento. As ideias extrapolam o limite da razão e nem sempre é ne- cessário um conhecimento ou vivência física para que tenhamos a certeza de que compreendemos o que aquilo quis nos dizer.
+Ao desejarmos transmitir algo que vai além dos primeiros segundos de reconheci- mento, utilizamos símbolos para exprimir, em imagens, conceitos que acabam não tendo a mesma amplidão de significados do que uma descrição que, dependendo do tema abordado, torna-se impossível por jamais ter sido efetivamente contemplada por alguém, como é o caso das linguagens simbólicas utilizadas pelas religiões.
+Nossas ferramentas para o entendimento consciente do mundo são limitadas. Con- seguimos ver até somente determinado tamanho ou distância, ouvimos em um li- mitado intervalo de frequências, e nem sempre é possível tocar para que possamos provar que algo existe. As limitações físicas e de conhecimento que nos definem são, também, aquelas que nos distanciam de absorver o conhecimento e a definição plena e completa de todos os elementos. Mas, quando tais elementos passam a uma camada mental, é possível que as habilidades somem-se aos conhecimentos e que o nosso entendimento passe a representar algo além de um olhar taxativo e superficial sobre o objeto.
+Fazer com que os elementos tornem-se construções completas é o que nos permite criar e reconhecer significados amplos aos símbolos e, dessa maneira, ter um en- tendimento que pode se aplicar a esferas diferentes de nossa vida. Por mais que eventualmente não saibamos a explicação direta do que observamos, algo em nós está confortável com toda a bagagem de significados aos quais fomos expostos e essa sensação nos cria o sentimento de reconhecer a si ou ao outro em um símbolo aplicado.
+E QUANTO A NÓS
+O conhecimento acerca do que nos define faz com que tenhamos uma maior clareza sobre o que ocorre. Compreender conceitos como as manifestações da psique hu- mana não é somente do interesse de quem trabalha com a psicologia, mas uma fer- ramenta fundamental a todos que estão, de alguma maneira, lidando com o público ou mesmo a nós, inseridos na sociedade.
+Os conceitos de consciente e inconsciente influenciam cada tomada de decisão, cada nível de empatia que construímos com relação a algo e reconhecimento sobre quem somos. Quando desejamos construir algo que impacte o outro ou que nos re- presente, é mais simples quando temos clareza sobre como as coisas se organizam. Os arquétipos são constantes e conseguir retirar deles aquilo que desejamos é trazer aquilo que há de mais profundo em nós para o conhecimento geral.
+As histórias que ficam marcadas em nós sempre apresentam um valor arquetípico, à medida que estão ali representando algo que conversa com quem nós somos. Há algo que, apesar de ter sido construído para o consumo geral por pessoas com dife- rentes bagagens ou conhecimentos, consegue, em diversas intensidades, ativar um sentimento que nos define e se mantém com uma individualidade capaz de fazer com que nos sintamos parte daquela construção. Este reconhecimento é o caminho sempre buscado para que se possa fazer com que, para além do consumo do que é ofertado, crie-se uma atmosfera de comoção e adesão - mesmo que pela negativa.
+Conseguir nos enxergar como sujeitos ativos faz com que as coisas não pareçam tão frias, e saber quais arquétipos devem ser ativados nesse momento de construção é aproximar do indivíduo na mesma intensidade com que se representa o coletivo.
+O princípio do reconhecimento é poder no- mear as coisas. Se voltarmos ao exemplo da cadeira que nos propõe que, ao falar a palavra “cadeira”, o ou- vinte e o locutor criam em suas mentes uma imagem que, apesar de poder variar em seus detalhes, acaba referindo-se ao mesmo objeto, devemos pensar: quan- to demoraria para fazer o processo inverso? Se não ti- véssemos um termo cunhado para designar o objeto, sempre que fôssemos nos referir a ele teríamos que fazer um longo exercício descritivo acerca de sua cons- trução, funcionalidade, processo de produção, mate- riais e tantas outras variáveis.
+A psicanálise baseia-se, dentre outros pi- lares, em um conceito semelhante. Ao falarmos e ao nos ouvirmos falar sobre algo, empregamos nomes e, ao nomear, conseguimos tangibilizar o que está sendo sentido ou vivido. Dar nomes às coisas faz com que elas possam efetivamente existir e serem representadas.
+Estamos inseridos em nosso tempo, somos parte dele e nos construímos constantemente de acor- do com as referências com as quais nos deparamos. Hoje, por exemplo, nossos ídolos se apresentam em um patamar mais acessível. Não nos espelhamos somente em símbolos religiosos, mas conseguimos, com escalas e focos diferentes, apresentar idolatria por pessoas que se destacam na mídia, e dedicamos um tempo ainda maior aos conteúdos produzidos para TV, rádios e po- dcasts, influenciadores, líderes em seus segmentos, ou mesmo artistas que, com o conteúdo que produzem, conseguem fazer com que nos vejamos espelhados em alguns pontos que consideramos nos representar.
+Estar nesse relacionamento com nossos ob- jetos de desejo acaba direcionando o que acreditamos que podemos ser. Representatividade nesse momento importa. É prazeroso e acolhedor quando podemos ver alguém que se pareça física ou socialmente conosco, e, assim, temos a validação que necessitamos para con- seguir ir mais longe, afinal, se é possível para aquele, também poderá ser para nós. Essa não é uma dinâmica particular do nosso tempo e não é uma necessidade do encontro de gerações que vivemos hoje. Essa é uma de- manda que permeia as vontades humanas. Desejamos nos ver, desejamos reconhecer nossas necessidades e, assim, conseguir alcançar o patamar que nos é almeja- do. Mas, para isso, é preciso que consigamos dar nome, rosto e uma carga de significados àquilo que deseja- mos.
+Ao darmos voz a um número maior de arqué- tipos, foi possível trazer um reconhecimento mais es- pecífico. Ao trabalharmos com esses modelos que são recorrentes na vida e processos de escolha, trazemos de maneira aplicada os conceitos que antes pareciam tão distantes ou difíceis de serem utilizados. É preciso que os conhecimentos teóricos consigam ser reais, pois somente assim trazemos um olhar coletivo acerca dos elementos.
+O PRÍNCIPE E O BARBA AZUL
+Os modelos com os quais estamos acostu- mados acabam trazendo em si uma polarização. É fácil que tenhamos identificação com personagens herói- cos ou modelos de sucesso que parecem reluzir ao brilho de suas conquistas, mas é ingênuo o nosso pro- cesso em acreditar que uma característica pode defi- nir, de maneira fundamental, quais são as aspirações ou condutas que definem nosso objeto de análise.
+Um mesmo personagem pode carregar em si o Príncipe e o Barba Azul, e isso não muda qual o ca- minho que decide trilhar, somente abre a oportunida- de de escolher, mediante suas influências e momentos para tomada de decisões, qual traço desejará ter mais latente. Todos nós nos construímos dessa maneira, so- mos resultados das circunstâncias e, dependendo do desejo que nos move a cada instante, podemos esco- lher o que melhor nos cabe.
+A construção de personalidades que não se baseiam somente na luz de cada característica é fun- damental para que possamos alcançar a profundidade que dialoga com nossos aspectos humanos. Estamos em um momento de exposição constante, e isso faz com que sempre tenhamos o embate entre como transmitir a verdade e, ao mesmo tempo, conseguir ser um modelo a ser seguido, já que a verdade nem sempre é tão interessante ou motivadora.
+Quando nos deparamos com histórias, ne- cessitamos, cada dia mais, de construções que pos- sam ser aplicadas à nossa realidade e que tenhamos, assim, o conforto de estarmos inseridos em um mes- mo contexto e circunstância. Diferentes públicos de- mandam referências distintas, e é preciso saber com quem se deseja falar para que seja possível criar uma comunicação assertiva. Ao nos valermos de arquéti- pos como modelos fundamentais, é possível criar uma ligação entre os dois pontos desse processo: quem irá consumir o que foi produzido tem determinados gostos, preferências, histórias ou necessidades que podem se associar a diferentes arquétipos, por outro lado, o objeto construído também tem suas próprias características, e essas podem ser fruto de um arqué- tipo representativo do público, ou mesmo de um anta- gonista que se constrói mediante referências comple- mentares, porém opostas.
+Ao compreender que sempre há uma plura- lidade de significados em um mesmo elemento, é pos- sível trabalhar com características boas e ruins, assim como saber quais poderiam ser as reações quando expostos a situações conflituosas. Não se pode criar uma história composta somente por coadjuvantes, e o que torna os personagens principais tão relevantes é justamente a possibilidade de conhecer a luz e sombra que os compõem.
+Trazemos em cada arquétipo apresentado essa construção polarizada, o que permite, em um processo de criação ou combinação, nos dedicarmos a compreender quais são os possíveis desdobramen- tos para aquele que foi eleito. É preciso traçar um pa- norama da personalidade, mas vislumbrar também o cenário e situações às quais seria exposto, para que, somente assim, seja possível ponderar e equilibrar a dicotomia construída.
+TEMPOS DE INFORMAÇÃO
+O acesso ao conhecimento, notícias, infor- mações ou conceitos tem se tornado cada vez mais simples e recorrente. Por esse motivo, nossa capaci- dade de absorção segue regras novas e diferentes do que vivemos em outros tempos. Hoje não temos mais a imprescindível necessidade de decorar tudo aquilo a que somos expostos, pois temos sempre a constante possibilidade de acessar e recorrer a fontes de pesquisa para validarmos nossas lembranças ou confirmar- mos uma ideia.
+Se antes trabalhávamos com a verdade subjetiva da lembrança de cada um, hoje podemos encerrar embates com uma simples pesquisa ou busca online. Isso não apresenta por si uma perda de valores, mas uma mudança de hábitos com a qual precisamos saber lidar. O livre acesso à informação faz com que não tenhamos a construção de vínculos mais profundos com o que consideramos relevante, e dificilmente desenvolvemos o hábito de validar ou nos aprofundar em notícias que recebemos.
+O que há de ambíguo nisso? Se antes tínhamos acesso a fontes restritas e acabávamos condicionando nossas verdades a uma única fonte ou pensador, hoje nossa limitação acaba sendo análoga, justamente por podermos acessar mais frentes e não termos esse hábito. Uma manchete é mais atrativa do
+que todo um artigo comparativo e muitas vezes reproduzimos informações sem que essas sejam validadas.
+Muito desse processo está ligado ao fato de que não sabemos exatamente sobre o que desejamos nos informar. Há um exercício interessante de absorção que consiste basicamente em: após assistir a um programa de telejornal, paramos por alguns instantes e tentamos recapitular quais foram as notícias às quais fomos apresentados. Se o fizerem, perceberão que, em muitas vezes, não nos lembramos sequer de um terço do que foi falado ou mostrado, somente uma ou outra notícia que nos interessa particularmente é assimilada.
+Oferecer muitas informações ao mesmo tempo é, também, uma estratégia para confundir o interlocutor. Se deseja que algo não seja verdadeira- mente assimilado ou problematizado, apresente em meio a outras tantas informações chocantes e isso fará com que elas sejam niveladas, diminuindo a sua capacidade de discernimento. O que é imprescindível nesse momento é a sua capacidade de foco.
+Estar em contato com a B.AKKA é, também, estar exposto a um grande número de referências e informações, algumas mais ou menos aplicáveis, de acordo com o objetivo de aplicação, mas o objetivo aqui não é confundir pela quantidade, e sim auxiliar no processo de segmentação e foco. Como com qualquer ferramenta utilizada, não temos aqui as respostas exatas, mas um auxílio para que se possa traçar o caminho, ou um guia para aquilo que desejamos construir. Conseguir direcionar o seu foco de análise para arquétipos que dialoguem com o tempo em que vivemos é uma maneira de compreender de modo detalhado quais são nossas variáveis.
+A Biblioteca de Arquétipos que você tem em mãos busca trazer representatividade para projetos de humanização.
+B.AKKA - BIBLIOTECA DE ARQUÉTIPOS
+A Biblioteca de Arquétipos que você tem em mãos bus- ca trazer representatividade para os trabalhos e pro- jetos. Parece redundante ressaltar essa característica, mas foi justamente esse o diagnóstico que motivou a sua criação. Partindo do pressuposto de que pratica- mente todos os comportamentos humanos são guiados por arquétipos, desenhamos essa estrutura com 60 tipos que dialogam diretamente com os contextos em que vivemos.
+Os arquétipos são como modelos aos quais recorremos quando nos deparamos com algo. Para que possamos entender quais são as motivações, ou mesmo os limites de cada personagem e situação, acabamos por focar em algo que, para além do nosso conhecimento consciente, nos insere em um ambiente confortável. Mas, para que esses padrões de comportamento consigam dialogar com o nosso tempo, a B.AKKA se construiu buscando transpor alguns paradigmas enraizados.
+Os arquétipos fundamentais desdobraram-se de maneira detalhada, e, para sua representação, buscamos trazer modelos e conteúdos mais abrangentes e liga- dos a conceitos de diversidade, pluralidade e adequa- ção ao cenário contemporâneo. Baseados em estudos das obras e ensinamentos de Carl Gustav Jung, Robert Moore, Margaret Mark e Carol Pearson, Caroline Myss e Margaret Hartwell, trouxemos para cada página um olhar detalhado a respeito das construções, preferências ou características fundamentais.
+Utilizar arquétipos é conseguir criar a sensação de segurança e reconhecimento, pois eles dialogam direta- mente com algo que faz parte de nós. Dessa maneira, quando é preciso tomar uma decisão em pouco tempo, aquelas que se apresentam ligadas aos nossos valores tendem a ser mais atrativas ou confiáveis.
+Para a composição dos textos, buscamos trazer um tom neutro. A língua portuguesa não nos permite criar textos que sejam efetivamente escritos sem constru- ção de gênero, então, mediante um trabalho detalhado de escrita e revisão, buscamos reduzir ao máximo os ruídos que uma construção feminina ou masculina pu- desse gerar. Os modelos com os quais nos deparamos acabam sendo muito categóricos quando relacionam quem é homem ou mulher na construção dos arqué- tipos, mas buscamos fazer com que ambos os perfis possam ser utilizados em cada um deles.
+As ilustrações também foram cuidadosamente prepa- radas e executadas de maneira a trazer reconhecimen- to logo em um primeiro olhar. Cada detalhe, indumen- tária, posição ou adereço foi construído para que, mais do que sinais representantes, tivéssemos símbolos efe- tivos para cada arquétipo, sempre com cuidado para que retratasse pessoas em suas multiplicidades e deta- lhes. Quebramos e ressignificamos, assim, a roda de ar- quétipos normalmente usada e possibilitamos um olhar mais detalhado e profundo acerca das personalidades.
+A B.AKKA é uma ferramenta, um conteúdo a ser con- sultado em meio a projetos ou criações de personas, mas também uma fonte de pequenos insights que po- dem servir ao menos como faísca de curiosidade para algo novo. As metodologias para utilização ou dinâ- micas não são fixas e podem ser reescritas à medida que se tornem necessárias. Essa liberdade de escolha é fundamental para que possamos fazer da B.AKKA um organismo vivo e autônomo, pois seus usos podem ser redescobertos na medida em que se faça necessário.
+ARQUÉTIPOS PRIMÁRIOS E SECUNDÁRIOS
+Quando apresentamos os arquétipos em eixos de or- ganização, acabamos elencando em nossa construção quais seriam os fundamentais que carregam em si características aplicáveis também aos arquétipos se- cundários, mas há um motivo para que esses não se- jam trabalhados efetivamente como sub-arquétipos, como seria o termo usual.
+Os sub-arquétipos - considerando a grafia da qual nos valemos - não se configuram, efetivamente, como uma categoria que está, em um juízo de valores, aplicada em um patamar secundário, mas perfis completos e passíveis de uma análise aprofundada que comparti- lham eixos de existência. Não há aqui uma gradação de importância, somente uma categorização ordena- da para nortear eixos de análise.
+Quando chegar o momento de aplicação da ferramen- ta, desejamos que todas as categorias sejam tratadas com a mesma intensidade e que o julgamento perante as personalidades transpasse os níveis de análise pri- mários, funcionando, assim, como um convite ao pen- samento. Quando trabalhamos com personalidades de caráter humanizado, não há espaço para conceitos como bom ou ruim, mas somente uma gradação do que seria melhor ou pior quando aplicado ao nosso objeto de análise. Não se prenda a caminhos pressu- postos ou a respostas que imagina serem melhor acei- tas, precisamos aqui descobrir, efetivamente, quais são as nossas verdades singulares e como devemos relacioná-las com as verdades coletivas do ambiente em que estamos inseridos.
+Toda e qualquer nuance deve ser tratada como funda- mental para que tenhamos uma construção esférica e aprofundada. Considerando seres múltiplos em suas necessidades e demandas, cada característica pode
+ser um pilar imprescindível para o processo de for- mulação de algo novo ou entendimento do que está instaurado.
+EM APLICAÇÃO
+Quando consumimos uma história, um filme, ou mes- mo uma marca, acabamos por escolher aquelas que nos apresentam, de alguma maneira, uma extensão de nós mesmos. É necessário que tenhamos um reconhe- cimento pessoal, e, para esse uso, os arquétipos apre- sentam-se como uma manifestação possível para que tenhamos um diagnóstico e uma possível abordagem para o objetivo desejado.
+O primeiro questionamento é se sabemos exatamen- te o que desejamos transmitir. É preciso compreender quais são os valores indissociáveis para, dessa maneira, conseguir valorizá-los. Há uma infinidade de caracte- rísticas e estas não são efetivamente boas ou ruins, são somente mais ou menos aplicáveis a cada caso. Para decidir qual é mais funcional, é preciso que valorize a sua bagagem, o que foi construído e a atenção de quem deseja chamar. Arquétipos combinados podem ser um caminho para encontrar constância nas atitudes.
+Ao considerarmos que o inconsciente individual é somente uma camada do pensamento de cada um, o uso adequado dos arquétipos consegue, de maneira assertiva, dialogar com o que há em camadas mais profundas, como se trouxesse reconhecimento ao ati- var outros níveis de percepção. É importante conse- guir definir quais arquétipos são mais fundamentais à medida que se reconhece as necessidades, pois assim é possível aplicar os tipos que melhor se ligam ao in- consciente coletivo.
+RODA ARQUETÍPICA | EIXOS E POLOS
+S - POLO DA SINGULARIDADE
+Seus processos são individuais e sabe que é capaz de conquistar aquilo que deseja somente baseado em seu esforço e foco. Tem a certeza de que a sociedade que está ao seu redor é um ponto de grande influência sobre a sua tomada de decisões, mas considerar as variáveis é diferente de se deixar levar ou condicio- nar pelo outro. A realidade é fruto daquilo que cria e consegue, assim, inserir-se onde melhor lhe convém.
+Ao se construir sozinho, consegue alcançar posições de destaque e através de seu desempenho. É preciso que tenha segurança para que possa se sentir em foco e, para alcançar esse posto, está sempre pronto para se colocar no centro das decisões e se priorizar.
+Sabe que as suas habilidades são importantes para o todo e consegue, assim, mostrar-se necessário e digno de reconhecimento. Tem a certeza de que, por meio de seu posicionamento e valorização de pontos- -chave, conseguirá alcançar o status que deseja, mas, para isso, não se deixa levar por trivialidades ou rela- cionamentos interpessoais.
+Valorizando o foco que o define, está sempre pronto para traçar uma estratégia ou desenhar um plano de atuação. Com habilidade e astúcia, o fio de suas his- tórias está sempre sob seu comando e transmite segu- rança para aqueles que se aproximam. É seguro cami- nhar ao lado daquele que parece conhecer cada curva e saber como se comportar em todas as adversidades.
+01A - Alquimista
+01B - Cientista
+01C - Futurista
+01E - Xamã
+02A - Valente
+02B - Atleta
+02C - Combatente
+02E - Protagonista
+03A - Artista
+03B - Designer
+03E - Vanguardista
+
+L = POLO DA LIBERDADE
+As barreiras a sua volta devem ser destruídas para que consiga ir mais longe. Donos de suas próprias regras, os arquétipos movidos pela liberdade são responsáveis por ver oportunidades onde os outros não se atentam. Sabe que para alcançar seus objetivos é preciso coragem e audácia. As retaliações que podem vir a seguir não conseguem assustar quem se vê fiel somente às próprias regras.
+Como lutadores que não podem ser intimidados, sabem que suas responsabilidades devem ser ligadas a satisfazer seus desejos mais pessoais, e, para que encontre o contentamento e alegria dos quais acredita ser merecedor, é possível que transponham quaisquer regras. Ao se caminhar de maneira solitária, é possível observar o mundo sem interferências, mas também não há com quem compartilhar o destino encontra- do. A sua jornada é constante, e estar em movimento permite que descubra sempre uma nova plenitude no destino que está por vir.
+Quando partilha destinos, suas relações tendem ao sensorial. O sentir e propiciar esta troca fundamental e simultânea permite que assimile e absorva diferentes formas de viver e se comportar. Sua vivência compartilhada permite que se assuma como o camaleão que é e esteja sempre confortável em diferentes ambientes, como se o seu pertencimento fosse indissociável a quem realmente é.
+
+04A - Caminhante
+04B - Cosmopolita
+04C - Desafiante
+04D - Nômade
+04E - Viajante
+05A - Rebelde
+05B - Anarquista
+05C - Ativista
+05D - Iconoclasta
+05E - Pirata
+06A - Comediante
+06B - Criança
+06C - Farrista
+06E - Piadista
+
+C = POLO DA COLETIVIDADE
+Estar inserido em um grupo é saber que as necessida- des coletivas são sempre maiores do que os interesses individuais, e, para que consiga defender o cresci- mento geral, está sempre disposto a ceder aquilo que construiu para si e partilhar de maneira igualitária. Os arquétipos inseridos no polo da Coletividade são facil- mente reconhecidos por suas demandas e necessida- des, que sempre se apresentam para além do Eu. Para eles, é como se o próprio contorno individual fosse tão poroso que possibilitasse sempre que um novo alguém se aproxime e faça parte do que se está construindo.
+Quando sentimentos são compartilhados, parecem sempre mais intensos e verdadeiros, e, por acreditar nessa partilha, não é difícil que o encontre à frente de movimentos ou encabeçando transformações coleti- vas. Com um perfil inspirador, quem estiver por perto poderá contagiar-se pelo clima que transborda. Estar alinhado com o todo é conseguir se ver como uma peça para o quebra-cabeça que compõe seu grupo e, à medida que entende sua individualidade, compreen- de também que esta nada mais é do que um traço a ser aproveitado para um olhar mais abrangente. Esses são os arquétipos do diálogo, da construção conjunta e da preocupação com o que se apresenta para além do individual. As combinações feitas com outros eixos permitem um ângulo de observação mais cuidadoso e detalhado, fazendo, assim, com que seja possível valo- rizar esforços e conquistas que trazem melhorias como resultado.
+
+07A - Entusiasta
+07B - Hedonista
+07C - Naturista
+07D - Patriota
+07E - Sensualista
+08A - Altruísta
+08B - Empata
+08C - Intérprete
+08D - Terapeuta
+08E - Vigilante
+09A - Habitante
+09B - Realista
+09C - Serviçal
+09E - Sociável
+
+R = POLO DA REGULARIDADE
+A sua posição de certeza e estabilidade é fundamental para que se sinta confortável. Somente pode ver algo de belo quando compreende o que está ali exposto, e, para isso, tem a capacidade de desmembrar cada detalhe e descobrir nestes uma nova certeza.
+Facilmente é colocado como um objeto de desejo. Por saber onde almeja chegar e quais são os caminhos possíveis a serem trilhados, normalmente ocupa posi- ções de destaque e superioridade. A organização com a qual leva a vida permite que esteja sempre prepara- do para o próximo movimento e, como um jogador de xadrez que consegue antecipar jogadas, mantém-se um passo à frente.
+Quando descobre uma maneira adequada de portar- -se ou executar algo, não se permite somente aco- modar. É preciso estar sempre disposto a melhorar e aperfeiçoar. A razão é fundamental para sua tomada de decisões e, por meio da lógica, consegue ter cla- reza acerca do que está a sua volta. A rotina, que por outros é motivo de desespero, aqui torna-se somen- te uma maneira de viabilizar que novidades ocorram. Quando a base é bem estabelecida, as construções seguintes parecem ser um movimento contínuo de segurança.
+Seus gostos e preferências costumam basear-se em um ideal de transparência, basta somente que se ob- serve com atenção.
+
+10A - Idealista
+10B - Crente
+10C - Iniciante
+10D - Otimista
+10E - Perfeccionista
+11A - Regente
+11B - Aristocrata
+11C - Diplomata
+11E - Líder
+12A - Sapiente
+12B - Detetive
+12C - Eremita
+12E - Intelectual
+
+FORÇA POSITIVA
+Os elementos positivos que definem os arquétipos estão ligados às características boas que estes carre- gam. Se pensarmos em um posicionamento coletivo, aqui estarão listadas as ações e características que podem ser utilizadas e apropriadas para o bem geral.
+Quando o coletivo se mostra de maneira hostil, conse- gue, na mesma intensidade, valorizar aquilo que traz de bom, e, com a leveza e certeza de quem sabe o que faz, é possível que crie um movimento de fortale- cimento e comoção coletiva. Saber utilizar de maneira plena todas as habilidades que oferece permite que consiga extrair o que há de melhor em cada situação.
+O fascínio com o qual observa o mundo ao seu redor é passível de promover mudanças, e enfrentar os de- safios que se apresentam é o combustível necessário para ir mais longe.
+Estando inserido em uma sociedade, algumas diretri- zes são mais ou menos valiosas, e é conhecendo essas dinâmicas que consegue encontrar equilíbrio e heroís- mo em cada uma de suas ações. Dentre os arquétipos apresentados, temos diferentes pontos de luz, alguns serão mais adequados do que outros para o momento de escolha, e este ponderar depende exclusivamente de onde se deseja chegar. Por vezes, até mesmo o que está listado como positivo pode não se aplicar ao que deseja, e, nesse momento, consegue ver que, talvez, aquele não seja o arquétipo mais valioso para ser utili- zado. É preciso considerar o momento para a constru- ção de cada projeto, e, por ser fruto de um instante, isso é o que permite o diálogo direto com as necessi- dades observadas.
+propósito po tivo
+Cada caminho percorrido têm um objetivo de chegada, e o propósito do arquétipo é o valor maior que pode defini-lo. Como resultado de seus processos de valor, temos aqui a centralização de tudo que lhe é importan- te ou relevante. Caso seja preciso definir o arquétipo em um único termo, este seria um excelente direcio- namento.
+Qual a força mais mais primordial, e tudo o que pode ser feito para alcançá-la, faz com que o arquétipo consi- ga definir-se de acordo com aquilo que almeja. Quando suas forças positivas são colocadas em prática, é este o resultado de suas conquistas, e este é o momento para descobrir se é por isso que deseja ser reconhecido.
+atitudes positivas
+Para que consiga materializar aquilo que acredita, assume atitudes alinhadas aos seus valores. Há uma importante abnegação do que são os seus instintos primais, pois, quando respondemos somente a es- tas vontades mais animalescas, na maioria das vezes criamos um posicionamento baseado no Eu. Estar ali- nhado com as necessidades gerais é conseguir ver-se somente como parte constituinte de uma sociedade.
+A posição que irá ocupar nessa sociedade pode va- riar entre liderança e pertencimento, mas sempre está relacionada a reação e desejos do outro. Sabe que o status que deseja construir somente existe ou pode se definir mediante a presença do outro.
+co as positivas
+As ações geram respostas e, quando se tem uma ação positiva, acabamos criando todo um movimento a ser seguido. As atitudes positivas costumam ser aquilo que desejamos ver quando utilizamos cada arquétipo, então, partindo do diagnóstico daquilo que foi obser- vado, podemos encontrar maneiras de intensificar cada uma dessas reações.
+Para que haja alinhamento, é importante questionar se, caso o arquétipo encontre a plenitude que deseja em sua execução, estas seriam as respostas que dese- java ver representadas. É preciso saber se o posiciona- mento escolhido nos direciona para os resultados que desejamos obter.
+níveis positivos
+Qualquer comportamento apresenta gradações, e aqui não é diferente. Mas nem sempre a maior intensida- de deve ser relacionada ao melhor resultado possível. Quando trabalhamos com uma noção de equilíbrio, a combinação de arquétipos também pode valer-se de diferentes intensidades, para que possamos fazer com que o projeto responda da melhor maneira possível.
+Assim como a diferenciação entre aspectos positivos e negativos, a polarização com os níveis dos arquétipos são somente uma nuance que pode ser estratégica em seus momentos de uso. Ser o melhor em determina- do aspecto nem sempre é a estratégia mais assertiva quando desejamos construir algo.
+FORÇA ANTAGÔNICA
+A polarização entre o que há de bom e ruim em cada arquétipo é parte do processo de construção. Somen- te quando conseguimos contrastar essas informações é que se torna possível compreender quais seriam os diferentes desdobramentos de comportamento ou moral apresentados. Quando apresentamos, de ma- neira direta, quais são as características recorrentes de seus valores, desenhamos a mostra de aspectos que poderiam ser considerados ruins.
+Quando uma ideia é lançada e se enraíza na cabeça de alguém, não mais é possível retirá-la de lá. Fiel a suas necessidades mais primordiais, é fácil tornar-se obstinado e preso a uma ideia fixa. Quando acredita- mos que o equilíbrio e a mistura de diferentes carac- terísticas, é fundamental para gerar interesse e reco- nhecimento, é preciso conseguir associar e mesclar a verdade com o mundo subjetivo no qual acreditamos. Realidade e ficção são somente dois lados de uma mesma contação de histórias, e saber como relacionar esses conceitos é encontrar a resposta para quando se deseja cativar alguém.
+propósito antagônico
+Muitas das piores construções e momentos históricos dos quais hoje nos envergonhamos nasceram de uma aplicação extrema da razão. Quando esse é o úni- co valor que decide se uma situação é boa ou ruim, deixamos de lado inúmeras verdades que podem ser consequentemente construídas. Todos os resultados são plurais, assim como as motivações que os cau- sam, portanto, é imprescindível que se crie linhas de análise e se valorize os elementos que podem parecer inconstantes.
+Para que consiga dialogar com diferentes frentes ou pessoas em situações distintas, é preciso que o foco saia dos olhos somente do observador, mas passe a ser considerado como o elemento multifacetado que é. Se o objetivo do personagem é nome, considere sempre se, caso faça absolutamente tudo para alcan- çá-lo, o resultado continuará elevado. Construções depois de prontas servem ao propósito para o qual fo- ram desenhadas, mas todo o trabalho e possíveis bai- xas durante o projeto são imprescindíveis para chegar nesse mesmo lugar?
+atitudes antagônicas
+Se todas as ações têm reações, é importante lembrar que nem todas são tão facilmente previsíveis. Ao de- sejarmos chegar em algum lugar, facilmente direcio- namos nossa atenção para os resultados nos quais desejamos chegar. É simples observar os melhores comportamentos ou acreditar que, independente da intensidade com a qual se aplica o valor, o resultado final estará sempre alinhado com o que desejamos ob- servar. Mas, ao focarmos no resultado positivo, aca- bamos nos esquecendo daquilo que poderia ocorrer caso os valores fossem deturpados.
+Para que consiga estar alinhado com o objetivo que deseja alcançar, é capaz de silenciar a voz do coletivo e estar somente centrado naquilo que demanda. Sua importância pessoal é maior do que o bem-estar ge- ral e, por isso, acaba se tornando fiel somente a suas ideias. Mesmo quando a motivação se apresenta de maneira elevada, o excesso de foco em como conse- gui-la pode ser um caminho sem volta para se perder dentro das verdades e realidades construídas.
+consequências antagônicas
+Valores, quando levados ao extremo, acabam se dis- torcendo. Para que se mantenha fiel àquilo no que acredita, facilmente se distancia das variáveis huma- nas, e esse comportamento pode desencadear resul- tados adversos. Quando não estão aplicados a um contexto social, os eixos que definem cada arquétipo podem assumir proporções maiores, ou mesmo anta- gônicas ao que é desejado.
+Por mais que se deseje encaminhar suas ideias para um resultado favorável, não é possível considerar um experimento factível sem que se leve em conta todas as variáveis a serem trabalhadas. O foco, assim como a informação, são fundamentais para que se consiga chegar aonde deseja, mas estes, quando levados ao extremo, exercem a função oposta. Se o sono da ra- zão produz monstros, como ilustrado por Goya, nos questionamos acerca do que seria factível partindo da insônia da razão.
+níveis antagônicos
+Se um caminho distorcido pode alterar o valor final do resultado, ou mesmo o propósito ao qual se serve, diferentes escolhas durante esse processo podem in- tensificar ou não essa gradação. A intensidade com a qual se tornam fiéis ao objetivo final é proporcional ao quanto podem se distanciar de um pensamento coleti- vo. Podendo ser utilizado como estratégia de equilíbrio, determinado nível é mais ou menos interessante ao se relacionar elementos pessoais com construções gerais.
+Analisar os níveis antagônicos é, também, uma manei- ra de descobrir quais são os possíveis desdobramentos dos arquétipos, quando suas verdades e valores são co- locados à prova, seja por vacilarem em suas verdades, seja por encontrarem quaisquer arestas erguidas pela comunidade na qual está inserido.
+MANDALA ARQUETÍPICA
+Os arquétipos constroem-se por meio de uma soma- tória de significados que podem ser coletivamente ati- vados quando se faz necessário. As mandalas arquetí- picas organizadas neste livro buscam trazer algumas camadas de ativação para cada um dos arquétipos, de maneira a conseguir direcionar ou mesmo apresentar. Cada mandala conta com 4 camadas que se definem de acordo com as especificidades para as quais pode- mos direcionar nossa atenção. São eles:
+
+atributos de reconhecimento
+Aqui temos termos de identificação. Sendo a cama- da mais fundamental para que se possa reconhecer cada um deles, algumas características se mostram cruciais. Quando tratamos de arquétipos, os aspec- tos inerentes são fundamentais para esse processo. Quando conversamos diretamente com o Inconscien- te Coletivo, é preciso conseguir identificar gatilhos e especificidades universais.
+Os elementos de reconhecimento podem ser utiliza- dos para nortear o processo de escolha do arquétipo, tendo, assim, alguns questionamentos que, quando feitos, tornam-se um norte para a escolha. Pense um pouco sobre o seu projeto e questione-se:
+É assim que ele se apresenta?
+É possível que pensem nele quando se deparam com esses conceitos?
+Quando pensamos nisso, queremos nossa imagem relacionada?
+Esses questionamentos podem ser desdobrados em outros mais específicos para o projeto, e, assim, per- mitir que o uso ocorra de maneira mais assertiva.
+
+atributos comportamentais
+Quando consideramos os arquétipos como modelos fundamentais, devemos perceber que estes apresen- tam uma profundidade de construção que vai para além de um simples descritivo. Alguém que se apre- senta com determinado alinhamento ao arquétipo tende, também, a se mostrar com comportamentos que dialogam diretamente com o posicionamento.
+As ações e atitudes do arquétipo são também uma das tantas maneiras de se criar o sentimento de reconhe- cimento e, para saber se estes estão de acordo com o que desejam transmitir, pergunte-se:
+Isso parece algo que ele faria?
+Em uma situação pontual, seria essa sua resposta? Como consigo fazer com que chegue nessa atitude?
+Imaginar situações hipotéticas nas quais uma tomada de decisão ou posicionamento seja necessário é uma interessante dinâmica de validação.
+
+atributos simbólicos
+Imagens têm a capacidade de atribuir valor e signi- ficados, além disso, determinados símbolos relacio- nam-se mais com os arquétipos escolhidos. Esses símbolos podem ser objetos, figuras, construções ou qualquer outra representação que tenha em si uma carga de significados completa. Criamos, assim, a in- tensidade desejada quando queremos relacionar con- ceitos a elementos tangíveis. Para reconhecer esses elementos, questione-se:
+Esse elemento seria escolhido por ele? Caso fosse escolher algo, se pareceria com isso? Esse seria um elemento definidor para ele?
+Considerar esse um momento de escolha pode faci- litar o processo. Quando pensamos em personagens que marcaram nossas vidas, facilmente conseguimos pontuar quais seriam os quadros que eles teriam em casa, ou mesmo qual daqueles livros escolheria para ler. Para que haja profundidade, é preciso que respos- tas assim consigam ser encontradas mediante a análi- se da personalidade desenhada.
+
+atributos aspiracionais
+A motivação é o que direciona a tomada de decisões de cada arquétipo. Considere este como um destino no qual o arquétipo deseja chegar e, dessa maneira, sentir-se mais completo. Muito além de destinos fí- sicos, aqui temos as motivações que fazem com que cada passo seguinte seja desejado. A busca ou o dese- jo que definem o arquétipo são fundamentais para que possamos saber se este é o arquétipo mais adequado. Alguns direcionamentos podem ajudar:
+Isso traria completude?
+Com isso sua missão estaria cumprida? Tendo isso teria tudo?
+Perceber e identificar que o arquétipo se sentiria ple- no alcançando esses elementos é um movimento inte- ressante para que possamos saber se este é o caminho certo a ser seguido. Todos somos motivados por uma busca intrínseca, e esta pode direcionar muitos de nossos comportamentos, assim como os dele.
+
+CONTOS ARQUETÍPICOS
+Alinhados ao conceito de representatividade que con- sideramos tão relevante para a construção de perfis, convidamos algumas pessoas a compartilhar esse processo de construção e ilustrarem, com a sua visão individual, como acreditam que cada arquétipo se ma- nifestaria. Cada conto é assinado por uma pessoa e podemos, assim, visualizar quais são as abordagens e estilos de cada um, mediante a proposta criada.
+Ter uma visão múltipla permite que tenhamos contato com outras realidades e possamos, dessa forma, obser- var os conceitos construídos de maneira mais prática. É preciso lembrar que essa aplicação apresenta um ponto de vista individual, então deverá ser lido como um fôlego ilustrativo, mas não um conceito taxativo de como se manifesta ou deve-se aplicar cada arquétipo.
+
+10 FORMAS
+DE UTILIZAÇÃO
+
+DEFINIR SITUAÇÃO
+Ao nos depararmos com uma situação que vem acon- tecendo, um posicionamento ou formulação de perso- nalidade, nem sempre compreendemos o que motivou o processo de criação. Seja por não estarmos inseridos naquele momento, ou mesmo por não reconhecermos o que motivou cada decisão.
+Como o caminho inverso do processo de criação, o diagnóstico elaborado acerca do que está ocorrendo é uma estratégia para conseguir traçar futuras ações ou antecipar acontecimentos.
+Cara essa montagem, faça uma pesquisa prévia sobre o objeto de análise e questione-se a quais arquétipos estão alinhadas determinadas atitudes ou característi- cas fundamentais. Alguns comportamentos irão pare- cer exatamente com algo que aquele arquétipo faria - reserve estes. Quando terminar de passar cada um, é chegado o momento de analisar as escolhas e ver quais deles estão mais alinhados. Nesse momento, podemos também retirar quaisquer arquétipos que não cami- nhem para onde deseja direcionar o seu projeto.
+CONCORDA OU DISCORDA?
+Para se criar ou entender algo, é preciso lembrar que cada decisão está mais ou menos alinhada com as necessidades de cada um. Tendo os arquétipos como modelos fundamentais que podem representar verda- des absolutas, estes podem ser utilizados para nortear possíveis tomadas de decisão.
+Para desenvolver esta dinâmica, deixe claro qual per- gunta deseja responder. Quanto mais específica e fun- damental for a pergunta, mais assertiva será a respos- ta que se considera encontrar.
+Após a delimitação inicial, considere a personalidade desenhada para cada arquétipo e pergunte-se se este concordaria ou discordaria do questionamento ini- cial. Ao término, irá deparar-se com quais arquétipos estão mais alinhados e, então, poderá elencar com quais o posicionamento que deseja defender mais se assemelha ou distancia. É importante saber que não é necessário nunca chegar a uma única personagem, pois todas as personalidades resultam da somatória de características.
+
+MAPA
+Alguns arquétipos parecem que se encaixam perfei- tamente com a nossa pergunta inicial assim que olha- mos para ele. O reconhecimento que nos gera é tama- nho que sabemos que aqueles não poderão deixar de ser utilizados, mas, como toda personalidade múltipla e plural, precisamos definir no que desejamos focar em cada um deles.
+Para que seja possível, selecione os arquétipos que mais se alinham com o que deseja, disponha-os sobre a mesa e, sob cada um deles, desmembre os pontos de maior importância ou possíveis comportamentos que deseja ver reproduzidos na sua produção.
+Quando pensamos em atitudes, comportamentos ou possíveis reações perante acontecimentos, é possível que consigamos olhar para o arquétipo através de um prisma mais realístico e, desta maneira, considerar efetivamente se o que desejamos está mesmo dentre as habilidades daquele tipo.
+LINHA DO TEMPO
+O passar do tempo é fundamental para que consiga- mos observar processos evolutivos, assim como tentar prever onde estaremos de acordo com as necessidades que poderão ser criadas. Para termos uma visão acerca do uso de arquétipos no decorrer do tempo, podemos construir uma linha datada.
+É indiferente para a estruturação da dinâmica se iremos nos referir ao tempo passado ou futuro, o importante é diagnosticar pontos cruciais na linha e alocá-los de ma- neira correta nela. Cada ponto de importância prova- velmente poderá associar-se a um ou mais arquétipos fundamentais, e, à medida que o tempo passa, esses vão se alterando mediante a necessidade.
+Se tomarmos marcas como exemplo, podemos utilizar campanhas importantes para diagnosticar momentos de virada do posicionamento, imagem ou interação com o público com o qual se relaciona. Podemos aqui ter cases de sucesso ou não como material analisado.
+DECIDA A IMPORTÂNCIA
+O processo de escolha é também um movimento de gradação. Quando pensamos na apresentação de algo novo ou na análise de algo que nos apresentaram, po- demos diagnosticar quais seriam as características fundamentais para defini-la.
+Aqui trabalhamos com três conceitos fundamentais: o sim absoluto representa algo que não poderia deixar de ser associado, uma característica que se apresenta de maneira intrínseca e latente; o não absoluto é fun- damental para que saibamos com o que não podemos ser associados, algo que, em alguma instância, pode- ria manchar a imagem do projeto, indo contra seus valores; e o talvez se apresenta como a zona cinzenta que pode ou não ser associada ao objeto, de acordo com a necessidade daquele momento em específico.
+A zona cinzenta é a maior em volume, pois dificilmen- te se pode responder de maneira absoluta a uma afir- mativa.
+
+DISCUSSÃO
+Conhecimentos criados e desenvolvidos em conjunto sempre possibilitam um olhar que vai além da baga- gem inicial, para que seja possível encontrar outros pontos de vista (ou mesmo diferenciais) e diagnosticar atritos que poderiam vir a ocorrer, é interessante ali- nhar um grupo que esteja inteirado do assunto e pro- por uma discussão para seleção.
+Nesse momento, poderá ter ocorrido uma escolha anterior, ou não. Ambos os caminhos podem ser lu- crativos para o desenvolvimento do projeto. O que é fundamental aqui é ter clareza acerca de qual seja o desafio que se apresenta. O que desejamos construir, quais os diagnósticos esperados ou mesmo como de- vemos proceder mediante quaisquer adversidades.
+Cada integrante do grupo é responsável por uma vi- são única e singular, e esta deverá ser considerada no momento de escolha. Nenhuma ideia é ruim e nenhum questionamento deve ser ignorado.
+
+GRID
+Correlacionar os assuntos ou pontos fundamentais para resolução do desafio que foi traçado é um fator importante para que possamos ter uma visão geral da- quilo que se apresenta. Para tanto, disponha os arqué- tipos de acordo com os eixos que considera relevantes, para que se possa responder a pergunta de maneiras diferentes, e veja quais são os pontos que unem os ar- quétipos que foram colocados em cada um deles.
+Para que isso seja possível, você precisa desenvolver uma pergunta fundamental que irá ser definitiva no seu momento de criação. Alguns pontos são fundamentais para a criação de algo, e saber quais são as possíveis saídas aplicadas permite que possamos fortalecer os eixos que consideramos mais importantes.
+
+AGRUPAMENTO
+Quando combinamos as características principais de cada arquétipo, considerando os seus eixos de luz e sombra, somados ou não, é um caminho importante para que possamos criar uma personalidade comple- xa. Em diferentes situações, o arquétipo pode se ma- nifestar com posicionamentos pontuais. Assim como segmentamos nossa personalidade para reagir em de- terminados ambientes, a construção de algo associa- do aos arquétipos pode ter essa mobilidade estrutural também.
+Aqui é possível listar determinados eixos de questiona- mento ou mesmo sugerir situações tangíveis que pode- rão vir a ocorrer e responder, assim, qual arquétipo es- taria mais alinhado ao caminho que desejamos seguir. A somatória pode resultar em uma personalidade mais detalhada e facilitar desdobramentos futuros.
+
+CATEGORIZAÇÃO
+Definir polos do que seria mais ou menos importan- te, assim como o que estaria mais ou menos alinhado com onde desejamos chegar é uma estratégia para observar comportamentos variáveis.
+Para auxiliar na execução, você pode desenhar um eixo com quatro quadrantes e separar entre importância e assertividade. Dessa maneira, conseguirá diagnosti- car quais seriam as características mais importantes e assertivas; mais assertivas, porém irrelevantes; mais importantes, mas que caminham para longe daquilo o que acreditamos ou tantos outros desdobramentos. Ter clareza acerca da fonte de importância auxilia o processo criativo de maneira ordenada e clara para estudos futuros.
+PRIORIZAÇÃO
+Algumas características, arquétipos e posicionamen- tos são mais importantes do que outros quando tra- tamos de uma personalidade complexa. Para que sai- bamos quais devem ter um maior espaço de atuação ou se tornar possíveis norteadores em momentos de decisão, podemos criar uma estratégia de priorização.
+Após um diagnóstico inicialmente criado, é chegado o momento de elencar, entre as definidas, qual a grada- ção que considera relevante para cada um deles.
+Pode-se também definir essas prioridades de acordo com determinados eixos, como por exemplo: quais seriam os comportamentos relacionados ao âmbito pessoal, profissional, relacionamento com os clientes, entre outras divisões possíveis.
+
+Polo Arquetípico | 奇妙
+SINGULARIDADE
+Seus processos são individuais e sabe que é capaz de conquistar aquilo que deseja somente baseado em seu esforço e foco.
+Tem a certeza de que a sociedade que está ao seu redor é um ponto de grande influência sobre a sua tomada de decisões, mas considerar as variáveis é diferente de se deixar levar ou condicionar pelo outro. A realidade é fruto daquilo o que cria
+e consegue assim se inserir onde melhor lhe convém.
+Classe Alquimista
+Cientista | Fututista | Ilusionista | Xamã
+Classe Valente
+Atleta | Combatente | Mártir | Protagonista
+Classe Artista
+Designer | Especialista | Porta-voz | Vanguardista
+
+Classe Arquetípica | 01A 錬金術師 ALQUIMISTA
+Sub-Arquétipos:
+Cientista | Futurista | Ilusionista | Xamã
+Experimentação Adequação Transformação
+Por meio de estudos e habilidades, consegue trans- formar o ambiente em que está. De caráter inven- tivo e disposto a romper com o que é recorrente, faz do mágico sua ferramenta para o real e tem na experimentação a sua aliada mais fundamental.
+FORÇA POSITIVA
+1. FORÇA POSITIVA DO ARQUÉTIPO
+Algo melhor sempre pode ser anunciado. Seu conforto está no Novo. Gerar sedução e curiosidade nos envolvidos é como oferecer esperança em mudanças e possibilidades.
+2. PROPÓSITO DO ARQUÉTIPO
+Capaz de transformar o imaginário em tangível, tem seu posicionamento ativo e é capaz de recriar objetos e reconstruir verdades. Viver sua essência hoje é perceber novas formas de solucionar problemas e conseguir encontrar virtude a partir das adversidades. Encontrar o valor real é o principal objetivo de seus anseios e, para alcançá- lo, é fundamental criar suas próprias regras.
+AÇÃO ORIENTADORA
+Cada um de nós é, sob uma perspectiva cósmica, precioso.
+: Carl Sagan
+3. ATITUDES DO ARQUÉTIPO
+Transformar o real em algo melhor, assim como transparecer segurança em seus caminhos sinuosos, faz transbordar certeza em algo grandioso que está por vir.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Perceber, Experimentar, Indagar
+5. CONSEQUÊNCIAS DAS ATITUDES POSITIVAS
+O contato com o sublime faz com que o presente deixe de ser interessante. Vislumbre e encantamento não costumam suportar provações, e somente o real traz a segurança de que o imaginário precisa. Seu feitiço é saber lidar com o encantamento que derrama sobre si e os outros, e, quando tem consciência de seu poder, é capaz de fazer com que os desejos tornem-se movimentos coletivos.
+6. NÍVEIS DO ARQUÉTIPO
+Tomado pela possibilidade do diferente, inquieta- se com o que o cerca e deseja o diferente.
+Alimenta a vontade de mudança que se faz presente em todo seu círculo de influência.
+De discurso e ações envolventes, é capaz de transportar sua rede para o novo e onírico.
+
+FORÇA ANTAGÔNICA
+1. FORÇA ANTAGÔNICA DO ARQUÉTIPO
+Controverso por si, afasta-se dos reais objetivos pelo constante desejo de mudanças. A transformação deve ser vista como caminho para alcançar algo, sem que se perca na jornada.
+2. PROPÓSITO ANTAGÔNICO DO ARQUÉTIPO
+O descontentamento estimula, mas adoece. Basear- se no desejo de encontrar sua pedra filosofal pode fazer com que se esqueça do que vem construindo. Por vezes, o deslumbre de criar acarreta em esforços e frustrações intermináveis ao sentir-se prostrado perante uma ideia fixa. Quando o elaborar assume a linha de frente, o casual pode estar sendo negligenciado.
+3. ATITUDES ANTAGÔNICAS DO ARQUÉTIPO
+Incapaz de sentir-se acolhido, a vida passa a ter ares de uma sucessão de vontades inalcançáveis. Fazer até à exaustão muda, até que volta ao início.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Esconder, Corromper, Duvidar
+5. CONSEQUÊNCIAS DAS ATITUDES ANTAGÔNICAS
+O sentimento de desgaste resulta de processos cíclicos. Ver-se como parte do vortex, e não como seu condutor, gera confusão e esvaziamento de objetivos. E, assim, passa a valer-se de quaisquer estratégias e caminhos para alcançar sua meta.
+6. NÍVEIS DO ARQUÉTIPO
+Descontente com o presente, tem ânsia por mudar tudo o que é regrado e instaurado.
+A necessidade de mudar gera cegueira para o entorno e afobação para o novo.
+Buscar o onírico com ferocidade é manter-se na inconstância e viver a frieza do distanciamento.
+MANDALA ARQUETÍPICA
+ATRIBUTOS DE RECONHECIMENTO
+Quando tratamos de arquétipos, os aspectos inerentes são cruciais para este processo. Os elementos de reconhecimento podem ser utilizados para nortear o processo de escolha do arquétipo, tendo, assim, alguns questionamentos quando feitos, tornam-se um norte para a escolha.
+Capacitação, Curiosidade, Experiência, Misticismo, Transformação, Transmutação 
+ATRIBUTOS COMPORTAMENTAIS
+Alguém que se apresenta com determinado alinhamento ao arquétipo, tende também a se mostrar com comportamentos que dialogam diretamente com o posicionamento. As ações e atitudes do arquétipo são também uma das tantas maneiras de se criar o sentimento de reconhecimento.
+Alterar, Elaborar, Evocar, Gerar, Modificar, Mudar, Transformar, Unir
+
+ATRIBUTOS SIMBÓLICOS
+Imagens têm a capacidade de atribuir valor e significados, além disso determinados símbolos se relacionam mais com os arquétipos escolhidos. Estes símbolos podem ser objetos, figuras, construções ou qualquer outra representação que tenha em si uma carga de significados completa.
+Quimera, Pureza, Cura, Alquimia
+
+ATRIBUTOS ASPIRACIONAIS
+A motivação é o que direciona a tomada de decisões de cada arquétipo. Considere este como um destino no qual o arquétipo deseja chegar e, dessa maneira, se sentir mais completo. Muito além de destinos físicos, aqui temos as motivações que fazem com que cada passo seguinte seja desejado.
+Unidad, Purificação, Obtenção, Evolução, Combinação, Alteração.
+
+CONTO ARQUETÍPICO
+O TEMPO DAS COISAS
+por Marília Passos
+Asantewaa acordou lavada de suor deitada em sua esteira grossa de palha trançada cuidadosa e firmemente por sua mãe muitos anos antes. Aquela esteira já havia sustentado muitos sonhos, pesadelos e delírios como os daquela noite.
+Levantou-se, tomou nas mãos um frasco escuro, foi até o lado de fora de sua casa coberta de palha e soprou um pó verde no grande descampado que dá acesso ao pátio de sua comunidade. Um silêncio incomum habitava a comuni- dade, como se não houvesse ninguém vivo ao redor. Um forte vento começou a soprar, um redemoinho verde se formou e cresceu.
+Ela se dirigiu ao centro do redemoinho e soprou baixinho palavras de ordem que fizeram percorrer todo o pátio, assumindo uma forma quase humana, de quem procura algo.
+Ao passar pela porta de uma das mais velhas anciãs da comunidade, o redemoinho parou, diminuiu até desaparecer. Asantewaa voltou para dentro de sua casa, buscou e encontrou sua grande bolsa repleta de dezenas de minúsculos frascos cheios de substâncias que só ela conhecia, e se dirigiu até a casa da anciã onde o redemoinho desapareceu.
+Bateu à porta:
+— Mama, posso entrar?
+Silêncio. Ninguém respondeu. Asantewaa sentiu um leve arrepio e em-
+purrou levemente a porta.
+A luz da lua invadiu o ambiente e revelou que por trás de uma cortina
+repousava alguém. Asantewaa adentrou com sua bolsa e caminhou até a silhueta, puxou levemente a cortina com receio de acordar a anciã que repousava ali, com uma expressão de paz. A presença da jovem foi notada. Mama abriu os olhos e estendeu a mão direita para ser saudada com um beijo no dorso, como manda a tradição. Asantewaa tomou a mão e a sentiu fria, muito mais que o normal, assus- tou-se mas tentou conter as expressões de apreensão.
+Ainda segurando a mão da anciã, sentou-se na beira da esteira.
+— Mama Delali, como se sente?
+— Em paz, minha filha. As coisas tem seu tempo de acontecer, certo?
+— A senhora sabe que eu posso adiar um pouco mais, não sabe? Delali olhou fundo nos olhos de Asantewaa e indagou:
+— Você não acha que mereço descansar?
+Asantewaa assentiu com a cabeça. Puxou um pequeno frasco de sua
+bolsa, abriu a tampa e colocou entre as mãos de Delali. A anciã abriu um sorriso e apertou o frasco entre as mãos.
+Asantewaa se retirou da casa de Mama Delali em silêncio e refletin- do se deveria ter feito mais esforço para convencê-la: sua comunidade precisava dela, a própria Asantewaa não se sentia pronta a assumir seu lugar de sacerdoti- sa-mãe.
+Encontrou o redemoinho na porta de sua casa, desaparecendo confor- me ela se aproximava e sumindo completamente quando ela abriu a porta. En- trou, descansou a pesada bolsa e se deitou para voltar a dormir.
+Acordou com alguém chacoalhando seu braço:
+— Asantewaa, acorde!
+— O que houve, Kive?
+— Delali. Pediu aos ancestrais que a levassem e se foi. Asantewaa assentiu com a cabeça:
+— As coisas tem seu tempo de acontecer, certo?
+
+Sub-Arquétipo | 01B 科学者 CIENTISTA
+Sub-Arquétipo da Classe: Alquimista
+Materialidade Pesquisa Habilidade
+Para criar um mundo diferente, valoriza conhecimen- tos que adquiriu através de estudos. A ciência é vista como a solução para problemas e possibilita-lhe re- conhecer novas e necessárias verdades. Com dispo- sição para o criar, mantém-se à frente.
+FORÇA POSITIVA
+1. FORÇA POSITIVA DO ARQUÉTIPO
+Conhecer e compreender o mundo possibilita assumir uma postura ativa perante as necessidades. O criar de algo novo viabiliza um mundo melhor.
+2. PROPÓSITO DO ARQUÉTIPO
+O mundo precisa ser compreendido e, para isso, re- gras claras devem ser instauradas. O progresso da ciência é fundamental para que, numa humanidade que se baseia na razão, possa viver em acordo. Ven- cer as doenças do corpo sobrepõe aos valores que se atribui ao espírito, e é preciso distanciamento e racionalização para que não se deixe influenciar por medos e dogmas.
+AÇÃO ORIENTADORA
+Na vida, não existe nada a se temer, apenas a ser compreendido.
+: Marie Curie
+3. ATITUDES DO ARQUÉTIPO
+A experimentação permite que se descubra algo novo, e o conhecimento é o caminho reto para uma verdade. É preciso testar hipóteses para que se possa crer e, então, difundir.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Analisar, Descobrir, Testar
+5. CONSEQUÊNCIAS DAS ATITUDES POSITIVAS
+Tendo a humanidade como foco de trabalho, um gru- po de controle é construção ilusória. Não se pode isolar variáveis para além do laboratório, e hipóteses devem ter seu valor considerado, assim como verda- des. Sua curiosidade norteia as mudanças tidas como necessárias.
+6. NÍVEIS DO ARQUÉTIPO
+Curioso acerca do funcionamento do mundo, busca conhecimento formulando perguntas.
+Resultados devem ser sensíveis. Quase pragmá- tico, o imediatismo é a sua maior verdade.
+FORÇA ANTAGÔNICA
+1. FORÇA ANTAGÔNICA DO ARQUÉTIPO
+Uma melhoria projetada só encontra seu verdadeiro resultado quando realizada. O objeto criado pode ter, na mesma razão, o bem que almejava e a des- truição que manifesta.
+2. PROPÓSITO ANTAGÔNICO DO ARQUÉTIPO
+A Síndrome de Frankenstein imprime a certeza de que aquilo que criamos poderá nos destruir. Disto- pias são construídas quando se percebe que a busca pelo controle e entendimento absolutos abrem ca- minho para valores porosos e um mundo desperso- nalizado. O pensamento racional pode oferecer no- vos horizontes na mesma medida que desconsidera aspectos construídos pela moral.
+3. ATITUDES ANTAGÔNICAS DO ARQUÉTIPO
+A insônia da razão também é capaz de produzir monstros. Quando o aspecto humano deixa de ser considerado, o conhecimento torna-se obsessão.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Insensibilizar, Aprofundar, Desumanizar
+
+5. CONSEQUÊNCIAS DAS ATITUDES ANTAGÔNICAS
+Trazer novos conhecimentos à tona faz florescer também os problemas que nunca antes foram vis- tos. Racionalizar pode desumanizar processos, afi- nal, a Grande Guerra foi fruto da ciência, que nos trouxe também a consciência de nossa mortalidade.
+6. NÍVEIS DO ARQUÉTIPO
+Um único resultado é o que importa. Os meios são questionáveis, mas as certezas claras.
+
+O que foi idealizado no presente pode não caber no momento em que consegue ser criado.
+Sua ânsia por criar extrapola as necessidades e vontades da população que o cerca.
+
+MANDALA ARQUETÍPICA
+ATRIBUTOS DE RECONHECIMENTO
+Quando tratamos de arquétipos, os aspectos inerentes são cruciais para este processo. Os elementos de reconhecimento podem ser utilizados para nortear o processo de escolha do arquétipo, tendo, assim, alguns questionamentos quando feitos, tornam-se um norte para a escolha.
+Busca, Conhecimento, Constatação, Intuição, Lógica, Pesquisa
+
+ATRIBUTOS COMPORTAMENTAIS
+Alguém que se apresenta com determinado alinhamento ao arquétipo, tende também a se mostrar com comportamentos que dialogam diretamente com o posicionamento. As ações e atitudes do arquétipo são também uma das tantas maneiras de se criar o sentimento de reconhecimento.
+Analisar, Descobrir, Experimentar, Inventar, Investigar, Pesquisar, Provar, Testar
+
+ATRIBUTOS SIMBÓLICOS
+Imagens têm a capacidade de atribuir valor e significados, além disso determinados símbolos se relacionam mais com os arquétipos escolhidos. Estes símbolos podem ser objetos, figuras, construções ou qualquer outra representação que tenha em si uma carga de significados completa.
+Tecnologia, Natureza, Matemática, Ciência
+
+ATRIBUTOS ASPIRACIONAIS
+A motivação é o que direciona a tomada de decisões de cada arquétipo. Considere este como um destino no qual o arquétipo deseja chegar e, dessa maneira, se sentir mais completo. Muito além de destinos físicos, aqui temos as motivações que fazem com que cada passo seguinte seja desejado.
+Invenção, Evidências, Dados, Autoconfiança, Aperfeiçoamento, Adequação.
+
+
+CONTO ARQUETÍPICO
+FÓRMULA DO ABSURDO
+por Lídia Zuin
+A ciência estuda a natureza, entende o mundo. Minha ciência manipula a natureza, modifica o mundo. Eu vou fundo, direto ao código fonte da realidade que quero reprogramar. E essa busca é incessante, essa busca não pode parar porque meu corpo e minha mente não comportam o sacrifício: eu também sou ciência, eu também me tornei tecnologia.
+Minha existência se tornou estratégica. Meu corpo são os meios que serão justificados pelos meus fins. No plural, porque não me encerro, me dou vírgulas. Eu desafio a morte, desafio a natureza e, para este combate, eu me armo de tecnologia.
+Meu confronto é mensurado, testado e replicado. Minha hipótese é revi- sada pelos meus pares. Eu não estou sozinha. Eu me multiplico - consciência expo- nencializada em dispositivos, redes neurais. Do topo do meu castelo de cartas caem pares atraídos pela entropia. Quanto mais me expando, mais me desorganizo. Busco a ponderação pelo intelecto, tento achar a solução. Como me equilibrar ao ambiente e me tornar parte do zero absoluto, lei da termodinâmica, conservada no tempo e expandida pela história? O desafio final é recusar a obsolescência, abstrair-se das cinzas ao que cresce da terra. Corpo que se desfaz em natureza, que retorna ao ciclo e alimenta a evidência daquilo que o homem não pôde controlar: vida, morte, tempo.
+Meu corpo é silício, minha mente são dados. Hoje me restabeleço, ama- nhã, como sistema, me desfaço. Da consciência da morte à obsessão pelo controle, a minha lei e existência compactuam com a ciência e não enverga à natureza: como inimigas ancestrais, nossa briga se divide entre o intelecto e a força bruta.
+Tecnologia é meu alicerce e do meu pedestal de artifícios eu não vou sair.
+Das memórias humanas sobram as coisas findas, que não podem ser lindas só porque acabarão. Desse mundo, não quero escrever minha vida em co-autoria, mas torná-la minha obra prima em que escolho o epílogo e prolongo até o meu sen- tido encontrar seu final. Com as garras da ciência, rasgo as amarras da natureza e entro em guerra contra aquilo que nunca ofereceu a conciliação. A ciência é um grito, resistência contra o silêncio da ignorância e da submissão.
+E o desafio derradeiro é este: reescrever a fórmula do absurdo, do momen- to último, antes de a matéria se tornar postulação.
+
+Sub-Arquétipo | 01C 未来的 FUTURISTA
+Sub-Arquétipo da Classe: Alquimista
+Antecipação Transversalidade Mutabilidade
+Diferentes futuros se escrevem de maneira cons- tante e simultânea. Para que haja preparo, é preciso considerar as variáveis e saber exatamente onde se deseja chegar. Reconhecer os recursos disponíveis faz com que se posicione estrategicamente.
+FORÇA POSITIVA
+1. FORÇA POSITIVA DO ARQUÉTIPO
+Diferentes futuros se escrevem constantemente e compreender a pluralidade permite antecipação e preparo. Com os objetivos em foco, pode-se gerar valor e construir inovações.
+2. PROPÓSITO DO ARQUÉTIPO
+Para além da previsão, a compreensão do que se faz possível é fundamental para que se escolha qual caminho trilhar. Com a criação de valor futuro como meta, é possível trazer a tecnologia atrelada a conhe- cimentos humanos para a descoberta de um novo fa- zer. Suas estratégias se desenham à medida que en- contram necessidades, e é sempre possível adequar seus planos quando diagnostica o imprescindível.
+AÇÃO ORIENTADORA
+Quando o futuro deixou de ser uma esperança e se tornou uma ameaça?
+: Chuck Palahniuk
+3. ATITUDES DO ARQUÉTIPO
+Como diversos trajetos para um mesmo destino, sua rota antecipa novas tendências e possibilidades como ferramentas para o criar.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Antecipar, Desenvolver, Evoluir
+5. CONSEQUÊNCIAS DAS ATITUDES POSITIVAS
+Nenhum caminho é absoluto. Pesquisas e atualiza- ções constantes possibilitam um livre percorrer de experimentação. Não se permite levar por especu- lações, é preciso que o discurso seja autoral e base- ado em fatos presentes. O que é diagnosticado hoje alimenta as estratégias do amanhã.
+6. NÍVEIS DO ARQUÉTIPO
+Capaz de contemplar o mundo para além do agora, percebe que é preciso reinventar-se.
+Com as demandas definidas, é possível traçar caminhos claros e coordenar processos.
+O novo é estopim. O que virá é seu único objetivo no agora e sua energia se volta a isso.
+FORÇA ANTAGÔNICA
+1. FORÇA ANTAGÔNICA DO ARQUÉTIPO
+Somente entregar respostas é automatismo. O ele- mento humano deve nortear caminhos e decisões. Escrever o futuro é resultado do exercício de per- tencer ao presente.
+2. PROPÓSITO ANTAGÔNICO DO ARQUÉTIPO
+Quando o futuro construído não tem como base as demandas do presente, o resultado é um cenário dis- sociado da realidade. As demandas se alteram duran- te o percurso, e a cegueira daquele que tudo vê pode ser fruto de um olhar automatizado. Um juízo de va- lores constante é crucial para que o percurso seja tão valioso quanto o objetivo almejado. O pensamento estratégico deve ser ferramenta e não resultado.
+3. ATITUDES ANTAGÔNICAS DO ARQUÉTIPO
+Absorver sem interpretar é fonte de confusão. As informações são constantemente bombardeadas e é preciso compreender para que se possa utilizar.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Conceber, Exagerar, Dispensar
+5. CONSEQUÊNCIAS DAS ATITUDES ANTAGÔNICAS
+A obsessão pelo futuro pode fazer com que os va- lores sejam esvaziados. Nem sempre a última infor- mação recebida é a mais relevante, e é necessário saber ponderar para que o olhar se distancie do senso comum. Um trabalho conjunto é fundamental para conseguir diluir as verdades singulares.
+6. NÍVEIS DO ARQUÉTIPO
+Absorve o novo como manifestação de si, sua interpretação assume o patamar de verdade.
+Sem discernimento para distinguir valores, somen- te imprime verdades que considera cabíveis.
+Desconhece o valor da relação de passado- -presente-futuro e permite transgredi-lo ao seu bel-prazer.
+
+MANDALA ARQUETÍPICA
+ATRIBUTOS DE RECONHECIMENTO
+Quando tratamos de arquétipos, os aspectos inerentes são cruciais para este processo. Os elementos de reconhecimento podem ser utilizados para nortear o processo de escolha do arquétipo, tendo, assim, alguns questionamentos quando feitos, tornam-se um norte para a escolha.
+Aceleração, dinamismo, Entendimento, Estímulo, Orientação, Transversalidade.
+
+ATRIBUTOS COMPORTAMENTAIS
+Alguém que se apresenta com determinado alinhamento ao arquétipo, tende também a se mostrar com comportamentos que dialogam diretamente com o posicionamento. As ações e atitudes do arquétipo são também uma das tantas maneiras de se criar o sentimento de reconhecimento.
+Acelerar, Antecipar, Avaliar, Desenvolver, Evoluir, Futurar, Mapear, Prever.
+
+ATRIBUTOS SIMBÓLICOS
+
+Imagens têm a capacidade de atribuir valor e significados, além disso determinados símbolos se relacionam mais com os arquétipos escolhidos. Estes símbolos podem ser objetos, figuras, construções ou qualquer outra representação que tenha em si uma carga de significados completa.
+Tendência, Sci-fi, Métodos, Cenários
+
+ATRIBUTOS ASPIRACIONAIS
+A motivação é o que direciona a tomada de decisões de cada arquétipo. Considere este como um destino no qual o arquétipo deseja chegar e, dessa maneira, se sentir mais completo. Muito além de destinos físicos, aqui temos as motivações que fazem com que cada passo seguinte seja desejado.
+Valor, Soluções, Futuridade, Exponencialidade, Avanço, Antecipação.
+
+CONTO ARQUETÍPICO
+PRETÉRITO FUTURO
+por Johannes Wiegerinck
+Há dois anos exatos, Seh apertou compartilhar.
+Agora, Seh apertou compartilhar novamente. Ele se levantou calma- mente e se dirigiu à fila - à fila física que se estendia por quase 400 metros a partir do caixa do cartório B25-TH98cW.
+Lá, em um cofre anônimo, deveria conseguir retirar suas 112 Nittas, exa- tamente em tempo para seu compartilhamento mais recente fazer efeito.
+Era um link na rede, para a página de Kimiko88, uma artista de ma- quiagem famosa, cujos milhões de seguidores variavam entre os mais destituídos street-ops às mais populares apresentadoras de mídia de massa especializada em comentar conteúdo da rede.
+Há 5 horas, Kimiko recebeu um kit de maquiagem holográfica da Dia- mondXxX, um ‘vazamento’ que Koi, o especialista em influenciadores da empre- sa, mandou por engano. Ela seria a primeira a mostrar o kit novo em sua platafor- ma. Ser a primeira é a coisa mais importante nesse ramo.
+Koi enviou o kit um dia antes, por engano, porque alguém havia alte- rado todos os calendários do andar 113 da pirâmide corporativa da DiamondXxX. Esse alguém era o TI da empresa, Hugo - um gamer profissional que caiu em esquecimento após apostar no VMMO errado há alguns anos.
+Hugo trocou o ‘acidente’ dos calendários por uma informação privile- giada sobre qual seria o jogo mais popular deste ano. Informação que Seh com- partilhou há um ano com o gamer, permitindo que ele obtivesse uma vantagem de muitos meses para upar e se tornar o jogador mais poderoso de Gwar na atu- alidade.
+Ele sabia que Gwar ia vingar, porque Swetketu garantiu, como forma de agradecimento pela ‘generosidade’ de Seh. O magnata das físico-moedas, um conceito retrô de valor e lastro em coisas físicas que estava prestes a explodir há dois anos, estava falindo. Seu concorrente direto, Dr. Markus, surfando a mesma onda, conseguiu vender e divulgar muito melhor seu produto, P-Coin, levando o valor absurdo das moedas de Swetketu ao fosso.
+A ‘generosidade’ foi o compartilhamento de exatos 2 anos atrás. Seh usou sua influência como formador de opinião no meio acadêmico de tecnologia
+e postou uma palestra de Swetketu na hora e minuto exatos para garantir visibili- dade - e um fluxo de bons empregos na Universidade para o magnata.
+Era quase sua vez na fila. Ele acompanhava o vídeo de Kimiko em tem- po real, esperando com satisfação o momento da última folha do unboxing. 17 milhões de views ao vivo.
+Chegou o momento. No fundo do pacote havia um código alfanuméri- co com o logo do Frak-U - o maior reduto anônimo de shitposts e conteúdo proi- bido, tenso e sujo da rede. O código levava à página que Seh havia preparado: um dossiê completo, com vídeos inquestionáveis, B.O.s da Força de Segurança Ostensiva e depoimentos gravados.
+Provas inegáveis e gráficas de Dr. Markus abusando e matando uma criança. Com o compartilhamento do vídeo da Kimiko88 que Seh fez nas páginas de nerds de criptografia, seria uma questão de minutos até - opa, 7 downloads. 19. 66. 320.
+Seis pessoas na sua frente até o caixa. Seh buscou o nome de Dr. Markus na rede. Após algumas atualizações, lá estava. A manchete das três prin- cipais plataformas de notícias da Coreia já relatavam a polêmica sobre a brutali- dade e insanidade do bilionário.
+Seh piscou para o aplicativo ao lado, abrindo seu centralizador de fintechs e checando. A cada segundo uma nova atualização. A cada segundo o preço da P-Coin caindo milhões. Segundo a lógica praticamente esotérica das físico-moedas, o valor investido nelas só poderia ser sacado em 24h. Mas ele po- deria ser transferido para outras físico-moedas instantaneamente. Eram poucas opções, a mais atraente sendo a moeda de Swetketu: Nitta.
+— Próximo! - chamou o caixa.
+— Olá! Eu gostaria de fazer um saque.
+
+Sub-Arquétipo | 01D 魔術師 ILUSIONISTA
+Sub-Arquétipo da Classe: Alquimista
+Deslumbre Envolvimento Encanto
+Gerar encantamento é o seu maior objetivo. Com habilidades treinadas, sabe exatamente para onde direcionar as atenções que recebe. É responsável por criar uma atmosfera de possibilidades, e os ares mágicos oferecem um envolvimento único.
+FORÇA POSITIVA
+1. FORÇA POSITIVA DO ARQUÉTIPO
+Nada é impossível nas mãos de quem parece ignorar as regras apresentadas. Capaz de um encantamento que inebria, consegue criar uma atmosfera de magia que envolve todos que o cercam.
+2. PROPÓSITO DO ARQUÉTIPO
+Consciente de suas habilidades, sabe que aqueles que o procuram buscam enxergar magia em ações que considera casuais. Envolve e enlaça quem lhe cruza o caminho e sabe lidar com maestria com o desejo de viver de ilusões. O mistério por detrás de seus atos entrega o novo de uma maneira inespera- da, e consegue, assim, fazer com que o impossível torne-se cada vez mais questionável.
+AÇÃO ORIENTADORA
+Mas o que seria a loucura, recusar a realidade ou pactuar com ela?
+: Lygia Fagundes Telles
+3. ATITUDES DO ARQUÉTIPO
+Quando aguardadas, algumas mentiras podem ser idolatradas. O sublime é seu único objetivo e, para isso, conduz a atenção para o que considera mais valioso.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Encantar, Surpreender, Cativar
+5. CONSEQUÊNCIAS DAS ATITUDES POSITIVAS
+Em seus braços não há espaço para maniqueísmos. Tudo oscila constantemente entre polos, e o valor das ilusões criadas é proporcional ao quanto se mantêm enevoadas. Para tanto, alimenta a atmos- fera de bruma e dialoga livremente com o subcons- ciente que sustenta ativo seu magnetismo.
+6. NÍVEIS DO ARQUÉTIPO
+Suas verdades não são desveladas. Traz o mági- co para o mundano e encanta por onde passa.
+Parece transpor mundos por onde passa. O que pode ser imaginado pode ser criado e vivido.
+Estética é maior do que ética, o que o cerca não supre vontades tanto quanto o deslumbre.
+
+FORÇA ANTAGÔNICA
+1. FORÇA ANTAGÔNICA DO ARQUÉTIPO
+Quebrar as regras e respostas automáticas pode resultar em insegurança. Quando cai a máscara por detrás do espetáculo, o que era magia pode ser lido como farsa e tudo ruir.
+2. PROPÓSITO ANTAGÔNICO DO ARQUÉTIPO
+Criar necessita de uma estrutura firme. Quando desvelado, o trabalho do encantamento pode ruir e invalidar os discursos construídos. A mesma veloci- dade com a qual cria encantamento pode ser a que desmorona o castelo de cartas e a realidade criada tornar-se seu limbo. Pesos devem ser ponderados, e o limiar entre entreter e ludibriar é resultado de semiverdades bem usadas.
+3. ATITUDES ANTAGÔNICAS DO ARQUÉTIPO
+O magnetismo daqueles que o cercam nutre seu espírito, e, para viver esse sentimento, é capaz de se perder em sua própria capa e malabares.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Forçar, Confundir, Iludir
+5. CONSEQUÊNCIAS DAS ATITUDES ANTAGÔNICAS
+Quando uma realidade é criada, facilmente torna-se mais atrativa do que o mundo tangível, mas não há controle quando o véu se levanta e verdades se des- velam. Não é possível conter o que desmorona, e a insegurança instaurada é o bastante para estagnar o poder criativo.
+6. NÍVEIS DO ARQUÉTIPO
+Transitar entre real e imaginado tem o peso do que não se encontra em nenhum dos lados.
+A ausência de verdades é marco para ser silenciado. Basta uma faísca para o incêndio.
+O que antes gerava louros hoje o esmaga. Seus truques são facetas de um charlatão.
+
+MANDALA ARQUETÍPICA
+ATRIBUTOS DE RECONHECIMENTO
+Quando tratamos de arquétipos, os aspectos inerentes são cruciais para este processo. Os elementos de reconhecimento podem ser utilizados para nortear o processo de escolha do arquétipo, tendo, assim, alguns questionamentos quando feitos, tornam-se um norte para a escolha.
+Agudeza, Espetáculo, Ilusionismo, Imaginação, Performance, Simulação
+
+ATRIBUTOS COMPORTAMENTAIS
+Alguém que se apresenta com determinado alinhamento ao arquétipo, tende também a se mostrar com comportamentos que dialogam diretamente com o posicionamento. As ações e atitudes do arquétipo são também uma das tantas maneiras de se criar o sentimento de reconhecimento.
+Atrair, Cativar, Encantar, Entreter, Fascinar, Manipular, Maravilhar, Surpreender
+
+ATRIBUTOS SIMBÓLICOS
+Imagens têm a capacidade de atribuir valor e significados, além disso determinados símbolos se relacionam mais com os arquétipos escolhidos. Estes símbolos podem ser objetos, figuras, construções ou qualquer outra representação que tenha em si uma carga de significados completa.
+Ilusão, Fumaça, Feitiço, Fantasia
+
+ATRIBUTOS ASPIRACIONAIS
+A motivação é o que direciona a tomada de decisões de cada arquétipo. Considere este como um destino no qual o arquétipo deseja chegar e, dessa maneira, se sentir mais completo. Muito além de destinos físicos, aqui temos as motivações que fazem com que cada passo seguinte seja desejado.
+Prestígio, Magnetismo, Fascinação, Envolvimento, Encantamento, Deslumbre
+
+CONTO ARQUETÍPICO
+ILUSÃO É UMA CURA, MAS TAMBÉM UMA DOENÇA
+por Thiago Vignoli
+
+Hari corria com seus pés descalços depois da aula até em casa para abraçar sua mãe, e logo ir ajudar seu pai com os animais, cuidavam de diver- sos animais que não pertenciam a eles, tinham uma pequena casa próximo ao estábulo onde moravam há muitos anos.
+Hari fazia tudo com muita pressa e corre- ria, caia, se ralava, mas nunca chorava, estava sem- pre tentando fazer um pouco mais, porque um dia ele queria ter a própria fazenda. Mas enquanto esse dia não chegava, Hari tinha pressa, pois no final da tarde subia no alto da montanha para visitar alguém que tinha muitos nomes, mas ele chamava de Ra- desh.
+Radesh meditava no topo de uma pedra próxima a sua humilde moradia, aparentava ter seus 60 anos e passava um ar sábio e de muita calma
+— RADESH! Cheguei, você está dormindo?
+Vagarosamente Radesh abriu seus olhos e disse:
+— Boa tarde, Hari.
+— Consegui chegar mais cedo hoje, as- sim podemos conversar mais.
+Com um lento sorriso, Radesh responde: — Devo perguntar, você ajudou seus
+pais?
+— Claro, mas de maneira mais rápida, fiz tudo com mais inteligência, eu contei os animais usando pequenas pedras de cores diferentes, usei o que você me ensinou, sabedoria e estratégia.
+— Seu conhecimento te ajudará a ilumi- nar seus dias, Hari, e isso é necessário, pois não se
+pode julgar no escuro.
+— Mas ando furioso, porque o Dr.Dinesh
+parece não fazer nada, e eu e meus pais trabalha- mos muito e não temos uma fazenda. Isto não está errado?
+— O vento não quebra um galho que se dobra, Hari, é importante que entenda que o mundo existe há muitos anos.
+— Você é muito sábio, Radesh, porque simplesmente não desce daqui e pega tudo para você?
+— Eu sempre tive tudo que tive ambição de ter, infelizmente você não pode ver a vida através de meus olhos. Mas façamos um teste. Você subiu a essa montanha por muito tempo para conversar. Agora te proponho uma oferta, você poderá subir por muitos mais dias, ou poderá entrar agora em mi- nha casa e tocar em um único presente que deixei para você em cima da mesa de centro, mas apenas isto! Será possível escolher tanto o caminho de sua ambição, como também o tamanho da mesma, está preparado?
+— Essa é fácil, posso ir?
+— Sinta-se convidado a entrar em minha moradia.
+Hari pula e já em estado de correria entra na casa abrindo a porta com mais força que deveria. Os olhos de Hari brilham ao se perceber dentro de um incrível palácio de um sultão, com enormes tapetes preenchendo toda a sala, vasos or- nados em ouro, tecidos com detalhadas imagens de toda a Índia, e seus olhos lacrimejados de surpresa
+avistam em cima da mesa algumas moedas de ouro, ele então corre e segura as moedas em sua mão. Ao lado, em cima do sofá, um pergaminho com os dizeres que podem ser lidos antes da dobra “Este documento te dá propriedade das terras de...”
+Hari segura suas moedas, porém não con- segue ir embora sem pensar que poderia ter aquele documento, aquelas terras.
+Então Hari decide colocar as moedas em seu bolso e abrir o pergaminho um pouco mais. Ao segurar e rapidamente abri-lo ele consegue ler as palavras:
+“...Te agradeço por tudo que fez para mudar esse país, Dinesh, lhe dou essa fazenda com grande orgulho do que você se tornou...”
+E de repente todo o grande castelo vira areia e cai sobre Hari, que tenta se limpar e olha em volta, agora na montanha, sozinho e com os olhos cheios d’água ele lembra de uma das falas de Ra- desh “Não se pode julgar no escuro” e então procura rapidamente pelas moedas em seu bolso e encontra apenas uma moeda. A sua volta está escrito na areia os seguintes dizeres que já começam a se apagar com o vento:
+“Os mágicos, escritores, poetas, atores, políticos, ladrões, contadores de história e muitos outros, todos mentem, todos sabem e todos querem um pouco mais. A ilusão é uma cura e uma doença, quem você será e como irá lidar com ela, Hari?”
+
+Sub-Arquétipo | 01E シャーマン XAMÃ
+Sub-Arquétipo da Classe: Alquimista
+Invocação Sinergia Reconhecimento
+Fazer com que corpo e mente estejam alinhados é o caminho para encontrar as respostas que deseja. Sinais podem ser lidos em cada detalhe e, para que possa compreender, é preciso sentir-se parte inte- grante de um contexto cósmico maior.
+FORÇA POSITIVA
+1. FORÇA POSITIVA DO ARQUÉTIPO
+É possível encontrar verdades pelos detalhes que o ambiente apresenta. Com grande conexão aos ele- mentos, seu conhecimento de mundo é norteado por sinais às vezes sutis.
+2. PROPÓSITO DO ARQUÉTIPO
+Em uma constante busca por equilíbrio, direcio- na suas atenções a reconhecer os detalhes que se apresentam e permite, assim, estar imerso de ma- neira plena nas situações ao redor. É fundamental que saiba ler os sinais que estão por toda a parte e, somente ao se perceber como parte de uma reali- dade integrada, é que pode então saber qual papel deverá desempenhar.
+AÇÃO ORIENTADORA
+As pessoas esquecem-se sempre das profecias a menos que se realizem. : Margaret Eleanor Atwood
+3. ATITUDES DO ARQUÉTIPO
+Ter consciência de que o aspecto coletivo é a soma- tória de necessidades pessoais possibilita um olhar mais amplo e maior facilidade no momento de ali- nhar-se ao que o mundo oferece.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Revelar, Abranger, Curar
+5. CONSEQUÊNCIAS DAS ATITUDES POSITIVAS
+Equilíbrio é o resultado de considerar as demandas pessoais e naturais. O autoconhecimento permite que transmita a cura e o bem-estar por onde passa. Sua figura é responsável por trazer uma atmosfera de tranquilidade em seus ambientes de convívio e parece-lhe que a sabedoria é natural.
+6. NÍVEIS DO ARQUÉTIPO
+Preocupado com o bem estar coletivo, direciona seus saberes ao equilíbrio natural e humano.
+Os conhecimentos que absorveu do mundo devem ser devolvidos em forma de cura à comunidade.
+Suas demandas devem ser entregues a forças maiores, somente assim as respostas virão.
+
+FORÇA ANTAGÔNICA
+1. FORÇA ANTAGÔNICA DO ARQUÉTIPO
+Quebrar as regras e respostas automáticas pode resultar em insegurança. Quando cai a máscara por detrás do espetáculo, o que era magia pode ser lido como farsa e tudo ruir.
+2. PROPÓSITO ANTAGÔNICO DO ARQUÉTIPO
+Quando a busca por respostas extrapola a formulação de perguntas, é possível que se perca entre causas e consequências. Sua razão definidora é a mesma que te torna um sujeito aberto a superinterpretações. Sinais são interpretações para respostas condicionadas.
+3. ATITUDES ANTAGÔNICAS DO ARQUÉTIPO
+O aprendizado é fundamental para que se encontre a cura, mas é necessário conhecer as necessidades reais para que suas verdades possam ser buscadas.
+4. SUAS AÇÕES DIÁRIAS ENVOLVEM
+Perder, Extasiar, Ocultar
+5. CONSEQUÊNCIAS DAS ATITUDES ANTAGÔNICAS
+Facilmente pode perder-se na profusão de questionamentos. Considerar as necessidades alheias juntamente com as suas próprias pode fazer com que confunda qual o seu verdadeiro foco. O conhecimento que adquiriu no decorrer do tempo precisa ser direcionado para que se torne funcional.
+6. NÍVEIS DO ARQUÉTIPO
+Não se alinhar consigo próprio faz com que verdades oferecidas sejam somente respostas aos seus próprios problemas.
+Para que ofereça a cura, contempla em si a doença, mas esta pode acabar assumindo um peso desproporcional.
+A fé do outro em você torna-o vulnerável a suas interpretações, e, assim, é simples direcioná-lo por conveniência.

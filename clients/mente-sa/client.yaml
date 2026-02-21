@@ -1,0 +1,45 @@
+client:
+  name: "Mente Sã"
+  slug: mente-sa
+  contact: "" # preencher
+  email: "" # preencher
+  phone: "" # preencher
+  status: active
+  started: 2026-01-15
+  relationship: recorrente
+  priority: alta # único cliente recorrente
+
+  billing:
+    model: hybrid # projetos + retainer de marketing
+    currency: BRL
+    payment_terms: "a definir"
+
+  projects:
+    - slug: esoterico
+      name: "Mente Sã Esotérico"
+      description: "Marca de produtos esotéricos — cristais, tarô, velas, incensos, kits rituais"
+      status: active
+      squads:
+        - eso-marketing-squad
+      started: 2026-01-15
+      notes: |
+        Nicho com restrições de plataformas de ads (claims de cura proibidos).
+        Tendência forte no WitchTok e self-care espiritual.
+
+    - slug: biocosmetics
+      name: "Mente Sã Biocosmetics"
+      description: "Marca de biocosméticos naturais — requer cuidado com claims de saúde"
+      status: planning
+      squads:
+        - sig-branding
+        - sig-marketing
+      started: null
+      notes: |
+        Regulamentação ANVISA para cosméticos.
+        Não pode fazer claims de tratamento/cura sem registro.
+        Nicho em crescimento (clean beauty, natural, vegano).
+
+  notes: |
+    Cliente principal e único recorrente da Signifique.
+    Tratamento prioritário — seu sucesso é a melhor vitrine.
+    Dois projetos completamente distintos que não devem ser misturados.

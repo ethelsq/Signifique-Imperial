@@ -1,0 +1,123 @@
+# Tabela de Preços — Benchmarks do Mercado Brasileiro 2025-2026
+# Valores em BRL. Faixas: junior (iniciante), pleno (experiente), senior (referência)
+# Fonte: pesquisa de mercado, comunidades de freelancers, plataformas brasileiras
+# IMPORTANTE: Estes são BENCHMARKS. Seu preço ideal pode (e deve) ser maior
+# se você entrega diferencial (IA, metodologia exclusiva, resultado comprovado).
+
+benchmarks_brasil:
+  branding:
+    discovery_session:
+      descricao: "2-4 sessões de discovery, mapeamento de marca"
+      horas_tipicas: [8, 16]
+      junior: { min: 500, max: 1500 }
+      pleno: { min: 1500, max: 4000 }
+      senior: { min: 4000, max: 10000 }
+
+    estrategia_de_marca:
+      descricao: "Posicionamento, arquétipo, tom de voz, narrativa"
+      horas_tipicas: [20, 40]
+      junior: { min: 1500, max: 4000 }
+      pleno: { min: 4000, max: 12000 }
+      senior: { min: 12000, max: 30000 }
+
+    identidade_visual:
+      descricao: "Logo, paleta, tipografia, aplicações básicas"
+      horas_tipicas: [30, 60]
+      junior: { min: 2000, max: 5000 }
+      pleno: { min: 5000, max: 15000 }
+      senior: { min: 15000, max: 50000 }
+
+    brand_book:
+      descricao: "Manual completo de marca com diretrizes"
+      horas_tipicas: [40, 80]
+      junior: { min: 3000, max: 8000 }
+      pleno: { min: 8000, max: 25000 }
+      senior: { min: 25000, max: 80000 }
+
+    pacote_completo:
+      descricao: "Discovery + estratégia + identidade + brand book"
+      horas_tipicas: [80, 160]
+      junior: { min: 5000, max: 15000 }
+      pleno: { min: 15000, max: 40000 }
+      senior: { min: 40000, max: 100000 }
+
+  marketing_digital:
+    gestao_trafego_mensal:
+      descricao: "Gestão de campanhas Meta/Google, relatório mensal"
+      nota: "Não inclui verba de mídia"
+      junior: { min: 1000, max: 2500 }
+      pleno: { min: 2500, max: 6000 }
+      senior: { min: 6000, max: 15000 }
+
+    estrategia_marketing:
+      descricao: "Plano de marketing, funil, calendário, KPIs"
+      horas_tipicas: [20, 40]
+      junior: { min: 1500, max: 4000 }
+      pleno: { min: 4000, max: 10000 }
+      senior: { min: 10000, max: 25000 }
+
+    landing_page:
+      descricao: "LP completa com copy + design"
+      horas_tipicas: [15, 30]
+      junior: { min: 800, max: 2000 }
+      pleno: { min: 2000, max: 5000 }
+      senior: { min: 5000, max: 12000 }
+
+    social_media_mensal:
+      descricao: "Planejamento + criação de conteúdo mensal"
+      junior: { min: 800, max: 2000 }
+      pleno: { min: 2000, max: 5000 }
+      senior: { min: 5000, max: 12000 }
+
+    email_marketing_setup:
+      descricao: "Setup de automações, sequências, templates"
+      horas_tipicas: [10, 20]
+      junior: { min: 1000, max: 2500 }
+      pleno: { min: 2500, max: 6000 }
+      senior: { min: 6000, max: 12000 }
+
+  consultoria_ai:
+    diagnostico_ai:
+      descricao: "Análise de oportunidades de IA no negócio do cliente"
+      horas_tipicas: [10, 20]
+      pleno: { min: 3000, max: 8000 }
+      senior: { min: 8000, max: 20000 }
+
+    implementacao_agente:
+      descricao: "Criar agente/squad AIOS customizado para o cliente"
+      horas_tipicas: [20, 60]
+      pleno: { min: 5000, max: 15000 }
+      senior: { min: 15000, max: 40000 }
+
+    retainer_ai_mensal:
+      descricao: "Manutenção e evolução mensal de automações IA"
+      pleno: { min: 3000, max: 8000 }
+      senior: { min: 8000, max: 20000 }
+
+    workshop_ai:
+      descricao: "Workshop de capacitação em IA para equipe do cliente"
+      horas_tipicas: [4, 8]
+      pleno: { min: 2000, max: 5000 }
+      senior: { min: 5000, max: 12000 }
+
+multiplicadores:
+  urgencia:
+    normal: 1.0
+    urgente: 1.5
+    emergencial: 2.0
+  complexidade:
+    baixa: 0.8
+    media: 1.0
+    alta: 1.3
+  ai_premium: 1.3
+  recorrencia_desconto: 0.85
+  nicho_restrito: 1.2 # nichos com restrições (esotérico, saúde, cosméticos)
+
+notas: |
+  - Valores baseados em pesquisa de mercado brasileiro 2025-2026
+  - "Junior" = freelancer iniciante ou generalista
+  - "Pleno" = profissional experiente com portfólio
+  - "Senior" = referência no mercado, metodologia própria
+  - A Signifique deve se posicionar no mínimo como "pleno"
+  - Com diferencial AIOS/Imperial, pode cobrar entre "pleno alto" e "senior"
+  - Atualizar a cada 6 meses

@@ -1,0 +1,33 @@
+{
+  "agentId": "analyst",
+  "quality": "partial",
+  "totalDuration": 251,
+  "requireChainMs": 390.2695,
+  "loaders": {
+    "agentConfig": {
+      "duration": 5,
+      "status": "ok"
+    },
+    "gitConfig": {
+      "duration": 109,
+      "status": "ok"
+    },
+    "permissionMode": {
+      "duration": 110,
+      "status": "ok"
+    },
+    "sessionContext": {
+      "duration": 1,
+      "status": "ok"
+    },
+    "projectStatus": {
+      "duration": 66,
+      "status": "timeout"
+    },
+    "synapseSession": {
+      "duration": 1,
+      "status": "ok"
+    }
+  },
+  "timestamp": "2026-02-20T01:36:23.154Z"
+}
