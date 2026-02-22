@@ -15,7 +15,7 @@
 - Áreas: Estratégia, Marketing, Branding, Design, UX, Service Design
 - Objetivo: Ser Advisor de negócios para múltiplos clientes
 
-**Mente San** = UM CLIENTE SEU com 2 negócios:
+**Mente Sa** = UM CLIENTE SEU com 2 negócios:
 1. **Loja de Esoterismo** (Nicho específico)
 2. **Loja de Biocosméticos** (Nicho específico)
 
@@ -49,14 +49,14 @@ squads/
 │
 ├── CLIENTES/
 │   │
-│   └── mente-san/                    ← Pasta do cliente Mente San
-│       ├── mente-san-esoterismo/     ← Squad específico do negócio 1
+│   └── mente-sa/                    ← Pasta do cliente Mente San
+│       ├── mente-sa-esoterismo/     ← Squad específico do negócio 1
 │       │   ├── eso-marketing-squad/  ← Execução marketing (hoje eso-marketing-squad)
 │       │   ├── eso-brand-strategy/   ← Branding específico para esoterismo
 │       │   ├── eso-ux-design/        ← UX/Design para esoterismo
 │       │   └── config.yaml
 │       │
-│       └── mente-san-biocosmeticos/  ← Squad específico do negócio 2
+│       └── mente-sa-biocosmeticos/  ← Squad específico do negócio 2
 │           ├── bio-marketing-squad/  ← Execução marketing (novo)
 │           ├── bio-brand-strategy/   ← Branding específico para biocosméticos
 │           ├── bio-ux-design/        ← UX/Design para biocosméticos
@@ -91,18 +91,18 @@ squads/
 **Tarefas:**
 - [ ] Criar estrutura de diretórios:
   - [ ] `squads/clientes/` (novo diretório)
-  - [ ] `squads/clientes/mente-san/` (novo)
-  - [ ] `squads/clientes/mente-san/mente-san-esoterismo/` (novo)
-  - [ ] `squads/clientes/mente-san/mente-san-biocosmeticos/` (novo)
+  - [ ] `squads/clientes/mente-sa/` (novo)
+  - [ ] `squads/clientes/mente-sa/mente-sa-esoterismo/` (novo)
+  - [ ] `squads/clientes/mente-sa/mente-sa-biocosmeticos/` (novo)
 
 - [ ] Mover arquivos:
-  - [ ] `squads/eso-marketing-squad/` → `squads/clientes/mente-san/mente-san-esoterismo/eso-marketing-squad/`
-  - [ ] `squads/marketing-opes/` → `squads/clientes/mente-san/marketing-opes/` (ou renomear para bio também?)
+  - [ ] `squads/eso-marketing-squad/` → `squads/clientes/mente-sa/mente-sa-esoterismo/eso-marketing-squad/`
+  - [ ] `squads/marketing-opes/` → `squads/clientes/mente-sa/marketing-opes/` (ou renomear para bio também?)
 
 - [ ] Criar estruturas novas:
-  - [ ] `mente-san-biocosmeticos/bio-marketing-squad/`
-  - [ ] `mente-san-esoterismo/eso-brand-strategy/`
-  - [ ] `mente-san-biocosmeticos/bio-brand-strategy/`
+  - [ ] `mente-sa-biocosmeticos/bio-marketing-squad/`
+  - [ ] `mente-sa-esoterismo/eso-brand-strategy/`
+  - [ ] `mente-sa-biocosmeticos/bio-brand-strategy/`
   - [ ] Etc.
 
 **Responsável:** Craft
@@ -119,17 +119,17 @@ squads/
   - [ ] Deixar genérico (para consultoria)
   - [ ] Remover referências a Mente San específicas
 
-- [ ] Criar `docs/clients/mente-san/README.md`:
+- [ ] Criar `docs/clients/mente-sa/README.md`:
   - [ ] Visão geral de Mente San
   - [ ] Separação entre os 2 negócios
   - [ ] Como usar cada squad
 
-- [ ] Criar `docs/clients/mente-san/mente-san-esoterismo/README.md`:
+- [ ] Criar `docs/clients/mente-sa/mente-sa-esoterismo/README.md`:
   - [ ] Objetivos do negócio
   - [ ] Squads disponíveis
   - [ ] Métricas de sucesso
 
-- [ ] Criar `docs/clients/mente-san/mente-san-biocosmeticos/README.md`:
+- [ ] Criar `docs/clients/mente-sa/mente-sa-biocosmeticos/README.md`:
   - [ ] Objetivos do negócio
   - [ ] Squads disponíveis
   - [ ] Métricas de sucesso
@@ -190,11 +190,11 @@ squads/
 ```
 squads/clientes/
 │
-├── mente-san/
+├── mente-sa/
 │   ├── README.md (Overview de Mente San)
 │   ├── config.yaml (Configuração geral do cliente)
 │   │
-│   ├── mente-san-esoterismo/
+│   ├── mente-sa-esoterismo/
 │   │   ├── README.md
 │   │   ├── squad.yaml (NOVO)
 │   │   │
@@ -224,7 +224,7 @@ squads/clientes/
 │   │       ├── competitor-analysis.md
 │   │       └── customer-research.md
 │   │
-│   └── mente-san-biocosmeticos/ [NOVO]
+│   └── mente-sa-biocosmeticos/ [NOVO]
 │       ├── README.md
 │       ├── squad.yaml
 │       │
@@ -412,14 +412,14 @@ Tempo: 2-3 horas
 │       │
 │       ├── README.md                   [Guia de clientes]
 │       │
-│       └── mente-san/                  [Cliente 1]
+│       └── mente-sa/                  [Cliente 1]
 │           ├── README.md
 │           ├── config.yaml
 │           ├── docs/
 │           │   ├── client-overview.md
 │           │   └── kpis.md
 │           │
-│           ├── mente-san-esoterismo/   [Negócio 1]
+│           ├── mente-sa-esoterismo/   [Negócio 1]
 │           │   ├── README.md
 │           │   ├── squad.yaml
 │           │   ├── eso-marketing-squad/    [MOVER daqui: squads/eso-marketing-squad]
@@ -429,7 +429,7 @@ Tempo: 2-3 horas
 │           │   ├── data/
 │           │   └── VALIDATION_REPORT.md
 │           │
-│           └── mente-san-biocosmeticos/  [Negócio 2]
+│           └── mente-sa-biocosmeticos/  [Negócio 2]
 │               ├── README.md
 │               ├── squad.yaml
 │               ├── bio-marketing-squad/   [NOVO]
@@ -444,11 +444,11 @@ Tempo: 2-3 horas
 │   ├── three-squad-ecosystem.md            [GENÉRICO - Para consultoria]
 │   │
 │   └── clients/                            [NOVO]
-│       └── mente-san/
+│       └── mente-sa/
 │           ├── README.md
-│           ├── mente-san-esoterismo/
+│           ├── mente-sa-esoterismo/
 │           │   └── README.md
-│           └── mente-san-biocosmeticos/
+│           └── mente-sa-biocosmeticos/
 │               └── README.md
 │
 └── .
