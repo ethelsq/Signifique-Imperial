@@ -1,0 +1,583 @@
+---
+title: "Market Research Elite - Frameworks Bibliography"
+description: "Complete reading list and references for all 8 frameworks"
+version: "1.0"
+last_updated: "2026-02-22"
+
+frameworks:
+  - phase: 0
+    framework: "Brand Vision Model"
+    author: "David Aaker"
+    year_published: 2014
+
+    primary_books:
+      - title: "Aaker on Branding: 20 Principles That Drive Success"
+        isbn: "978-0804137317"
+        published: 2014
+        pages: 384
+        key_chapters:
+          - "Part 1: Have a Compelling Brand Vision"
+          - "Part 2: Bring the Brand to Life"
+          - "Part 3: Brand Management Priorities"
+        availability: "Amazon, O'Reilly, Direct"
+        reading_time_hours: 8
+
+      - title: "Building Strong Brands"
+        isbn: "0684801221"
+        published: 1996
+        pages: 352
+        note: "Foundational work on brand equity"
+        reading_time_hours: 6
+
+    foundational_concepts:
+      - "Brand equity (awareness, associations, loyalty)"
+      - "Brand vision vs brand image"
+      - "Proof points and strategic imperatives"
+      - "Brand essence"
+      - "20 principles framework"
+
+    recommended_articles:
+      - title: "Managing Brand Equity: Capitalizing on the Value of a Brand Name"
+        url: "https://www.davidaaker.com"
+        date: "2012"
+        relevance: "high"
+
+      - title: "Strategic Brand Management"
+        url: "https://www.davidaaker.com/brand-strategy"
+        date: "2010"
+        relevance: "high"
+
+    tools_templates:
+      - name: "Brand Vision Canvas"
+        format: "PDF"
+        source: "aaker-associates.com"
+
+      - name: "Brand Essence Framework"
+        format: "Worksheet"
+        source: "aaker-associates.com"
+
+    case_examples:
+      - brand: "Apple"
+        essence: "Simplicity and Innovation"
+        key_elements: ["Innovation", "Design", "Simplicity", "Premium"]
+
+      - brand: "Disneyland"
+        essence: "Family Magic"
+        key_elements: ["Magic", "Family", "Escapism", "Happiness"]
+
+  - phase: 1
+    framework: "Mental Models"
+    author: "Indy Young"
+    year_published: 2008
+
+    primary_books:
+      - title: "Mental Models: Aligning Design Strategy with Human Behavior"
+        isbn: "978-1933820225"
+        published: 2008
+        pages: 304
+        key_chapters:
+          - "Chapter 1: Why Mental Models Matter"
+          - "Chapter 2: How to Identify Mental Models"
+          - "Chapter 3: Building the Model"
+          - "Chapter 4: Presenting the Model"
+        availability: "Amazon, O'Reilly, Direct"
+        reading_time_hours: 6
+
+      - title: "Practical Design Research Methods"
+        isbn: "978-1933820729"
+        published: 2005
+        pages: 272
+        note: "Methods for conducting user research"
+        reading_time_hours: 5
+
+    foundational_concepts:
+      - "Task-based segments (not demographic)"
+      - "Affinity diagramming"
+      - "Mental model visualization"
+      - "User research methodology"
+      - "Behavior over preferences"
+
+    research_methodologies:
+      - name: "Contextual Interviews"
+        description: "Interviews in natural context where behavior occurs"
+        typical_sample_size: "8-12 per segment"
+        time_per_interview: "60-90 minutes"
+
+      - name: "Affinity Diagramming"
+        description: "Grouping behavioral data into patterns"
+        typical_time: "8-16 hours"
+
+      - name: "Task Analysis"
+        description: "Breaking down what users do into observable tasks"
+        typical_patterns: "50-100 tasks identified"
+
+    recommended_tools:
+      - name: "Miro / Mural"
+        purpose: "Remote affinity diagramming"
+        cost: "Subscription"
+
+      - name: "Dovetail"
+        purpose: "Research repository and analysis"
+        cost: "Subscription"
+
+    case_examples:
+      - domain: "E-commerce"
+        segments: ["Browser", "Searcher", "Comparer"]
+        insight: "Customers want different tools depending on task"
+
+      - domain: "Financial Services"
+        segments: ["Saver", "Spender", "Investor"]
+        insight: "Each segment has different mental models of money"
+
+  - phase: 2
+    framework: "Five Forces Analysis"
+    author: "Michael Porter"
+    year_published: 1980
+
+    primary_books:
+      - title: "Competitive Strategy: Techniques for Analyzing Industries and Competitors"
+        isbn: "0684841487"
+        published: 1980
+        pages: 400
+        key_chapters:
+          - "Chapter 1: Structural Analysis of Industries"
+          - "Chapter 2: Generic Competitive Strategies"
+        availability: "Amazon, Harvard Business School Press"
+        reading_time_hours: 10
+
+      - title: "Competitive Advantage: Creating and Sustaining Superior Performance"
+        isbn: "0684841489"
+        published: 1985
+        pages: 592
+        note: "Extends Five Forces to value chains"
+        reading_time_hours: 12
+
+    five_forces:
+      - force: "Threat of New Entrants"
+        assessment_factors:
+          - "Barriers to entry (capital, expertise, scale)"
+          - "Switching costs"
+          - "Access to distribution"
+
+      - force: "Bargaining Power of Suppliers"
+        assessment_factors:
+          - "Number of suppliers"
+          - "Supplier concentration"
+          - "Switching costs"
+
+      - force: "Bargaining Power of Buyers"
+        assessment_factors:
+          - "Buyer concentration"
+          - "Product importance to buyer"
+          - "Switching costs"
+
+      - force: "Threat of Substitutes"
+        assessment_factors:
+          - "Availability of alternatives"
+          - "Relative pricing"
+          - "Switching costs"
+
+      - force: "Competitive Rivalry"
+        assessment_factors:
+          - "Number of competitors"
+          - "Industry growth"
+          - "Product differentiation"
+
+    recommended_articles:
+      - title: "The Five Competitive Forces That Shape Strategy"
+        author: "Michael Porter"
+        publication: "Harvard Business Review"
+        date: "2008"
+        relevance: "high"
+
+      - title: "How Competitive Forces Shape Strategy"
+        author: "Michael Porter"
+        publication: "Free Press"
+        date: "1997"
+        relevance: "high"
+
+    analysis_tools:
+      - name: "Five Forces Template"
+        format: "Excel / Miro"
+        source: "Strategy+Business"
+
+  - phase: 3
+    framework: "Jobs to be Done"
+    author: "Clayton Christensen"
+    year_published: 2006
+
+    primary_books:
+      - title: "The Innovator's Solution: Creating and Sustaining Successful Growth"
+        isbn: "1591396190"
+        published: 2003
+        pages: 352
+        key_chapters:
+          - "Chapter 3: The Job to be Done"
+        availability: "Amazon, Harvard Business School Press"
+        reading_time_hours: 7
+
+      - title: "Competing Against Luck: The Story of Innovation and Customer Choice"
+        isbn: "0062435612"
+        published: 2016
+        pages: 464
+        note: "Complete JTBD framework"
+        reading_time_hours: 8
+
+    foundational_concepts:
+      - "Job definition: Functional + Emotional + Social"
+      - "Circumstances (when, where, why)"
+      - "Competing alternatives"
+      - "Jobs vs features/benefits"
+      - "Job evolution over time"
+
+    job_dimensions:
+      - dimension: "Functional Job"
+        definition: "What task is customer trying to accomplish?"
+        example: "Manage financial risk"
+
+      - dimension: "Emotional Job"
+        definition: "How does customer want to feel?"
+        example: "Feel secure and in control"
+
+      - dimension: "Social Job"
+        definition: "How does customer want to be perceived?"
+        example: "Be seen as responsible"
+
+    recommended_resources:
+      - title: "The Essential Read on Jobs to be Done"
+        author: "Clayton Christensen et al"
+        publication: "Online Course"
+        cost: "Paid"
+
+      - title: "Jobs to be Done Podcast"
+        author: "Bob Moesta"
+        format: "Audio"
+        url: "jobstobedone.org"
+
+    case_examples:
+      - product: "Milkshake"
+        functional_job: "Find something to consume while commuting"
+        emotional_job: "Feel sustained through morning"
+        social_job: "Not look messy in front of colleagues"
+
+  - phase: 4
+    framework: "ZMET (Zaltman Metaphor Elicitation Technique)"
+    author: "Gerald Zaltman"
+    year_published: 1997
+
+    primary_books:
+      - title: "How Customers Think: Essential Insights into the Mind of the Market"
+        isbn: "1591391849"
+        published: 2003
+        pages: 304
+        key_chapters:
+          - "Chapter 4: Metaphors and the Hidden Mind"
+          - "Chapter 5: The ZMET Interview"
+        availability: "Amazon, Harvard Business School Press"
+        reading_time_hours: 7
+
+      - title: "Metaphorically Yours: Uncovering Hidden Meanings in Branding"
+        isbn: "7"
+        published: 2008
+        pages: 256
+        note: "ZMET applications to branding"
+        reading_time_hours: 6
+
+    foundational_concepts:
+      - "Unconscious communication through metaphors"
+      - "Image collection and interpretation"
+      - "Metaphor map creation"
+      - "Hidden emotional drivers"
+      - "Non-conscious vs conscious motivations"
+
+    zmet_interview_process:
+      - step: 1
+        name: "Image Collection"
+        duration: "1-2 weeks"
+        description: "Participants find 5-8 images representing topic"
+
+      - step: 2
+        name: "Image Sort"
+        duration: "1 hour (session start)"
+        description: "Sort images into meaningful groups"
+
+      - step: 3
+        name: "Detailed Elicitation"
+        duration: "45-60 minutes per image"
+        description: "In-depth discussion of each image"
+
+      - step: 4
+        name: "Metaphor Construction"
+        duration: "Final 15 minutes"
+        description: "Build overall metaphor from patterns"
+
+    recommended_resources:
+      - name: "ZMET Interview Guide"
+        format: "PDF"
+        source: "Zaltman Associates"
+
+      - name: "Metaphor Mapping Tools"
+        format: "Templates"
+        source: "Online"
+
+    case_examples:
+      - brand: "Apple"
+        primary_metaphor: "Technology as Art"
+        secondary_metaphors: ["Simplicity as Power", "Innovation as Liberation"]
+
+      - brand: "Luxury Brands"
+        primary_metaphor: "Heritage and Craftsmanship"
+        emotional_drivers: ["Exclusivity", "Quality", "Legacy"]
+
+  - phase: 5
+    framework: "Discovery-Driven Planning"
+    author: "Rita McGrath"
+    year_published: 1995
+
+    primary_books:
+      - title: "The Entrepreneurial Mindset: Strategies for Continuously Creating Opportunity in an Age of Uncertainty"
+        isbn: "1578514762"
+        published: 2000
+        pages: 256
+        key_chapters:
+          - "Chapter 3: The Planning Perspective"
+        availability: "Amazon, Harvard Business School Press"
+        reading_time_hours: 6
+
+      - title: "Transient Advantage: How to Achieve Long-Term Growth"
+        isbn: "0133133303"
+        published: 2013
+        pages: 304
+        note: "Modern update on strategy for uncertainty"
+        reading_time_hours: 7
+
+    core_concepts:
+      - "Assumption identification and ranking"
+      - "Risk = Impact × Uncertainty"
+      - "Real-world testing vs surveys"
+      - "Rapid learning cycles"
+      - "Pivot decision rules"
+
+    test_methodologies:
+      - method: "Customer Interviews"
+        cost: "$0-1K"
+        timeline: "1-2 weeks"
+        learn: "Do they have the problem?"
+
+      - method: "Landing Page Test"
+        cost: "$0-2K"
+        timeline: "1-2 weeks"
+        learn: "Would they pay?"
+
+      - method: "Prototype Test"
+        cost: "$1-5K"
+        timeline: "2-4 weeks"
+        learn: "Does solution work?"
+
+      - method: "MVP/Beta"
+        cost: "$10-50K"
+        timeline: "4-12 weeks"
+        learn: "Will they actually use it?"
+
+    recommended_resources:
+      - name: "Lean Startup Methodology"
+        author: "Eric Ries"
+        relevance: "Complements discovery-driven planning"
+
+  - phase: 6
+    framework: "Hook Model"
+    author: "Nir Eyal"
+    year_published: 2012
+
+    primary_books:
+      - title: "Hooked: How to Build Habit-Forming Products"
+        isbn: "1591847788"
+        published: 2012
+        pages: 272
+        key_chapters:
+          - "Chapter 1-4: The Hook Model"
+          - "Chapter 5-7: Variable Rewards"
+        availability: "Amazon, Niagara Press"
+        reading_time_hours: 6
+
+      - title: "Indistractable: How to Control Your Attention and Choose Your Life"
+        isbn: "1656880989"
+        published: 2019
+        pages: 320
+        note: "Behavioral design and attention"
+        reading_time_hours: 7
+
+    hook_model_stages:
+      - stage: "Trigger"
+        types: ["External", "Internal"]
+        goal: "Prompt user action"
+        metrics: "Frequency, reliability"
+
+      - stage: "Action"
+        definition: "Simplest behavior in anticipation of reward"
+        goal: "Low friction (time, effort, cognitive load)"
+        metrics: "Ease of execution"
+
+      - stage: "Reward"
+        types: ["Self (progress)", "Tribe (social)", "Hunt (variable)"]
+        goal: "Relief of discomfort or motivation"
+        metrics: "Satisfaction, desire to repeat"
+
+      - stage: "Investment"
+        definition: "User puts effort/data in"
+        goal: "Increase switching costs"
+        metrics: "Depth of investment"
+
+    recommended_resources:
+      - name: "Hooked.com"
+        type: "Course and resources"
+        cost: "Paid"
+
+      - name: "Behavior Design Summit"
+        type: "Conference"
+        url: "behaviordesign.org"
+
+  - phase: 7
+    framework: "Behavior Model (B=MAP)"
+    author: "B.J. Fogg"
+    year_published: 2009
+
+    primary_books:
+      - title: "Tiny Habits: The Small Changes That Create Big Results"
+        isbn: "0544393548"
+        published: 2019
+        pages: 336
+        key_chapters:
+          - "Chapter 1-3: Behavior Basics"
+          - "Chapter 4-6: Motivation, Ability, Prompt"
+          - "Chapter 7-8: Building Tiny Habits"
+        availability: "Amazon, Houghton Mifflin Harcourt"
+        reading_time_hours: 7
+
+      - title: "Persuasive Technology: Using Computers to Change What We Think and Do"
+        isbn: "1558606432"
+        published: 2003
+        pages: 320
+        note: "Foundational work on behavior change"
+        reading_time_hours: 8
+
+    b_map_model:
+      - factor: "Motivation"
+        types:
+          - "Seek Pleasure / Avoid Pain"
+          - "Seek Hope / Avoid Fear"
+          - "Seek Acceptance / Avoid Rejection"
+        reality: "Most people have MEDIUM motivation"
+
+      - factor: "Ability"
+        components:
+          - "Time (reduce time commitment)"
+          - "Effort (reduce complexity)"
+          - "Money (reduce cost)"
+          - "Brain Cycles (reduce thinking)"
+          - "Physical Effort (reduce physical demands)"
+          - "Social Deviance (reduce awkwardness)"
+        reality: "Easiest to improve"
+
+      - factor: "Prompt"
+        requirement: "Reliable trigger at moment of high motivation"
+        methods: ["Anchor to routine", "Environment cue", "Reminder system"]
+        reality: "Must be consistent"
+
+    tiny_habits_approach:
+      - step: 1
+        name: "Design Behavior"
+        detail: "Make behavior absurdly small (start micro)"
+
+      - step: 2
+        name: "Anchor Behavior"
+        detail: "Attach to existing routine"
+
+      - step: 3
+        name: "Celebrate"
+        detail: "Immediate positive feeling"
+
+      - step: 4
+        name: "Iterate"
+        detail: "Expand gradually"
+
+    recommended_resources:
+      - name: "BJ Fogg's Behavior Model"
+        type: "Online course"
+        url: "bjfogg.com"
+        cost: "Free"
+
+      - name: "Behavior Design Lab"
+        type: "Research center"
+        url: "stanford.edu/blab"
+
+---
+
+# Cross-Framework Reading Path
+
+## For Quick Understanding
+**Total time: 6 hours**
+- Aaker: Brand Vision (skim chapters 1-2)
+- Young: Mental Models (Chapter 1-2)
+- Porter: Five Forces (HBR article)
+- Christensen: Jobs to be Done (HBR article)
+- Zaltman: ZMET (Chapter 4-5)
+- McGrath: Discovery-Driven (Online summary)
+- Eyal: Hook Model (Chapter 1-2)
+- Fogg: Tiny Habits (Chapter 1-3)
+
+## For Deep Mastery
+**Total time: 50+ hours**
+- Read all primary books cover-to-cover
+- Study case examples
+- Complete online courses
+- Practice frameworks on real projects
+
+## For Each Phase
+
+### Phase 0: David Aaker
+- **Essential:** "Aaker on Branding" Chapters 1-3
+- **Optional:** "Building Strong Brands" Part 1
+- **Time:** 4-6 hours
+
+### Phase 1: Indy Young
+- **Essential:** "Mental Models" Chapters 1-4
+- **Optional:** "Practical Design Research Methods"
+- **Time:** 5-7 hours
+
+### Phase 2: Michael Porter
+- **Essential:** "Competitive Strategy" Chapter 1
+- **Optional:** HBR article on Five Forces
+- **Time:** 3-5 hours
+
+### Phase 3: Clayton Christensen
+- **Essential:** "Competing Against Luck" Part 1
+- **Optional:** "Innovator's Solution" Chapter 3
+- **Time:** 4-6 hours
+
+### Phase 4: Gerald Zaltman
+- **Essential:** "How Customers Think" Chapters 4-5
+- **Optional:** ZMET interview guide
+- **Time:** 3-4 hours
+
+### Phase 5: Rita McGrath
+- **Essential:** Online discovery-driven planning resources
+- **Optional:** "Entrepreneurial Mindset" Chapter 3
+- **Time:** 3-4 hours
+
+### Phase 6: Nir Eyal
+- **Essential:** "Hooked" Chapters 1-5
+- **Optional:** Online course at hooked.com
+- **Time:** 3-4 hours
+
+### Phase 7: B.J. Fogg
+- **Essential:** "Tiny Habits" Chapters 1-6
+- **Optional:** BJ Fogg's online course
+- **Time:** 4-6 hours
+
+---
+
+**Bibliography Version:** 1.0
+**Last Updated:** 2026-02-22
+**Maintainer:** market-research-elite squad
+
