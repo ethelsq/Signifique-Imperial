@@ -1,0 +1,46 @@
+name: Deep Customer Insight Discovery
+short_name: customer-insight-discovery
+version: 1.0.0
+description: |
+  Deep dive into customer motivations and behaviors.
+  4 phases, 4 weeks. Focuses on understanding, not market entry.
+
+phases: 4
+duration_weeks: 4
+use_case: "Understand why customers aren't adopting, barriers, motivations"
+
+phases_list:
+  - phase: 1
+    week: 1
+    agent: indy-young
+    name: "User Mental Models"
+    duration_hours: 40
+    output: "Mental model diagrams"
+
+  - phase: 2
+    week: 2
+    agent: clayton-christensen
+    name: "Jobs to be Done"
+    duration_hours: 8
+    output: "Job statements"
+
+  - phase: 3
+    week: 3
+    agent: gerald-zaltman
+    name: "Emotional Drivers"
+    duration_hours: 12
+    output: "Metaphor analysis + hidden motivations"
+
+  - phase: 4
+    week: 4
+    agent: rita-mcgrath
+    name: "Validation Testing"
+    duration_hours: 8
+    output: "Tested insights"
+
+output_documents:
+  - "customer-insight-report.md"
+  - "adoption-barriers-analysis.md"
+  - "motivation-framework.md"
+
+decision_point: "Why aren't customers adopting? What's blocking?"

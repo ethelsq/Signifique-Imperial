@@ -1,0 +1,48 @@
+name: Competitive Structure Analysis
+short_name: competitive-analysis
+version: 1.0.0
+description: |
+  Fast-track competitive analysis using brand positioning and market structure.
+  3 phases, 2-3 weeks. Good for quick market evaluation.
+
+phases: 3
+duration_weeks: 3
+use_case: "Evaluate specific competitor or quick market assessment"
+
+phases_list:
+  - phase: 0
+    week: 0
+    agent: david-aaker
+    name: "Brand Positioning"
+    duration_hours: 4
+    tasks:
+      - "Analyze competitor brand positioning"
+      - "Compare against own brand"
+      - "Identify differentiation opportunities"
+
+  - phase: 1
+    week: 1
+    agent: michael-porter
+    name: "Market Structure"
+    duration_hours: 6
+    tasks:
+      - "Five Forces analysis"
+      - "Competitive intensity assessment"
+      - "Competitive dynamics"
+
+  - phase: 2
+    week: 2
+    agent: clayton-christensen
+    name: "Competitive Differentiation"
+    duration_hours: 6
+    tasks:
+      - "Jobs comparison (us vs competitor)"
+      - "Functional/emotional/social breakdown"
+      - "Positioning options"
+
+output_documents:
+  - "competitive-analysis-report.md"
+  - "positioning-comparison.md"
+  - "differentiation-strategy.md"
+
+decision_point: "Can we differentiate meaningfully?"
