@@ -26,12 +26,12 @@
 ```
 Estrutura errada:
 ├── squads/market-research-elite/     ← Correto (genérico)
-├── squads/eso-marketing-squad/       ← ❌ Específico para Mente San, mas fora de lugar
-├── squads/marketing-opes/            ← ❌ Específico para Mente San, mas fora de lugar
+├── squads/eso-marketing-squad/       ← ❌ Específico para Mente Sa, mas fora de lugar
+├── squads/marketing-opes/            ← ❌ Específico para Mente Sa, mas fora de lugar
 └── (sem estrutura para outros clientes)
 
 Confusão:
-- Não há separação entre trabalhos da sua consultoria vs. trabalhos de Mente San
+- Não há separação entre trabalhos da sua consultoria vs. trabalhos de Mente Sa
 - Results futuros podem ficar misturados
 - Escalabilidade comprometida
 ```
@@ -49,7 +49,7 @@ squads/
 │
 ├── CLIENTES/
 │   │
-│   └── mente-sa/                    ← Pasta do cliente Mente San
+│   └── mente-sa/                    ← Pasta do cliente Mente Sa
 │       ├── mente-sa-esoterismo/     ← Squad específico do negócio 1
 │       │   ├── eso-marketing-squad/  ← Execução marketing (hoje eso-marketing-squad)
 │       │   ├── eso-brand-strategy/   ← Branding específico para esoterismo
@@ -117,10 +117,10 @@ squads/
 **Tarefas:**
 - [ ] Atualizar `squad-integration-guide.md`:
   - [ ] Deixar genérico (para consultoria)
-  - [ ] Remover referências a Mente San específicas
+  - [ ] Remover referências a Mente Sa específicas
 
 - [ ] Criar `docs/clients/mente-sa/README.md`:
-  - [ ] Visão geral de Mente San
+  - [ ] Visão geral de Mente Sa
   - [ ] Separação entre os 2 negócios
   - [ ] Como usar cada squad
 
@@ -191,7 +191,7 @@ squads/
 squads/clientes/
 │
 ├── mente-sa/
-│   ├── README.md (Overview de Mente San)
+│   ├── README.md (Overview de Mente Sa)
 │   ├── config.yaml (Configuração geral do cliente)
 │   │
 │   ├── mente-sa-esoterismo/
@@ -254,7 +254,7 @@ squads/clientes/
 
 ## 🔄 Fluxo de Trabalho por Cliente
 
-### Mente San - Loja de Esoterismo
+### Mente Sa - Loja de Esoterismo
 
 ```
 1. PESQUISA (market-research-elite - GENÉRICO)
@@ -273,7 +273,7 @@ squads/clientes/
    └─ Campanhas, landing pages, copy
 ```
 
-### Mente San - Loja de Biocosméticos
+### Mente Sa - Loja de Biocosméticos
 
 ```
 1. PESQUISA (market-research-elite - GENÉRICO)
