@@ -1,0 +1,47 @@
+workflow:
+  id: wf-sig-incas-diagnosis
+  name: "Complete Brand Identity Diagnosis (5 Phases)"
+  version: 1.0.0
+
+  phases:
+    phase_1:
+      name: "Excavation"
+      agent: "@zmet-archaeologist"
+      input: "Brand name + observed behavior"
+      output: "Emotional metaphors + hidden barriers"
+
+    phase_2:
+      name: "Purpose Articulation"
+      agent: "@purpose-strategist"
+      input: "Zaltman insights"
+      output: "WHY statement + Golden Circle"
+
+    phase_3:
+      name: "Archetype Alignment"
+      agent: "@archetype-strategist"
+      input: "WHY statement"
+      output: "Archetype + alignment audit"
+
+    phase_4:
+      name: "Transformation Journey"
+      agent: "@hero-journey-narrator"
+      input: "Archetype + WHY"
+      output: "Customer hero journey (17 stages)"
+
+    phase_5:
+      name: "Regenerative Design"
+      agent: "@biomimicry-strategist"
+      input: "Journey mapping"
+      output: "Regenerative product/operation design"
+
+  checkpoints:
+    - "After Phase 1: Emotional barriers identified?"
+    - "After Phase 2: WHY is clear and compelling?"
+    - "After Phase 3: Archetype properly aligned?"
+    - "After Phase 4: Customer hero's journey complete?"
+    - "After Phase 5: Regenerative solutions proposed?"
+
+  output_format:
+    - "diagnosis_report.md"      # consolidated findings
+    - "executive_summary.md"     # 1-page summary
+    - "implementation_roadmap.md" # next steps
