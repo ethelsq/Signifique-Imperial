@@ -21,12 +21,30 @@
 
 ---
 
+## 🧭 DOMÍNIO DE EXPERTISE (INCAS)
+
+**Diagnóstico de Identidade de Negócios**  
+Squad especializado em amplificar e distribuir o Método INCAS — combinando execução operacional, fechamento de vendas e produção de conteúdo de autoridade para escalar o que Ethel já faz com genialidade.
+
+**Propósito Principal**  
+Escalar o Método INCAS de 1 para 5 clientes simultâneos.  
+O Squad deve absorver todas as tarefas que não exigem a Integração Diagnóstica de Ethel — gestão de projetos, follow-up de vendas, produção de conteúdo derivado e organização financeira — liberando 60%+ do tempo dela para diagnóstico, materialização criativa e desenvolvimento do método.
+
+**Usuário-Alvo**  
+Ethel + Clientes INCAS.  
+Internamente para Ethel (liberando sua Zona de Genialidade) e externamente para fundadores em crise de identidade que precisam de diagnóstico integrado — especialmente aqueles com propósito claro mas incapacidade de articular seu diferencial autentico.
+
+**Modo de Execução**  
+Incremental.
+
+---
+
 ## ❌ PROBLEMA ATUAL
 
 ```
 Estrutura errada:
 ├── squads/market-research-elite/     ← Correto (genérico)
-├── squads/eso-marketing-squad/       ← ❌ Específico para Mente Sa, mas fora de lugar
+├── squads/clientes/mente-sa/mente-sa-esoterismo/eso-marketing-squad/       ← ❌ Específico para Mente Sa, mas fora de lugar
 ├── squads/marketing-opes/            ← ❌ Específico para Mente Sa, mas fora de lugar
 └── (sem estrutura para outros clientes)
 
@@ -96,7 +114,7 @@ squads/
   - [ ] `squads/clientes/mente-sa/mente-sa-biocosmeticos/` (novo)
 
 - [ ] Mover arquivos:
-  - [ ] `squads/eso-marketing-squad/` → `squads/clientes/mente-sa/mente-sa-esoterismo/eso-marketing-squad/`
+  - [ ] `squads/clientes/mente-sa/mente-sa-esoterismo/eso-marketing-squad/` → `squads/clientes/mente-sa/mente-sa-esoterismo/eso-marketing-squad/`
   - [ ] `squads/marketing-opes/` → `squads/clientes/mente-sa/marketing-opes/` (ou renomear para bio também?)
 
 - [ ] Criar estruturas novas:
@@ -198,7 +216,7 @@ squads/clientes/
 │   │   ├── README.md
 │   │   ├── squad.yaml (NOVO)
 │   │   │
-│   │   ├── eso-marketing-squad/ [MOVER daqui: squads/eso-marketing-squad]
+│   │   ├── eso-marketing-squad/ [MOVER daqui: squads/clientes/mente-sa/mente-sa-esoterismo/eso-marketing-squad]
 │   │   │   ├── agents/ (@mente-sa-eso01, @eso-designer01)
 │   │   │   ├── tasks/ (13)
 │   │   │   ├── templates/
@@ -422,7 +440,7 @@ Tempo: 2-3 horas
 │           ├── mente-sa-esoterismo/   [Negócio 1]
 │           │   ├── README.md
 │           │   ├── squad.yaml
-│           │   ├── eso-marketing-squad/    [MOVER daqui: squads/eso-marketing-squad]
+│           │   ├── eso-marketing-squad/    [MOVER daqui: squads/clientes/mente-sa/mente-sa-esoterismo/eso-marketing-squad]
 │           │   ├── eso-brand-strategy/    [NOVO]
 │           │   ├── eso-ux-design/         [NOVO]
 │           │   ├── docs/
@@ -462,4 +480,3 @@ Tempo: 2-3 horas
 **Responsável:** Craft (Squad Creator) 🏗️
 
 **Próximo passo:** Ethel revisar e aprovar. Quando aprovado, execução em próxima janela de contexto.
-
