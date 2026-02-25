@@ -217,6 +217,11 @@ sig-incas-identity-chief (Orchestrator)
 3. Quality validation e smoke tests
 4. Command palette e documentação completa
 
+### STATUS ATUAL (TIER 2)
+- ✅ Russell Brunson — `squads/zona-genialidade/agents/russell-brunson.md`
+- ✅ Alex Hormozi — `squads/zona-genialidade/agents/alex-hormozi.md`
+- ✅ Nathan Barry — `squads/zona-genialidade/agents/nathan-barry.md`
+
 ---
 
 ## RECURSOS
@@ -244,4 +249,3 @@ sig-incas-identity-chief (Orchestrator)
 ---
 
 *Diagnóstico de identidade de negócios com profundidade de elite minds reais.*
-

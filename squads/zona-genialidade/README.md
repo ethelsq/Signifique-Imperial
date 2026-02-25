@@ -49,6 +49,11 @@ O Zona Genialidade Squad identifica o perfil comportamental do usuario, mapeia s
 | `kathy-kolbe` | Tier 2 | Estilo de execucao | Kolbe Action Modes |
 | `sally-hogshead` | Tier 2 | Posicionamento | Fascination Advantage |
 
+## Agentes Complementares
+
+- `russell-brunson` — Funis, Value Ladder, HSO, Dream 100
+- `nathan-barry` — Autoridade, audiencia e comunidade (email-first)
+
 ## Tasks
 
 | Task | Descricao | Interacao |
