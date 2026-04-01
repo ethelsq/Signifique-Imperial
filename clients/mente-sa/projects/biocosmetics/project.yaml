@@ -1,0 +1,31 @@
+project:
+  name: "Mente Sã — Biocosmetics"
+  client: mente-sa
+  slug: biocosmetics
+  status: planning
+
+  scope:
+    type: branding # fase inicial — só branding por enquanto
+    description: |
+      Marca de biocosméticos naturais. Fase de planejamento.
+      Requer cuidado especial com regulamentação ANVISA e
+      claims de saúde/beleza.
+    deliverables: [] # a definir quando o projeto iniciar
+
+  squads_active: []
+  squads_planned:
+    - sig-branding
+    - sig-marketing
+
+  restricoes:
+    - "ANVISA regula cosméticos — não pode fazer claims de tratamento sem registro"
+    - "Termos como 'anti-idade', 'clareador' precisam de comprovação"
+    - "Produto cosmético ≠ medicamento — linguagem precisa ser cuidadosa"
+    - "Claims permitidos: hidrata, protege, suaviza, limpa"
+
+  financials:
+    total_value: 0
+    invoiced: 0
+    received: 0
+    pending: 0
+    modelo: "a definir"

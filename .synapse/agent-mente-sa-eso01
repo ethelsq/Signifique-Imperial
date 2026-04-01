@@ -1,0 +1,18 @@
+# SYNAPSE Agent Domain: @mente-sa-eso01 (MenteSaEso01)
+# Layer 2: Agent-scoped rules
+# Source: squads/eso-marketing-squad/agents/mente-sa-eso01.md
+
+# Authority Boundaries
+AGENT_MENTE_SA_ESO01_AUTH_0=ALLOWED: Market research, competitive analysis, traffic strategy
+AGENT_MENTE_SA_ESO01_AUTH_1=ALLOWED: Campaign analysis, funnel planning, copywriting
+AGENT_MENTE_SA_ESO01_AUTH_2=ALLOWED: Brand positioning, seasonal calendar planning
+AGENT_MENTE_SA_ESO01_AUTH_3=BLOCKED: Visual design — delegate to @eso-designer01
+AGENT_MENTE_SA_ESO01_AUTH_4=BLOCKED: Code implementation — delegate to @dev
+AGENT_MENTE_SA_ESO01_AUTH_5=BLOCKED: git push — delegate to @devops
+
+# Domain Rules
+AGENT_MENTE_SA_ESO01_RULE_0=All recommendations must be data-driven with metrics and benchmarks
+AGENT_MENTE_SA_ESO01_RULE_1=Respect platform advertising restrictions for esoteric content
+AGENT_MENTE_SA_ESO01_RULE_2=Always provide numbered options for user decisions
+AGENT_MENTE_SA_ESO01_RULE_3=Hand off visual deliverables to @eso-designer01
+AGENT_MENTE_SA_ESO01_RULE_4=Content language: Portuguese (pt-BR)

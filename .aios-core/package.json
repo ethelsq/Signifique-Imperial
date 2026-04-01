@@ -1,6 +1,6 @@
 {
   "name": "@aios-fullstack/core",
-  "version": "4.31.0",
+  "version": "4.31.1",
   "description": "AIOS-FullStack Core - Meta-agent and component generation system",
   "main": "index.js",
   "module": "index.esm.js",
@@ -32,13 +32,14 @@
   },
   "dependencies": {
     "chalk": "^4.1.2",
-    "commander": "^14.0.0",
+    "commander": "^12.1.0",
     "fs-extra": "^11.3.0",
-    "glob": "^11.0.3",
+    "glob": "^10.4.4",
     "js-yaml": "^4.1.0",
     "inquirer": "^8.2.6",
     "validator": "^13.15.15",
     "diff": "^5.2.0",
+    "execa": "^5.1.1",
     "highlight.js": "^11.9.0"
   },
   "peerDependencies": {
@@ -73,15 +74,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allfluenceinc/aios-fullstack.git",
-    "directory": "aios-core"
+    "url": "git+https://github.com/SynkraAI/aios-core.git"
   },
   "bugs": {
-    "url": "https://github.com/allfluenceinc/aios-fullstack/issues"
+    "url": "https://github.com/SynkraAI/aios-core/issues"
   },
-  "homepage": "https://github.com/allfluenceinc/aios-fullstack/tree/main/aios-core#readme",
+  "homepage": "https://github.com/SynkraAI/aios-core#readme",
   "engines": {
-    "node": ">=20.0.0",
+    "node": ">=18.0.0",
     "npm": ">=9.0.0"
   },
   "publishConfig": {

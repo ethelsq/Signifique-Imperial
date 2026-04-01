@@ -1,0 +1,44 @@
+# Custos Fixos Mensais da Signifique
+# IMPORTANTE: Preencha com seus valores REAIS
+# Estes dados alimentam o *calcular-preco e *diagnostico-negocio
+
+custos_fixos_mensais:
+  ferramentas:
+    internet_telefone: 0 # R$ por mês
+    dominio_hosting: 0
+    canva_pro: 0
+    ferramentas_design: 0
+    email_profissional: 0
+    outras_ferramentas: 0
+
+  operacional:
+    moradia_proporcional: 0 # % do aluguel/condomínio dedicado ao home office
+    energia_proporcional: 0
+    contador_mei: 0
+    impostos_mei: 0
+
+  pessoal:
+    alimentacao: 0 # proporcional aos dias de trabalho
+    transporte: 0
+    saude: 0
+
+  reserva:
+    emergencia_10pct: 0 # 10% da receita ideal como reserva
+
+  # Total será calculado automaticamente
+  # total: soma de todos acima
+
+parametros:
+  horas_por_semana: 40
+  semanas_por_mes: 4
+  eficiencia_solo: 0.6 # 60% — solo operator perde 40% em admin/vendas/etc
+  horas_produtivas_mes: 96 # 40 × 4 × 0.6
+
+  # Custo-hora piso = total_custos / horas_produtivas_mes
+  # REGRA: Nunca aceitar projeto abaixo do custo-hora piso
+
+notas: |
+  PREENCHA ESTE ARQUIVO COM SEUS CUSTOS REAIS.
+  Sem esses dados, o *calcular-preco não consegue definir seu piso.
+  Seja honesta — incluir todos os custos, mesmo os pequenos.
+  Atualizar a cada 3 meses ou quando houver mudança significativa.

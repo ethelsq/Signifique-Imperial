@@ -1,0 +1,42 @@
+name: sig-core
+version: 1.0.0
+short-title: "Operações Signifique"
+description: "Squad interno da Signifique — precificação, propostas comerciais, onboarding de clientes, diagnóstico financeiro e simulação de receita."
+author: Signifique
+license: UNLICENSED
+slashPrefix: sig
+
+aios:
+  minVersion: "4.2.0"
+  type: squad
+
+tags:
+  - interno
+  - pricing
+  - proposta
+  - financeiro
+  - operacoes
+
+components:
+  tasks:
+    - calcular-preco.md
+    - proposta-comercial.md
+    - onboard-cliente.md
+    - diagnostico-negocio.md
+    - simular-receita.md
+  agents:
+    - pricing-strategist.md
+  workflows: []
+  checklists: []
+  templates:
+    - proposta-template.md
+  tools: []
+  scripts: []
+
+config:
+  extends: extend
+
+dependencies:
+  node: []
+  python: []
+  squads: []

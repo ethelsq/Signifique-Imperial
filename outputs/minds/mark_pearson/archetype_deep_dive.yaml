@@ -1,0 +1,144 @@
+archetype_deep_dive:
+  - archetype: Inocente
+    from_book:
+      desire: "Desejo básico: vivenciar o paraíso"
+      shadow: "Medo; fazer algo errado ou ruim que provocará punição"
+      power_words: ["paraíso", "feliz", "simplicidade", "otimismo", "fé", "redenção", "maravilhamento", "esperança", "pureza", "vida leve", "final feliz"]
+      brand_examples: ["Doris Day", "Meg Ryan", "Tom Hanks", "PBS", "Chicken Soup (series)", "All I Really Need to Know I Learned in Kindergarten"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Inocente prometem simplicidade, pureza e um \"final feliz\", reduzindo o estresse e reforçando a ideia de que a vida pode ser leve quando se \"faz as coisas direito\"."
+    source_citations:
+      - "[SOURCE: page 33 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Explorador
+    from_book:
+      desire: "Desejo básko: liberdade para descobrir quem você è,"
+      shadow: "Maior medo: cair numa armadilha, conformidade, vazio interior, inexistência"
+      power_words: ["liberdade", "exploração", "natureza", "estrada", "horizonte", "autenticidade", "aventura", "busca", "independência", "solidão", "descoberta"]
+      brand_examples: ["As aventuras de Huckleberry Finn", "O grande Gatsby", "Pé na estrada (On the Road)", "literatura de expatriados", "ficção científica sobre exploração do Universo"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Explorador usam imagens de espaços abertos e autonomia para legitimar a busca por identidade e autenticidade, evitando a sensação de aprisionamento."
+    source_citations:
+      - "[SOURCE: page 42 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Sábio
+    from_book:
+      desire: "Lema: \"A verdade libertará você\""
+      shadow: "Maior medo: ser enganado e iludido; a ignorância"
+      power_words: ["verdade", "conhecimento", "inteligência", "discernimento", "pesquisa", "especialista", "análise", "clareza", "sabedoria", "evidência", "aprendizado"]
+      brand_examples: ["The New York Times", "Consumer Reports", "National Public Radio", "CNN", "Arquivo X"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Sábio se posicionam como fonte confiável de informação, ajudando o público a pensar melhor e tomar decisões mais inteligentes."
+    source_citations:
+      - "[SOURCE: pages 50-51 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Herói
+    from_book:
+      desire: "Desejo: provar o próprio valor"
+      shadow: "Armadilha: arrogância, desenvolver a necessidade de que exista sempre um inimigo"
+      power_words: ["coragem", "competência", "ação", "mestria", "bravura", "disciplina", "superação", "força", "desafio", "vitória", "honra"]
+      brand_examples: ["John F. Kennedy", "Teddy Roosevelt", "Dwight Eisenhower", "Martin Luther King", "Nelson Mandela", "Guerra nas estrelas", "O resgate do soldado Ryan"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Herói convocam provas de coragem e competência, com estética funcional e ênfase em esforço e superação."
+    source_citations:
+      - "[SOURCE: page 61 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Fora-da-lei
+    from_book:
+      desire: "Lema: \"As regras são feitas para ser quebradas\""
+      shadow: "O Fora-da-lei negativo, portanto, floresce em organizações que permitem que o lucro e a competição sejam mais importantes do que qualquer tipo de valor moral"
+      power_words: ["rebelião", "ruptura", "independência", "liberdade", "transgressão", "antiestablishment", "choque", "irreverência", "revolução", "coragem", "provocação"]
+      brand_examples: ["Robin Hood", "Zorro", "Howard Stern", "Politically Incorrect", "Jack Daniels", "Southern Comfort"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Fora-da-lei canalizam frustrações culturais e oferecem catarse simbólica por meio da quebra de regras e da contestação do status quo."
+    source_citations:
+      - "[SOURCE: pages 69-71 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Mago
+    from_book:
+      desire: "o desejo de procurar as leis fundamentais que governam o funcionamento das coisas e aplicar esses princípios para que as coisas aconteçam"
+      shadow: "Você vê o potencial negativo do Mago nas histórias dos feiticeiros malvados que usam seu poder para impor sua vontade"
+      power_words: ["transformação", "milagre", "visão", "alquimia", "segredos", "consciência", "cura", "possibilidade", "mágica", "metamorfose", "revelação"]
+      brand_examples: ["Merlin", "Yoda", "Harry Potter", "Mary Poppins", "O sexto sentido", "Campo dos sonhos"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Mago prometem mudança profunda e resultados quase milagrosos, apoiando-se em símbolos de transformação e domínio de leis ocultas."
+    source_citations:
+      - "[SOURCE: pages 78-81 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Cara Comum
+    from_book:
+      desire: "o desejo humano de se conectar, interagir e pertencer a um grupo"
+      shadow: "Medos: destacar-se"
+      power_words: ["pertencimento", "igualdade", "simplicidade", "autenticidade", "humildade", "comunidade", "normalidade", "real", "aceitação", "proximidade", "modéstia"]
+      brand_examples: ["Túmulo do Soldado Desconhecido", "música country e western", "folk music", "sindicatos trabalhistas", "Malcolm in the Middle"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Cara Comum evitam ostentação e reforçam o sentimento de inclusão, mostrando gente \"real\" e cotidiano compartilhado."
+    source_citations:
+      - "[SOURCE: pages 88-91 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Amante
+    from_book:
+      desire: "Desejo básico: conseguir"
+      shadow: "Medo: ficar sozinho"
+      power_words: ["intimidade", "atração", "prazer", "romance", "desejo", "conexão", "sensualidade", "beleza", "paixão", "afeto", "encantamento"]
+      brand_examples: ["Virginia (\"Virginia é para os que se amam\")", "Califórnia (\"Eu sou o piloto de teste do prazer\")", "Camel", "Marlboro", "Cupido", "Vênus"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Amante intensificam desejo e exclusividade, convidando a uma conexão íntima e emocionalmente marcante."
+    source_citations:
+      - "[SOURCE: page 97 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Bobo da Corte
+    from_book:
+      desire: "Desejo básico; viver no"
+      shadow: "Armadilha: desperdiçar a"
+      power_words: ["diversão", "leveza", "brincadeira", "humor", "improviso", "espontaneidade", "irreverência", "prazer", "alegria", "risada", "festa"]
+      brand_examples: ["Charlie Chaplin", "Mae West", "Irmãos Marx", "Lily Tomlin", "Steve Martin", "Jay Leno"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Bobo da Corte usam humor e quebra de regras para reduzir a seriedade do cotidiano e criar vínculos pela diversão."
+    source_citations:
+      - "[SOURCE: pages 105-106 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Prestativo
+    from_book:
+      desire: "Desejo básico: proteger os"
+      shadow: "Medo: egoísmo, ingratidão"
+      power_words: ["cuidado", "proteção", "compaixão", "generosidade", "serviço", "acolhimento", "segurança", "doação", "zelo", "suporte", "amparo"]
+      brand_examples: ["Blue Cross/Blue Shield", "Land's End", "Stouffer's", "Midwest Express Airlines", "Concord Watch", "Nordstrom"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Prestativo enfatizam proteção e amparo, destacando a promessa de cuidado consistente e confiável."
+    source_citations:
+      - "[SOURCE: pages 112-117 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Criador
+    from_book:
+      desire: "Desejo: criar algo de valor"
+      shadow: "Medo: têf Ufr» visão <wge"
+      power_words: ["criação", "originalidade", "imaginação", "expressão", "arte", "inovação", "autoria", "visão", "design", "qualidade", "estética"]
+      brand_examples: ["Crayola", "Martha Stewart", "Williams-Sonoma", "Sherwin-Williams", "Singer", "Kinko's"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Criador valorizam expressão e singularidade, prometendo ferramentas e resultados que materializam uma visão própria."
+    source_citations:
+      - "[SOURCE: page 123 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"
+
+  - archetype: Governante
+    from_book:
+      desire: "Desejo básico: controle"
+      shadow: "Medo: caos, ser destituído"
+      power_words: ["controle", "ordem", "estabilidade", "poder", "liderança", "status", "autoridade", "prestígio", "segurança", "governança", "responsabilidade"]
+      brand_examples: ["IRS", "Casa Branca", "E.F. Hutton", "Brooks Brothers", "Microsoft", "IBM", "American Express", "CitiBank", "Cadillac"]
+      y_and_r_proof: "A análise mostrou que o MVA das marcas fortemente alinhadas com um único arquétipo cresceu 97% a mais do que o MVA das marcas confusas."
+      application_pattern: "Inference: marcas do Governante reforçam autoridade e estabilidade, oferecendo símbolos de comando, controle e credibilidade institucional."
+    source_citations:
+      - "[SOURCE: page 132 (PDF)]"
+      - "[SOURCE: page 19 (PDF)]"

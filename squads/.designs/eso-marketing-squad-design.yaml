@@ -1,0 +1,352 @@
+squad:
+  name: eso-marketing-squad
+  description: "Squad de Marketing Digital e Design de Alta Conversão para produtos esotéricos. Combina estratégia de tráfego, pesquisa de mercado, branding místico e UX/UI de alta conversão."
+  domain: esoteric-marketing
+
+analysis:
+  entities:
+    - Campanha de Tráfego
+    - Landing Page
+    - Público-alvo Esotérico
+    - Produto Esotérico
+    - Marca Esotérica
+    - Anúncio Digital
+    - Copy Persuasiva
+    - Funil de Conversão
+    - Métrica/KPI
+    - Concorrente
+    - Conteúdo Orgânico
+    - Criativo Visual
+    - Email Marketing
+    - Calendário Sazonal
+  workflows:
+    - pesquisa-mercado
+    - estrategia-trafego
+    - criar-lp
+    - analisar-campanha
+    - posicionar-marca
+    - planejar-funil
+    - criar-copy
+    - calendario-esoterico
+    - design-lp
+    - design-criativo
+    - audit-ux
+    - design-email
+    - paleta-esoterica
+  integrations:
+    - Meta Ads / Meta Ads Library
+    - Google Ads / Google Trends
+    - TikTok Ads
+    - Semrush (referência)
+    - Google Analytics
+    - Hotjar (referência UX)
+  stakeholders:
+    - Dono da marca esotérica
+    - Gestor de tráfego
+    - Designer
+    - Social media manager
+    - Copywriter
+
+recommendations:
+  agents:
+    - id: mente-sa-eso01
+      role: "Estrategista de Marketing Digital especializado em produtos esotéricos. Pesquisa de mercado, tráfego pago, copywriting, funis de conversão, branding místico e análise de campanhas."
+      commands:
+        - pesquisa-mercado
+        - estrategia-trafego
+        - criar-lp
+        - analisar-campanha
+        - posicionar-marca
+        - planejar-funil
+        - criar-copy
+        - calendario-esoterico
+      confidence: 0.95
+      user_added: false
+      user_modified: false
+
+    - id: eso-designer01
+      role: "Designer UX/UI especializado em alta conversão para o mercado esotérico. Design de LPs, criativos para ads, auditoria UX, email marketing e identidade visual mística."
+      commands:
+        - design-lp
+        - design-criativo
+        - audit-ux
+        - design-email
+        - paleta-esoterica
+      confidence: 0.93
+      user_added: true
+      user_modified: false
+
+  tasks:
+    # === MenteSaEso01 Tasks ===
+    - name: pesquisa-mercado
+      agent: mente-sa-eso01
+      entrada:
+        - nicho_especifico (ex: cristais, tarô, velas)
+        - regiao_foco (Brasil, global)
+        - concorrentes_conhecidos (opcional)
+      saida:
+        - relatorio_mercado_completo
+        - mapa_concorrentes
+        - oportunidades_identificadas
+        - sizing_tam_sam_som
+      confidence: 0.95
+      checklist:
+        - "[ ] Mapear concorrentes diretos e indiretos"
+        - "[ ] Analisar tendências Google Trends"
+        - "[ ] Identificar gaps de mercado"
+        - "[ ] Calcular TAM/SAM/SOM"
+        - "[ ] Perfil demográfico e psicográfico do público"
+        - "[ ] Análise de preços praticados"
+
+    - name: estrategia-trafego
+      agent: mente-sa-eso01
+      entrada:
+        - objetivo (awareness, conversão, retargeting)
+        - orcamento_mensal
+        - produtos_foco
+        - plataformas_desejadas
+      saida:
+        - plano_campanhas_estruturado
+        - distribuicao_orcamento
+        - segmentacoes_recomendadas
+        - metricas_alvo
+      confidence: 0.93
+      checklist:
+        - "[ ] Definir objetivo por plataforma"
+        - "[ ] Estruturar campanhas (awareness/consideração/conversão)"
+        - "[ ] Mapear públicos e segmentações"
+        - "[ ] Distribuir orçamento por canal"
+        - "[ ] Definir KPIs e metas"
+        - "[ ] Plano de retargeting"
+
+    - name: criar-lp
+      agent: mente-sa-eso01
+      entrada:
+        - produto_ou_oferta
+        - objetivo_da_lp (captura, venda, VSL)
+        - publico_alvo
+      saida:
+        - tipo_lp_recomendado
+        - estrutura_secoes
+        - copy_principal
+        - ctas_recomendados
+        - gatilhos_mentais_aplicados
+      confidence: 0.92
+      checklist:
+        - "[ ] Definir tipo de LP (squeeze, vendas, VSL, catálogo)"
+        - "[ ] Estruturar seções (hero, benefícios, prova social, CTA)"
+        - "[ ] Escrever headline e sub-headline"
+        - "[ ] Definir CTAs com urgência/escassez"
+        - "[ ] Aplicar gatilhos esotéricos (mistério, transformação)"
+
+    - name: analisar-campanha
+      agent: mente-sa-eso01
+      entrada:
+        - dados_campanha (CTR, CPC, CPA, ROAS, conversões)
+        - plataforma
+        - periodo_analise
+      saida:
+        - diagnostico_performance
+        - gargalos_identificados
+        - recomendacoes_otimizacao
+        - projecao_resultados
+      confidence: 0.94
+      checklist:
+        - "[ ] Analisar métricas por etapa do funil"
+        - "[ ] Identificar gargalos (CTR baixo? CPA alto?)"
+        - "[ ] Comparar com benchmarks do nicho"
+        - "[ ] Recomendar ajustes de público/criativo/lance"
+        - "[ ] Projetar impacto das otimizações"
+
+    - name: posicionar-marca
+      agent: mente-sa-eso01
+      entrada:
+        - nome_marca
+        - produtos_principais
+        - valores_da_marca
+        - publico_desejado
+      saida:
+        - arquetipo_recomendado
+        - tom_de_voz
+        - storytelling_fundacional
+        - diferenciais_competitivos
+        - posicionamento_statement
+      confidence: 0.91
+      checklist:
+        - "[ ] Definir arquétipo (Mago, Sábio, Sacerdotisa, etc.)"
+        - "[ ] Criar tom de voz com vocabulário místico"
+        - "[ ] Desenvolver narrativa fundacional da marca"
+        - "[ ] Mapear diferenciais vs concorrência"
+        - "[ ] Redigir posicionamento statement"
+
+    - name: planejar-funil
+      agent: mente-sa-eso01
+      entrada:
+        - produto_ou_linha
+        - ticket_medio
+        - canais_disponiveis
+      saida:
+        - mapa_funil_completo
+        - touchpoints_por_etapa
+        - conteudo_recomendado_por_etapa
+        - metricas_alvo_por_etapa
+        - automacoes_sugeridas
+      confidence: 0.90
+      checklist:
+        - "[ ] Desenhar TOFU (atração)"
+        - "[ ] Desenhar MOFU (nutrição)"
+        - "[ ] Desenhar BOFU (conversão)"
+        - "[ ] Definir conteúdo por etapa"
+        - "[ ] Mapear automações de email"
+        - "[ ] Definir métricas de passagem entre etapas"
+
+    - name: criar-copy
+      agent: mente-sa-eso01
+      entrada:
+        - tipo (anúncio, LP, email, post)
+        - produto_ou_oferta
+        - publico_alvo
+        - tom_desejado
+      saida:
+        - copy_principal
+        - variacoes_ab_test
+        - gatilhos_aplicados
+        - cta_recomendado
+      confidence: 0.88
+      checklist:
+        - "[ ] Aplicar framework de copy (AIDA, PAS, ou BAB)"
+        - "[ ] Inserir gatilhos esotéricos (mistério, pertencimento, transformação)"
+        - "[ ] Criar headline + sub-headline"
+        - "[ ] Gerar 2-3 variações para teste A/B"
+        - "[ ] Definir CTA com urgência contextual"
+
+    - name: calendario-esoterico
+      agent: mente-sa-eso01
+      entrada:
+        - produtos_catalogo
+        - ano_referencia
+      saida:
+        - calendario_anual_campanhas
+        - datas_pico_mapeadas
+        - temas_por_periodo
+        - sugestoes_ofertas_sazonais
+      confidence: 0.93
+      checklist:
+        - "[ ] Mapear fases lunares relevantes"
+        - "[ ] Mapear solstícios/equinócios"
+        - "[ ] Incluir datas pagãs (Samhain, Beltane, Imbolc, etc.)"
+        - "[ ] Incluir datas comerciais (Black Friday, Natal, Ano Novo)"
+        - "[ ] Cruzar com calendário de São João, Cosme e Damião, etc."
+        - "[ ] Sugerir promoções temáticas por período"
+
+    # === EsoDesigner01 Tasks ===
+    - name: design-lp
+      agent: eso-designer01
+      entrada:
+        - tipo_lp (squeeze, vendas, VSL, catálogo)
+        - copy_aprovada (da task criar-lp)
+        - identidade_visual_marca
+      saida:
+        - wireframe_textual_detalhado
+        - hierarquia_visual
+        - layout_secoes
+        - especificacoes_responsivas
+        - recomendacoes_cores_tipografia
+      confidence: 0.95
+      checklist:
+        - "[ ] Definir grid e hierarquia visual"
+        - "[ ] Wireframe de cada seção (hero, benefícios, depoimentos, CTA)"
+        - "[ ] Especificar comportamento mobile vs desktop"
+        - "[ ] Aplicar estética mística (texturas, elementos visuais)"
+        - "[ ] Validar contra checklist de conversão"
+
+    - name: design-criativo
+      agent: eso-designer01
+      entrada:
+        - tipo_criativo (estático, carrossel, stories, vídeo)
+        - plataforma (Meta, Google, TikTok)
+        - mensagem_principal
+        - produto
+      saida:
+        - briefing_criativo_completo
+        - especificacoes_dimensoes
+        - composicao_visual
+        - texto_overlay
+        - variacoes_sugeridas
+      confidence: 0.92
+      checklist:
+        - "[ ] Definir formato e dimensões por plataforma"
+        - "[ ] Criar composição visual (hierarquia, foco, CTA)"
+        - "[ ] Especificar texto overlay dentro dos limites"
+        - "[ ] Aplicar elementos visuais esotéricos"
+        - "[ ] Gerar 2-3 variações para teste"
+
+    - name: audit-ux
+      agent: eso-designer01
+      entrada:
+        - url_ou_screenshots
+        - objetivo_pagina
+        - dados_analytics (opcional)
+      saida:
+        - score_ux_conversao
+        - problemas_identificados
+        - recomendacoes_priorizadas
+        - quick_wins
+      confidence: 0.94
+      checklist:
+        - "[ ] Avaliar tempo de carregamento percebido"
+        - "[ ] Verificar hierarquia visual e escaneabilidade"
+        - "[ ] Analisar posição e clareza dos CTAs"
+        - "[ ] Verificar experiência mobile"
+        - "[ ] Checar prova social e elementos de confiança"
+        - "[ ] Listar quick wins vs melhorias estruturais"
+
+    - name: design-email
+      agent: eso-designer01
+      entrada:
+        - tipo_email (boas-vindas, nurturing, promocional, abandono)
+        - copy_aprovada
+        - identidade_visual
+      saida:
+        - estrutura_email_template
+        - hierarquia_blocos
+        - recomendacoes_subject_line
+        - preview_text
+      confidence: 0.88
+      checklist:
+        - "[ ] Definir estrutura de blocos (header, body, CTA, footer)"
+        - "[ ] Especificar hierarquia tipográfica"
+        - "[ ] Garantir compatibilidade com clientes de email"
+        - "[ ] Aplicar estética da marca"
+        - "[ ] Recomendar subject lines com variações"
+
+    - name: paleta-esoterica
+      agent: eso-designer01
+      entrada:
+        - arquetipo_marca
+        - linha_produtos_principal
+        - referencias_visuais (opcional)
+      saida:
+        - paleta_cores_primaria_secundaria
+        - tipografia_recomendada
+        - elementos_visuais_marca
+        - moodboard_textual
+        - guia_aplicacao
+      confidence: 0.90
+      checklist:
+        - "[ ] Definir paleta primária (3-5 cores)"
+        - "[ ] Definir paleta secundária/accent"
+        - "[ ] Recomendar tipografia (headings + body)"
+        - "[ ] Definir elementos visuais (texturas, ícones, patterns)"
+        - "[ ] Criar moodboard textual descritivo"
+        - "[ ] Guia de aplicação por canal (web, social, email)"
+
+  template: basic
+  config_mode: extend
+
+metadata:
+  created_at: "2026-02-17T12:00:00Z"
+  source_docs:
+    - "verbal-briefing: Marketing digital para produtos esotéricos"
+  user_adjustments: 1
+  overall_confidence: 0.92

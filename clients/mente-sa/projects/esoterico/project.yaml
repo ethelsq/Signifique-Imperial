@@ -1,0 +1,60 @@
+project:
+  name: "Mente Sã — Esotérico"
+  client: mente-sa
+  slug: esoterico
+  status: active
+
+  scope:
+    type: branding-marketing
+    description: |
+      Posicionamento de marca, estratégia de tráfego, criação de LPs,
+      gestão de campanhas e otimização de conversão para linha de
+      produtos esotéricos.
+    deliverables:
+      - name: "Pesquisa de Mercado Esotérico"
+        status: pending
+        task: "*pesquisa-mercado"
+        squad: eso-marketing-squad
+      - name: "Posicionamento de Marca"
+        status: pending
+        task: "*posicionar-marca"
+        squad: eso-marketing-squad
+      - name: "Paleta e Identidade Visual"
+        status: pending
+        task: "*paleta-esoterica"
+        squad: eso-marketing-squad
+      - name: "Estratégia de Tráfego"
+        status: pending
+        task: "*estrategia-trafego"
+        squad: eso-marketing-squad
+      - name: "Calendário Esotérico de Campanhas"
+        status: pending
+        task: "*calendario-esoterico"
+        squad: eso-marketing-squad
+      - name: "Funil de Conversão"
+        status: pending
+        task: "*planejar-funil"
+        squad: eso-marketing-squad
+      - name: "Landing Pages"
+        status: pending
+        task: "*criar-lp + *design-lp"
+        squad: eso-marketing-squad
+      - name: "Copy e Criativos"
+        status: pending
+        task: "*criar-copy + *design-criativo"
+        squad: eso-marketing-squad
+
+  squads_active:
+    - eso-marketing-squad
+
+  restricoes:
+    - "Plataformas de ads proíbem claims de cura ou resultados espirituais"
+    - "Palavras como 'magia', 'feitiço' podem causar rejeição no Meta Ads"
+    - "Framing como lifestyle/wellness reduz rejeições"
+
+  financials:
+    total_value: 0 # a definir com *calcular-preco
+    invoiced: 0
+    received: 0
+    pending: 0
+    modelo: "a definir" # projeto ou retainer

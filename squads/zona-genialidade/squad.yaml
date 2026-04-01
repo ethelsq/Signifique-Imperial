@@ -1,0 +1,57 @@
+name: zona-genialidade
+version: 1.0.0
+short-title: "Zona de Genialidade"
+description: >
+  Squad que identifica a zona de genialidade do usuario atraves de assessment
+  comportamental unificado (30 min max), analise multi-framework autonoma (7 especialistas)
+  e entrega um Blueprint completo com squad recomendado e plano de monetizacao.
+author: Jose Carlos Amorim
+license: UNLICENSED
+slashPrefix: ZonaGenialidade
+
+aios:
+  minVersion: "4.2.0"
+  type: squad
+
+tags:
+  - assessment
+  - comportamental
+  - zona-genialidade
+  - monetizacao
+  - squad-matching
+  - coaching
+
+components:
+  tasks:
+    - start.md
+    - run-assessment.md
+    - analyze-genius-profile.md
+    - recommend-squad.md
+    - generate-blueprint.md
+  agents:
+    - zona-genialidade-chief.md
+    - gay-hendricks.md
+    - don-clifton.md
+    - dan-sullivan.md
+    - roger-hamilton.md
+    - alex-hormozi.md
+    - kathy-kolbe.md
+    - sally-hogshead.md
+  workflows: []
+  checklists: []
+  templates: []
+  tools: []
+  scripts: []
+
+config:
+  extends: extend
+
+dependencies:
+  node: []
+  python: []
+  squads:
+    optional:
+      - mentoria-engine
+      - onboarding-intelligence
+      - innerlens
+      - squad-creator

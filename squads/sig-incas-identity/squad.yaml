@@ -1,0 +1,47 @@
+name: sig-incas-identity
+version: 1.0.0
+short-title: "Signifique INCAS Identity Diagnosis"
+description: >
+  Squad especializado em diagnóstico de identidade de negócios usando Método INCAS.
+  Combina escavação de verdades inconscientes (ZMET), articulação de propósito (Golden Circle),
+  e alinhamento com padrões universais (12 Arquetipos) para criar marcas autênticas e memoráveis.
+
+author: Ethel Shuna
+license: UNLICENSED
+slashPrefix: sigIncasIdentity
+
+aios:
+  minVersion: "4.2.0"
+  type: squad
+
+tags:
+  - brand-archaeology
+  - identity-diagnosis
+  - INCAS-methodology
+  - unconscious-research
+  - purpose-strategy
+  - archetypes
+  - brand-meaning
+
+components:
+  agents:
+    - sig-incas-identity-chief.md
+    - zmet-archaeologist.md
+    - purpose-strategist.md
+    - archetype-strategist.md
+    - hero-journey-narrator.md
+    - biomimicry-strategist.md
+  tasks: []
+  workflows: []
+  checklists: []
+  templates: []
+  tools: []
+  scripts: []
+
+config:
+  extends: extend
+
+dependencies:
+  node: []
+  python: []
+  squads: []

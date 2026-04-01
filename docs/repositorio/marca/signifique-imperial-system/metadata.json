@@ -1,0 +1,8 @@
+{
+  "name": "Signifique Imperial System",
+  "description": "A luxury branding consultancy dashboard based on the INCAS methodology, blending ancestral wisdom with high-level brand science and AI strategic automation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

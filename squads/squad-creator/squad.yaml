@@ -1,0 +1,110 @@
+name: squad-creator
+version: 3.0.0
+short-title: "Squad Creator Premium"
+description: >-
+  Meta-squad para criar squads de agentes baseados em elite minds reais.
+  Orchestrator: @squad-chief (triage, routing, criacao completa de squads).
+  Tier 1: @oalanicolas (mind cloning, DNA extraction, curadoria, 46 decision checkpoints),
+  @pedro-valerio (process design, veto conditions, workflow validation).
+  v3.0: Mental model integration com 46 checkpoints em 10 tasks.
+author: AIOS Team
+license: UNLICENSED
+slashPrefix: squadCreator
+entry_agent: squad-chief
+
+aios:
+  minVersion: "4.2.0"
+  type: squad
+
+tags:
+  - meta-squad
+  - squad-creation
+  - mind-cloning
+  - dna-extraction
+  - agent-architecture
+  - workflow-validation
+
+components:
+  tasks:
+    - create-squad.md
+    - create-agent.md
+    - create-task.md
+    - create-workflow.md
+    - create-template.md
+    - create-pipeline.md
+    - create-documentation.md
+    - validate-squad.md
+    - upgrade-squad.md
+    - optimize.md
+    - squad-fusion.md
+    - squad-analytics.md
+    - install-commands.md
+    - sync-ide-command.md
+    - refresh-registry.md
+    - deconstruct.md
+    - find-0.8.md
+    - discover-tools.md
+    - collect-sources.md
+    - auto-acquire-sources.md
+    - deep-research-pre-agent.md
+    - extract-knowledge.md
+    - extract-voice-dna.md
+    - extract-thinking-dna.md
+    - extract-sop.md
+    - extract-implicit.md
+    - validate-extraction.md
+    - update-mind.md
+    - qa-after-creation.md
+    - an-assess-sources.md
+    - an-clone-review.md
+    - an-design-clone.md
+    - an-diagnose-clone.md
+    - an-extract-dna.md
+    - an-extract-framework.md
+    - an-fidelity-score.md
+    - an-validate-clone.md
+    - pv-audit.md
+    - pv-axioma-assessment.md
+    - pv-modernization-score.md
+    - migrate-workflows-to-yaml.md
+  agents:
+    - squad-chief.md
+    - oalanicolas.md
+    - pedro-valerio.md
+  workflows:
+    - wf-create-squad.yaml
+    - wf-clone-mind.yaml
+    - wf-discover-tools.yaml
+    - wf-extraction-pipeline.yaml
+    - wf-mind-research-loop.yaml
+    - wf-research-then-create-agent.yaml
+    - wf-squad-fusion.yaml
+    - wf-auto-acquire-sources.yaml
+    - validate-squad.yaml
+  checklists: []
+  templates: []
+  tools: []
+  scripts:
+    - generate-squad-greeting.js
+    - validate-agent-output.py
+    - on-specialist-complete.py
+    - save-session-metrics.py
+
+config:
+  extends: extend
+
+settings:
+  activation:
+    show_ecosystem_report: true
+    show_greeting: true
+    show_quick_commands: true
+  ecosystem_report:
+    show_totals: true
+    show_top_squads: true
+    show_quality_refs: true
+    top_squads_limit: 5
+
+dependencies:
+  node: []
+  python: []
+  squads: []

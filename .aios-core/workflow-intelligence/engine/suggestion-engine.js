@@ -22,6 +22,7 @@ const path = require('path');
 let wis = null;
 let SessionContextLoader = null;
 let learning = null;
+let WorkflowStateManager = null;
 
 /**
  * Default cache TTL for suggestions (5 minutes)
@@ -33,7 +34,7 @@ const SUGGESTION_CACHE_TTL = 5 * 60 * 1000;
  * Low confidence threshold for marking suggestions as "uncertain"
  * @type {number}
  */
-const LOW_CONFIDENCE_THRESHOLD = 0.50;
+const LOW_CONFIDENCE_THRESHOLD = 0.5;
 
 /**
  * SuggestionEngine class for generating context-aware command suggestions
@@ -93,6 +94,15 @@ class SuggestionEngine {
         learning = null;
       }
     }
+
+    if (!WorkflowStateManager) {
+      try {
+        ({ WorkflowStateManager } = require('../../development/scripts/workflow-state-manager'));
+      } catch (error) {
+        console.warn('[SuggestionEngine] Failed to load WorkflowStateManager:', error.message);
+        WorkflowStateManager = null;
+      }
+    }
   }
 
   /**
@@ -112,7 +122,7 @@ class SuggestionEngine {
       lastCommands: [],
       storyPath: null,
       branch: null,
-      projectState: {}
+      projectState: {},
     };
 
     // 1. Load session context if available
@@ -154,11 +164,12 @@ class SuggestionEngine {
    */
   async suggestNext(context) {
     this._loadDependencies();
+    const runtimeNext = this._getRuntimeNextRecommendation(context);
 
     // Check cache first
     const cacheKey = this._generateCacheKey(context);
     if (this._isCacheValid(cacheKey)) {
-      return this.suggestionCache;
+      return this._withRuntimeRecommendation(this.suggestionCache, runtimeNext);
     }
 
     // Default result for when WIS is not available
@@ -168,11 +179,11 @@ class SuggestionEngine {
       confidence: 0,
       suggestions: [],
       isUncertain: true,
-      message: 'Unable to determine workflow context'
+      message: 'Unable to determine workflow context',
     };
 
     if (!wis) {
-      return defaultResult;
+      return this._withRuntimeRecommendation(defaultResult, runtimeNext);
     }
 
     try {
@@ -180,10 +191,10 @@ class SuggestionEngine {
       const suggestions = wis.getSuggestions(context);
 
       if (!suggestions || suggestions.length === 0) {
-        return {
+        return this._withRuntimeRecommendation({
           ...defaultResult,
-          message: 'No matching workflow found for current context'
-        };
+          message: 'No matching workflow found for current context',
+        }, runtimeNext);
       }
 
       // Get workflow match info
@@ -191,9 +202,10 @@ class SuggestionEngine {
       const match = wis.matchWorkflow(commands);
 
       // Calculate overall confidence
-      const avgConfidence = suggestions.length > 0
-        ? suggestions.reduce((sum, s) => sum + (s.confidence || 0), 0) / suggestions.length
-        : 0;
+      const _avgConfidence =
+        suggestions.length > 0
+          ? suggestions.reduce((sum, s) => sum + (s.confidence || 0), 0) / suggestions.length
+          : 0;
 
       // Format base suggestions
       let formattedSuggestions = suggestions.map((s, index) => ({
@@ -202,34 +214,35 @@ class SuggestionEngine {
         description: s.description || '',
         confidence: Math.round((s.confidence || 0) * 100) / 100,
         priority: s.priority || index + 1,
-        source: 'workflow'
+        source: 'workflow',
       }));
 
       // Apply learned pattern boost (WIS-5)
       if (this.useLearnedPatterns && learning) {
-        formattedSuggestions = this._applyLearnedPatternBoost(
-          formattedSuggestions,
-          context
-        );
+        formattedSuggestions = this._applyLearnedPatternBoost(formattedSuggestions, context);
       }
 
       // Re-sort after boost
       formattedSuggestions.sort((a, b) => b.confidence - a.confidence);
 
       // Recalculate average confidence
-      const finalAvgConfidence = formattedSuggestions.length > 0
-        ? formattedSuggestions.reduce((sum, s) => sum + s.confidence, 0) / formattedSuggestions.length
-        : 0;
+      const finalAvgConfidence =
+        formattedSuggestions.length > 0
+          ? formattedSuggestions.reduce((sum, s) => sum + s.confidence, 0) /
+            formattedSuggestions.length
+          : 0;
 
       // Build result
-      const result = {
+      let result = {
         workflow: match?.name || suggestions[0]?.workflow || null,
         currentState: suggestions[0]?.state || null,
         confidence: Math.round(finalAvgConfidence * 100) / 100,
         suggestions: formattedSuggestions,
         isUncertain: finalAvgConfidence < LOW_CONFIDENCE_THRESHOLD,
-        message: null
+        message: null,
       };
+
+      result = this._withRuntimeRecommendation(result, runtimeNext);
 
       // Cache the result
       this._cacheResult(cacheKey, result);
@@ -239,9 +252,105 @@ class SuggestionEngine {
       console.error('[SuggestionEngine] Error getting suggestions:', error.message);
       return {
         ...defaultResult,
-        message: `Error: ${error.message}`
+        message: `Error: ${error.message}`,
       };
     }
+  }
+
+  /**
+   * Build runtime execution signals for deterministic next-action recommendation
+   * @param {Object} context - Current session context
+   * @returns {Object} Normalized runtime signals
+   * @private
+   */
+  _buildRuntimeSignals(context = {}) {
+    const projectState = context.projectState || {};
+    const hasUncommitted =
+      typeof projectState.hasUncommittedChanges === 'boolean'
+        ? projectState.hasUncommittedChanges
+        : false;
+
+    const baseSignals = {
+      story_status:
+        projectState.story_status || projectState.storyStatus || (projectState.activeStory ? 'in_progress' : 'unknown'),
+      qa_status: projectState.qa_status || projectState.qaStatus || 'unknown',
+      ci_status:
+        projectState.ci_status ||
+        projectState.ciStatus ||
+        (projectState.failingTests ? 'failed' : 'unknown'),
+      has_uncommitted_changes: hasUncommitted,
+    };
+
+    return {
+      ...baseSignals,
+      ...(context.executionSignals || {}),
+    };
+  }
+
+  /**
+   * Get deterministic runtime-first recommendation if signals are available
+   * @param {Object} context - Current session context
+   * @returns {Object|null} Runtime recommendation or null
+   * @private
+   */
+  _getRuntimeNextRecommendation(context = {}) {
+    if (!WorkflowStateManager) {
+      return null;
+    }
+
+    try {
+      const manager = new WorkflowStateManager();
+      const runtimeSignals = this._buildRuntimeSignals(context);
+      const recommendation = manager.getNextActionRecommendation(runtimeSignals, {
+        story: context.storyPath || '',
+      });
+
+      if (!recommendation || recommendation.state === 'unknown') {
+        return null;
+      }
+
+      return recommendation;
+    } catch (_error) {
+      return null;
+    }
+  }
+
+  /**
+   * Merge runtime-first deterministic recommendation into suggestion result.
+   * @param {Object} result - Suggestion result
+   * @param {Object|null} runtimeNext - Runtime recommendation
+   * @returns {Object} Enhanced result
+   * @private
+   */
+  _withRuntimeRecommendation(result, runtimeNext) {
+    if (!result || !runtimeNext) {
+      return result;
+    }
+
+    const runtimeSuggestion = {
+      command: runtimeNext.command,
+      args: '',
+      description: runtimeNext.rationale,
+      confidence: runtimeNext.confidence,
+      priority: 0,
+      source: 'runtime_first',
+      agent: runtimeNext.agent,
+      executionState: runtimeNext.state,
+    };
+
+    const existing = Array.isArray(result.suggestions) ? result.suggestions : [];
+    const normalizedRuntimeCommand = String(runtimeSuggestion.command || '').trim().toLowerCase();
+    const deduped = existing.filter(
+      (s) => String((s.command || '') + (s.args ? ` ${s.args}` : '')).trim().toLowerCase() !== normalizedRuntimeCommand,
+    );
+
+    return {
+      ...result,
+      suggestions: [runtimeSuggestion, ...deduped],
+      confidence: Math.max(result.confidence || 0, runtimeNext.confidence || 0),
+      isUncertain: false,
+      runtimeState: runtimeNext.state,
+    };
   }
 
   /**
@@ -278,7 +387,7 @@ class SuggestionEngine {
       if (fs.existsSync(resolved)) {
         return resolved;
       }
-    } catch (error) {
+    } catch (_error) {
       // File doesn't exist
     }
 
@@ -300,7 +409,7 @@ class SuggestionEngine {
           return content.replace('ref: refs/heads/', '');
         }
       }
-    } catch (error) {
+    } catch (_error) {
       // Git not available or not a git repo
     }
     return null;
@@ -317,7 +426,7 @@ class SuggestionEngine {
       activeStory: !!context.storyPath,
       hasUncommittedChanges: false,
       failingTests: false,
-      workflowPhase: null
+      workflowPhase: null,
     };
 
     // Check for uncommitted changes
@@ -328,7 +437,7 @@ class SuggestionEngine {
         // For production, would use git status command
         state.hasUncommittedChanges = true; // Assume true for now
       }
-    } catch (error) {
+    } catch (_error) {
       // Ignore
     }
 
@@ -382,7 +491,7 @@ class SuggestionEngine {
       context.lastCommand || '',
       (context.lastCommands || []).slice(-3).join(','),
       context.storyPath || '',
-      context.branch || ''
+      context.branch || '',
     ];
     return keyParts.join('|');
   }
@@ -400,7 +509,7 @@ class SuggestionEngine {
     if (this.cacheKey !== key) {
       return false;
     }
-    return (Date.now() - this.cacheTimestamp) < this.cacheTTL;
+    return Date.now() - this.cacheTimestamp < this.cacheTTL;
   }
 
   /**
@@ -462,13 +571,14 @@ class SuggestionEngine {
           const successBoost = (pattern.successRate || 1) * 0.05;
           const similarityBoost = (pattern.similarity || 0.5) * 0.05;
 
-          const totalBoost = this.learnedPatternBoost + occurrenceBoost + successBoost + similarityBoost;
+          const totalBoost =
+            this.learnedPatternBoost + occurrenceBoost + successBoost + similarityBoost;
           boostMap.set(nextCommand, Math.max(currentBoost, totalBoost));
         }
       }
 
       // Apply boosts to suggestions
-      return suggestions.map(suggestion => {
+      return suggestions.map((suggestion) => {
         const cmdNormalized = suggestion.command.replace(/^\*/, '').toLowerCase();
         const boost = boostMap.get(cmdNormalized) || 0;
 
@@ -477,7 +587,7 @@ class SuggestionEngine {
             ...suggestion,
             confidence: Math.min(1.0, suggestion.confidence + boost),
             source: 'learned_pattern',
-            learnedBoost: Math.round(boost * 100) / 100
+            learnedBoost: Math.round(boost * 100) / 100,
           };
         }
 
@@ -502,8 +612,8 @@ class SuggestionEngine {
     }
 
     // Normalize for comparison
-    const normalizedSubseq = subseq.map(c => c.toLowerCase().replace(/^\*/, ''));
-    const normalizedPattern = pattern.map(c => c.toLowerCase().replace(/^\*/, ''));
+    const normalizedSubseq = subseq.map((c) => c.toLowerCase().replace(/^\*/, ''));
+    const normalizedPattern = pattern.map((c) => c.toLowerCase().replace(/^\*/, ''));
 
     // Find where the subsequence ends in the pattern
     for (let i = 0; i <= normalizedPattern.length - normalizedSubseq.length; i++) {
@@ -550,29 +660,113 @@ class SuggestionEngine {
     // Agent-specific fallback suggestions
     const fallbacks = {
       dev: [
-        { command: '*help', args: '', description: 'Show available commands', confidence: 0.30, priority: 1 },
-        { command: '*run-tests', args: '', description: 'Run test suite', confidence: 0.25, priority: 2 },
-        { command: '*develop', args: '', description: 'Start development mode', confidence: 0.20, priority: 3 }
+        {
+          command: '*help',
+          args: '',
+          description: 'Show available commands',
+          confidence: 0.3,
+          priority: 1,
+        },
+        {
+          command: '*run-tests',
+          args: '',
+          description: 'Run test suite',
+          confidence: 0.25,
+          priority: 2,
+        },
+        {
+          command: '*develop',
+          args: '',
+          description: 'Start development mode',
+          confidence: 0.2,
+          priority: 3,
+        },
       ],
       po: [
-        { command: '*help', args: '', description: 'Show available commands', confidence: 0.30, priority: 1 },
-        { command: '*backlog-review', args: '', description: 'Review backlog', confidence: 0.25, priority: 2 },
-        { command: '*create-story', args: '', description: 'Create new story', confidence: 0.20, priority: 3 }
+        {
+          command: '*help',
+          args: '',
+          description: 'Show available commands',
+          confidence: 0.3,
+          priority: 1,
+        },
+        {
+          command: '*backlog-review',
+          args: '',
+          description: 'Review backlog',
+          confidence: 0.25,
+          priority: 2,
+        },
+        {
+          command: '*create-story',
+          args: '',
+          description: 'Create new story',
+          confidence: 0.2,
+          priority: 3,
+        },
       ],
       qa: [
-        { command: '*help', args: '', description: 'Show available commands', confidence: 0.30, priority: 1 },
-        { command: '*run-tests', args: '', description: 'Run test suite', confidence: 0.25, priority: 2 },
-        { command: '*review-qa', args: '', description: 'Start QA review', confidence: 0.20, priority: 3 }
+        {
+          command: '*help',
+          args: '',
+          description: 'Show available commands',
+          confidence: 0.3,
+          priority: 1,
+        },
+        {
+          command: '*run-tests',
+          args: '',
+          description: 'Run test suite',
+          confidence: 0.25,
+          priority: 2,
+        },
+        {
+          command: '*review-qa',
+          args: '',
+          description: 'Start QA review',
+          confidence: 0.2,
+          priority: 3,
+        },
       ],
       sm: [
-        { command: '*help', args: '', description: 'Show available commands', confidence: 0.30, priority: 1 },
-        { command: '*create-next-story', args: '', description: 'Create next story', confidence: 0.25, priority: 2 },
-        { command: '*validate-story-draft', args: '', description: 'Validate story', confidence: 0.20, priority: 3 }
+        {
+          command: '*help',
+          args: '',
+          description: 'Show available commands',
+          confidence: 0.3,
+          priority: 1,
+        },
+        {
+          command: '*create-next-story',
+          args: '',
+          description: 'Create next story',
+          confidence: 0.25,
+          priority: 2,
+        },
+        {
+          command: '*validate-story-draft',
+          args: '',
+          description: 'Validate story',
+          confidence: 0.2,
+          priority: 3,
+        },
       ],
       default: [
-        { command: '*help', args: '', description: 'Show available commands', confidence: 0.30, priority: 1 },
-        { command: '*status', args: '', description: 'Show project status', confidence: 0.20, priority: 2 }
-      ]
+        {
+          command: '*help',
+          args: '',
+          description: 'Show available commands',
+          confidence: 0.3,
+          priority: 1,
+        },
+        {
+          command: '*status',
+          args: '',
+          description: 'Show project status',
+          confidence: 0.2,
+          priority: 2,
+        },
+      ],
     };
 
     return {
@@ -581,7 +775,7 @@ class SuggestionEngine {
       confidence: 0.25,
       suggestions: fallbacks[agent] || fallbacks.default,
       isUncertain: true,
-      message: 'Using fallback suggestions - context unclear'
+      message: 'Using fallback suggestions - context unclear',
     };
   }
 }
@@ -599,5 +793,5 @@ module.exports = {
   SuggestionEngine,
   createSuggestionEngine,
   SUGGESTION_CACHE_TTL,
-  LOW_CONFIDENCE_THRESHOLD
+  LOW_CONFIDENCE_THRESHOLD,
 };

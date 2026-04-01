@@ -1,0 +1,44 @@
+name: User Adoption & Behavior Design
+short_name: adoption-strategy
+version: 1.0.0
+description: |
+  Design for habit formation and behavior change.
+  2 phases, 2 weeks. Focuses on execution design.
+
+phases: 2
+duration_weeks: 2
+use_case: "How do we get users to adopt and return?"
+
+phases_list:
+  - phase: 6
+    week: 0
+    agent: nir-eyal
+    name: "Engagement Mechanics"
+    duration_hours: 8
+    tasks:
+      - "Design habit loops"
+      - "Identify engagement drivers"
+      - "Plan retention strategy"
+    output: "engagement-strategy.md"
+
+  - phase: 7
+    week: 1
+    agent: bj-fogg
+    name: "Behavior Change Design"
+    duration_hours: 8
+    tasks:
+      - "B=MAP analysis"
+      - "Friction reduction"
+      - "Execution design"
+    output: "execution-design.md"
+
+output_documents:
+  - "adoption-strategy-report.md"
+  - "habit-loop-design.md"
+  - "friction-reduction-roadmap.md"
+
+decision_point: "Can we get users to form habits?"
+prerequisites:
+  - "Must have clarity on what behavior to drive"
+  - "Should know customer motivation (from earlier research)"
+  - "Must identify current friction points"

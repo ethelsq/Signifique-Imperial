@@ -1,0 +1,257 @@
+name: Complete Market Entry Analysis
+short_name: market-entry-research
+version: 1.0.0
+description: |
+  End-to-end market research from brand clarity to execution.
+  8 phases, sequential pipeline. Total: 12 weeks.
+
+phases: 8
+duration_weeks: 12
+timeline:
+  - phase: 0
+    week: 0
+    agent: david-aaker
+    name: "Brand Strategy & Positioning"
+  - phase: 1
+    week: 1
+    agent: indy-young
+    name: "User Mental Models"
+  - phase: 2
+    week: 2
+    agent: michael-porter
+    name: "Market Structure Analysis"
+  - phase: 3
+    week: 3
+    agent: clayton-christensen
+    name: "Customer Demand Analysis"
+  - phase: 4
+    week: 4
+    agent: gerald-zaltman
+    name: "Emotional Drivers Research"
+  - phase: 5
+    weeks: "5-9"
+    agent: rita-mcgrath
+    name: "Assumption Testing & Validation"
+  - phase: 6
+    week: 10
+    agent: nir-eyal
+    name: "Engagement & Habit Design"
+  - phase: 7
+    week: 11
+    agent: bj-fogg
+    name: "Behavior Change Execution"
+
+tasks:
+  - id: "p0-brand-clarity"
+    title: "Phase 0: Brand Clarity"
+    agent: david-aaker
+    description: "Define brand vision, essence, and positioning"
+    deliverable: "brand-strategy.md"
+    duration_hours: 8
+    input_required:
+      - "Company/product description"
+      - "Current market position (if exists)"
+      - "Competitor landscape"
+    output_includes:
+      - "Brand vision elements (6-12)"
+      - "Brand essence (2-4 words)"
+      - "Strategic imperatives"
+      - "Decision gates"
+    success_criteria:
+      - "Brand vision is aspirational"
+      - "Proof points identified or strategic imperatives defined"
+      - "Team alignment on direction"
+    gate_question: "Is brand vision clear and strategically sound?"
+
+  - id: "p1-mental-models"
+    title: "Phase 1: Mental Models Mapping"
+    agent: indy-young
+    description: "Map user mental models and task-based segments"
+    deliverable: "mental-models.md"
+    duration_hours: 40
+    input_required:
+      - "Brand vision (from Phase 0)"
+      - "Target user descriptions"
+      - "Problem/domain understanding"
+    output_includes:
+      - "Mental model diagram (visual)"
+      - "Task-based segments (not demographic)"
+      - "User behavior patterns"
+      - "Design recommendations"
+    success_criteria:
+      - "Mental model is visual"
+      - "Tasks extracted from behavior (not preferences)"
+      - "Segments are task-based"
+      - "10-12 users interviewed"
+    gate_question: "Do we understand user mental models and key tasks?"
+    blockers_if_fail:
+      - "More interviews needed"
+      - "Refine segment definitions"
+      - "Interview different user types"
+
+  - id: "p2-market-structure"
+    title: "Phase 2: Market Structure Analysis"
+    agent: michael-porter
+    description: "Analyze Five Forces and market attractiveness"
+    deliverable: "market-structure.md"
+    duration_hours: 8
+    input_required:
+      - "Brand positioning (from Phase 0)"
+      - "User mental models (from Phase 1)"
+      - "Competitor list"
+      - "Industry data"
+    output_includes:
+      - "Five Forces diagram"
+      - "Industry structure assessment"
+      - "Competitive positioning options"
+      - "Market viability (YES/NO/CONDITIONAL)"
+    success_criteria:
+      - "All five forces analyzed"
+      - "Critical forces identified"
+      - "Clear YES/NO on viability"
+    gate_question: "Is this market structurally viable?"
+    if_fail: "Reconsider market choice or reframe positioning"
+
+  - id: "p3-customer-demand"
+    title: "Phase 3: Customer Demand Analysis"
+    agent: clayton-christensen
+    description: "Identify jobs to be done"
+    deliverable: "customer-demand.md"
+    duration_hours: 8
+    input_required:
+      - "Mental models (from Phase 1)"
+      - "Market structure (from Phase 2)"
+      - "Customer interviews/data"
+    output_includes:
+      - "Job statements (functional + emotional + social)"
+      - "Circumstance descriptions"
+      - "Competitive alternatives"
+      - "Switching triggers"
+    success_criteria:
+      - "Emotional job clearly identified"
+      - "Circumstance understood"
+      - "Competitive alternatives mapped"
+      - "Jobs align with mental models"
+    gate_question: "Do we have clear job clarity aligned with mental models?"
+
+  - id: "p4-emotional-drivers"
+    title: "Phase 4: Emotional Drivers Research"
+    agent: gerald-zaltman
+    description: "Uncover unconscious motivations"
+    deliverable: "emotional-drivers.md"
+    duration_hours: 12
+    input_required:
+      - "Customer demand (from Phase 3)"
+      - "8-10 customer interviews"
+      - "Images for metaphor elicitation"
+    output_includes:
+      - "Metaphor analysis"
+      - "Hidden motivations"
+      - "Emotional barriers"
+      - "Positioning insights"
+    success_criteria:
+      - "Metaphors consistent across participants"
+      - "Hidden motivations revealed"
+      - "Emotional positioning options clear"
+      - "Emotions align with stated jobs"
+    gate_question: "Do emotional insights align with stated jobs?"
+
+  - id: "p5-assumption-testing"
+    title: "Phase 5: Assumption Testing & Validation"
+    agent: rita-mcgrath
+    description: "Rank and test risky assumptions"
+    deliverable: "assumption-testing-plan.md"
+    duration_weeks: 5
+    input_required:
+      - "All previous findings"
+      - "Strategy assumptions"
+      - "Market constraints"
+    output_includes:
+      - "Ranked assumptions (high-risk first)"
+      - "Test designs"
+      - "Learning triggers"
+      - "Pivot rules"
+    success_criteria:
+      - "Top 3-5 assumptions tested"
+      - "Tests are real-world (not theoretical)"
+      - "Learning triggers clear"
+      - "Pivot rules defined"
+    gate_question: "Have riskiest assumptions been tested and validated?"
+    note: "This phase can run tests in parallel"
+
+  - id: "p6-engagement-design"
+    title: "Phase 6: Engagement & Habit Design"
+    agent: nir-eyal
+    description: "Design habit loops"
+    deliverable: "engagement-strategy.md"
+    duration_hours: 8
+    input_required:
+      - "Assumption tests (from Phase 5)"
+      - "User mental models (from Phase 1)"
+      - "Emotional drivers (from Phase 4)"
+    output_includes:
+      - "Habit loop diagrams"
+      - "Engagement metrics"
+      - "Retention drivers"
+      - "Friction points"
+    success_criteria:
+      - "Habit loop complete (all 4 stages)"
+      - "Trigger is reliable"
+      - "Action is easy"
+      - "Reward is meaningful"
+    gate_question: "Are habit loops designed to drive adoption?"
+
+  - id: "p7-behavior-change"
+    title: "Phase 7: Behavior Change Execution"
+    agent: bj-fogg
+    description: "Design friction reduction"
+    deliverable: "execution-design.md"
+    duration_hours: 8
+    input_required:
+      - "Engagement strategy (from Phase 6)"
+      - "All previous findings"
+      - "Current user behavior"
+    output_includes:
+      - "B=MAP analysis"
+      - "Friction reduction strategies"
+      - "Execution plan"
+      - "Measurement framework"
+    success_criteria:
+      - "Behavior is specific and measurable"
+      - "Limiting constraint identified"
+      - "Friction reduction targets main constraint"
+      - "Actual behavior change (not attitudes)"
+    gate_question: "Can we reduce friction to desired behavior?"
+
+output_documents:
+  - "market-entry-research-report.md" (Master synthesis)
+  - "executive-summary.md" (1-page)
+  - "decision-matrix.md" (Go/No-go)
+  - "30-day-action-plan.md" (First steps)
+
+success_criteria_workflow:
+  - "All 8 phases completed sequentially"
+  - "No gates fail (or failures resolved)"
+  - "All deliverables produced"
+  - "Integration document synthesizes all findings"
+  - "Clear GO/NO-GO decision on market"
+  - "If GO: clear 30-day action plan"
+
+integration_rules:
+  - "Each phase output informs next phase input"
+  - "No phases can be skipped"
+  - "Sequential only (except McGrath tests run parallel)"
+  - "Decision gates are mandatory"
+  - "If gate fails: loop back, don't proceed forward"
+
+next_steps_after:
+  - "Decision: Enter market or pivot?"
+  - "If GO: Pass to marketing-opes for execution"
+  - "If NO-GO: Alternative market analysis"
+  - "If CONDITIONAL: Resolve conditions first"
+
+version_history:
+  - version: 1.0.0
+    date: 2026-02-22
+    status: created
+    notes: "Initial workflow definition"

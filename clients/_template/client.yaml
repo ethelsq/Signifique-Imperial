@@ -1,0 +1,25 @@
+client:
+  name: "" # Nome do cliente
+  slug: "" # slug-em-kebab-case
+  contact: "" # Nome da pessoa de contato
+  email: ""
+  phone: ""
+  status: prospecting # prospecting | active | paused | completed
+  started: null
+  relationship: projeto # projeto | recorrente
+
+  billing:
+    model: project # project | retainer | hybrid
+    currency: BRL
+    payment_terms: ""
+
+  projects:
+    - slug: "" # nome-do-projeto
+      name: ""
+      description: ""
+      status: planning
+      squads: []
+      started: null
+      notes: ""
+
+  notes: ""
